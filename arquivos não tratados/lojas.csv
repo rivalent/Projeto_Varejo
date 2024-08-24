@@ -1,0 +1,4593 @@
+ID_Loja,Nome_Loja,Cidade,Pais,Regiao
+1,Loja 1,Berlim,China,Outros
+2,Loja 2,Berlim,França,Outros
+3,Loja 3,Johannesburg,Brasil,Centro-Oeste
+4,Loja 4,Tóquio,Espanha,Outros
+5,Loja 5,Nairobi,Espanha,Outros
+6,Loja 6,Cingapura,Peru,Outros
+7,Loja 7,Kuala Lumpur,Peru,Outros
+8,Loja 8,Nairobi,Rússia,Outros
+9,Loja 9,Cingapura,Estados Unidos,Sul
+10,Loja 10,Buenos Aires,Canadá,Quebec
+11,Loja 11,Katmandu,Portugal,Outros
+12,Loja 12,Berlim,México,Norte
+13,Loja 13,Kinshasa,Austrália,Outros
+14,Loja 14,Sydney,China,Outros
+15,Loja 15,Toronto,Coreia do Sul,Outros
+16,Loja 16,Jacarta,Peru,Outros
+17,Loja 17,São Paulo,Turquia,Outros
+18,Loja 18,Dakar,Rússia,Outros
+19,Loja 19,Sydney,Espanha,Outros
+20,Loja 20,Osaka,Turquia,Outros
+21,Loja 21,Cingapura,Espanha,Outros
+22,Loja 22,Paris,Estados Unidos,Meio-Oeste
+23,Loja 23,Colombo,França,Outros
+24,Loja 24,Osaka,Portugal,Outros
+25,Loja 25,Bangkok,Reino Unido,Outros
+26,Loja 26,Berlim,Estados Unidos,Oeste
+27,Loja 27,Seul,França,Outros
+28,Loja 28,Osaka,Turquia,Outros
+29,Loja 29,Kinshasa,Estados Unidos,Meio-Oeste
+30,Loja 30,Colombo,Rússia,Outros
+31,Loja 31,Dakar,Coreia do Sul,Outros
+32,Loja 32,Kinshasa,Portugal,Outros
+33,Loja 33,Nova Deli,Brasil,Nordeste
+34,Loja 34,Bangkok,Espanha,Outros
+35,Loja 35,Hong Kong,Alemanha,Outros
+36,Loja 36,Osaka,Peru,Outros
+37,Loja 37,Beirute,China,Outros
+38,Loja 38,Colombo,Portugal,Outros
+39,Loja 39,Dakar,Chile,Outros
+40,Loja 40,Doha,Alemanha,Outros
+41,Loja 41,Sydney,Turquia,Outros
+42,Loja 42,Hanói,Brasil,Sudeste
+43,Loja 43,Damasco,Brasil,Sudeste
+44,Loja 44,Taipei,Argentina,Outros
+45,Loja 45,Abu Dhabi,Argentina,Outros
+46,Loja 46,Pequim,Espanha,Outros
+47,Loja 47,Nairobi,China,Outros
+48,Loja 48,Cabul,Coreia do Sul,Outros
+49,Loja 49,Bogotá,Rússia,Outros
+50,Loja 50,Seul,Canadá,Manitoba
+51,Loja 51,Kinshasa,Austrália,Outros
+52,Loja 52,Doha,Chile,Outros
+53,Loja 53,Dakar,Chile,Outros
+54,Loja 54,Hong Kong,Índia,Outros
+55,Loja 55,Santiago,Chile,Outros
+56,Loja 56,Islamabad,Chile,Outros
+57,Loja 57,Hong Kong,França,Outros
+58,Loja 58,Bagdá,França,Outros
+59,Loja 59,Paris,Espanha,Outros
+60,Loja 60,Lagos,Itália,Outros
+61,Loja 61,Manila,Argentina,Outros
+62,Loja 62,Madri,México,Sul
+63,Loja 63,Riyadh,Argentina,Outros
+64,Loja 64,Riyadh,Brasil,Norte
+65,Loja 65,Berlim,Espanha,Outros
+66,Loja 66,Casablanca,Austrália,Outros
+67,Loja 67,Madri,Coreia do Sul,Outros
+68,Loja 68,Lagos,Canadá,Ontário
+69,Loja 69,Buenos Aires,México,Sul
+70,Loja 70,Dhaka,Alemanha,Outros
+71,Loja 71,Islamabad,Coreia do Sul,Outros
+72,Loja 72,Trípoli,Alemanha,Outros
+73,Loja 73,Phnom Penh,Espanha,Outros
+74,Loja 74,Doha,Chile,Outros
+75,Loja 75,Cingapura,Peru,Outros
+76,Loja 76,Madri,Itália,Outros
+77,Loja 77,Rio de Janeiro,Portugal,Outros
+78,Loja 78,Islamabad,México,Norte
+79,Loja 79,Beirute,Peru,Outros
+80,Loja 80,Seul,Reino Unido,Outros
+81,Loja 81,Cingapura,Estados Unidos,Oeste
+82,Loja 82,Yangon,Portugal,Outros
+83,Loja 83,Jerusalém,Austrália,Outros
+84,Loja 84,Sydney,Turquia,Outros
+85,Loja 85,Nova Deli,Estados Unidos,Oeste
+86,Loja 86,Hong Kong,Argentina,Outros
+87,Loja 87,Paris,Espanha,Outros
+88,Loja 88,Argel,Brasil,Sudeste
+89,Loja 89,Túnis,Brasil,Norte
+90,Loja 90,Bogotá,Rússia,Outros
+91,Loja 91,Bagdá,Austrália,Outros
+92,Loja 92,Casablanca,Estados Unidos,Nordeste
+93,Loja 93,Nova Deli,Turquia,Outros
+94,Loja 94,Roma,Brasil,Nordeste
+95,Loja 95,Doha,Argentina,Outros
+96,Loja 96,Bangkok,Japão,Outros
+97,Loja 97,Cidade do México,Alemanha,Outros
+98,Loja 98,Lagos,Espanha,Outros
+99,Loja 99,Jerusalém,Argentina,Outros
+100,Loja 100,Roma,Portugal,Outros
+101,Loja 101,Jerusalém,Brasil,Nordeste
+102,Loja 102,Lima,Chile,Outros
+103,Loja 103,Yangon,Índia,Outros
+104,Loja 104,Kuala Lumpur,Turquia,Outros
+105,Loja 105,Lagos,Espanha,Outros
+106,Loja 106,Abu Dhabi,Reino Unido,Outros
+107,Loja 107,Damasco,Rússia,Outros
+108,Loja 108,Santiago,Austrália,Outros
+109,Loja 109,Madri,Alemanha,Outros
+110,Loja 110,Katmandu,Itália,Outros
+111,Loja 111,Lagos,Peru,Outros
+112,Loja 112,Rio de Janeiro,Austrália,Outros
+113,Loja 113,Dhaka,Rússia,Outros
+114,Loja 114,Casablanca,Canadá,Quebec
+115,Loja 115,Manila,Alemanha,Outros
+116,Loja 116,Buenos Aires,Espanha,Outros
+117,Loja 117,Nova York,Rússia,Outros
+118,Loja 118,Islamabad,Peru,Outros
+119,Loja 119,São Paulo,Argentina,Outros
+120,Loja 120,Buenos Aires,Japão,Outros
+121,Loja 121,Pequim,Itália,Outros
+122,Loja 122,Colombo,Coreia do Sul,Outros
+123,Loja 123,Kuala Lumpur,China,Outros
+124,Loja 124,Trípoli,França,Outros
+125,Loja 125,Santiago,Coreia do Sul,Outros
+126,Loja 126,Berlim,Japão,Outros
+127,Loja 127,Tóquio,Estados Unidos,Oeste
+128,Loja 128,Dubai,Coreia do Sul,Outros
+129,Loja 129,Osaka,Estados Unidos,Meio-Oeste
+130,Loja 130,Argel,Argentina,Outros
+131,Loja 131,Kinshasa,Austrália,Outros
+132,Loja 132,Cingapura,Estados Unidos,Nordeste
+133,Loja 133,Katmandu,Argentina,Outros
+134,Loja 134,Dhaka,Japão,Outros
+135,Loja 135,Jacarta,Estados Unidos,Meio-Oeste
+136,Loja 136,Katmandu,Japão,Outros
+137,Loja 137,Nairobi,Argentina,Outros
+138,Loja 138,Amã,Austrália,Outros
+139,Loja 139,Bogotá,China,Outros
+140,Loja 140,Madri,Alemanha,Outros
+141,Loja 141,Buenos Aires,Austrália,Outros
+142,Loja 142,Nova Deli,Rússia,Outros
+143,Loja 143,Toronto,Portugal,Outros
+144,Loja 144,Madri,Argentina,Outros
+145,Loja 145,Lima,Coreia do Sul,Outros
+146,Loja 146,Jerusalém,Turquia,Outros
+147,Loja 147,Hong Kong,Canadá,Colúmbia Britânica
+148,Loja 148,Islamabad,Alemanha,Outros
+149,Loja 149,Phnom Penh,Portugal,Outros
+150,Loja 150,Jacarta,Reino Unido,Outros
+151,Loja 151,Damasco,Argentina,Outros
+152,Loja 152,Cidade do México,França,Outros
+153,Loja 153,Riyadh,Brasil,Centro-Oeste
+154,Loja 154,Tóquio,Alemanha,Outros
+155,Loja 155,Trípoli,Turquia,Outros
+156,Loja 156,Jerusalém,China,Outros
+157,Loja 157,Santiago,México,Sul
+158,Loja 158,Londres,Rússia,Outros
+159,Loja 159,Doha,Japão,Outros
+160,Loja 160,Tóquio,China,Outros
+161,Loja 161,Seul,Argentina,Outros
+162,Loja 162,Mumbai,França,Outros
+163,Loja 163,Damasco,Alemanha,Outros
+164,Loja 164,Nairobi,Peru,Outros
+165,Loja 165,Lagos,Canadá,Ontário
+166,Loja 166,Islamabad,Portugal,Outros
+167,Loja 167,Yangon,Turquia,Outros
+168,Loja 168,Riyadh,França,Outros
+169,Loja 169,Bagdá,Turquia,Outros
+170,Loja 170,Kyoto,Portugal,Outros
+171,Loja 171,Phnom Penh,Espanha,Outros
+172,Loja 172,Cairo,Chile,Outros
+173,Loja 173,Cidade do México,Portugal,Outros
+174,Loja 174,Trípoli,Brasil,Nordeste
+175,Loja 175,Johannesburg,Estados Unidos,Oeste
+176,Loja 176,Kyoto,Portugal,Outros
+177,Loja 177,Nairobi,Brasil,Nordeste
+178,Loja 178,Cairo,Japão,Outros
+179,Loja 179,Tóquio,Reino Unido,Outros
+180,Loja 180,Dhaka,México,Sudeste
+181,Loja 181,Kinshasa,China,Outros
+182,Loja 182,Santiago,Chile,Outros
+183,Loja 183,Jacarta,França,Outros
+184,Loja 184,Johannesburg,Peru,Outros
+185,Loja 185,Tóquio,Coreia do Sul,Outros
+186,Loja 186,Teerã,Portugal,Outros
+187,Loja 187,Beirute,Alemanha,Outros
+188,Loja 188,Kinshasa,Austrália,Outros
+189,Loja 189,Jerusalém,Turquia,Outros
+190,Loja 190,Tóquio,Reino Unido,Outros
+191,Loja 191,Yangon,Argentina,Outros
+192,Loja 192,Riyadh,Brasil,Centro-Oeste
+193,Loja 193,Bangkok,Coreia do Sul,Outros
+194,Loja 194,Kyoto,Portugal,Outros
+195,Loja 195,Osaka,Peru,Outros
+196,Loja 196,Los Angeles,México,Sul
+197,Loja 197,Lima,Chile,Outros
+198,Loja 198,Katmandu,Japão,Outros
+199,Loja 199,Teerã,China,Outros
+200,Loja 200,Jacarta,Coreia do Sul,Outros
+201,Loja 201,São Paulo,Brasil,Sul
+202,Loja 202,Nova York,Reino Unido,Outros
+203,Loja 203,Moscou,Alemanha,Outros
+204,Loja 204,Manila,Argentina,Outros
+205,Loja 205,Cabul,Estados Unidos,Nordeste
+206,Loja 206,Kyoto,Portugal,Outros
+207,Loja 207,Mumbai,Reino Unido,Outros
+208,Loja 208,Tóquio,Peru,Outros
+209,Loja 209,Seul,Estados Unidos,Meio-Oeste
+210,Loja 210,Berlim,Austrália,Outros
+211,Loja 211,Rio de Janeiro,Portugal,Outros
+212,Loja 212,Istambul,França,Outros
+213,Loja 213,Istambul,Índia,Outros
+214,Loja 214,Beirute,Rússia,Outros
+215,Loja 215,Hong Kong,Coreia do Sul,Outros
+216,Loja 216,Jacarta,Coreia do Sul,Outros
+217,Loja 217,Trípoli,Portugal,Outros
+218,Loja 218,Argel,Austrália,Outros
+219,Loja 219,Londres,Austrália,Outros
+220,Loja 220,Abu Dhabi,Canadá,Quebec
+221,Loja 221,Beirute,Rússia,Outros
+222,Loja 222,Los Angeles,Japão,Outros
+223,Loja 223,Cairo,Argentina,Outros
+224,Loja 224,Doha,Índia,Outros
+225,Loja 225,Dhaka,Portugal,Outros
+226,Loja 226,Istambul,Chile,Outros
+227,Loja 227,Dhaka,China,Outros
+228,Loja 228,Johannesburg,Canadá,Ontário
+229,Loja 229,Johannesburg,Chile,Outros
+230,Loja 230,Cabul,Portugal,Outros
+231,Loja 231,Amã,Itália,Outros
+232,Loja 232,Colombo,Portugal,Outros
+233,Loja 233,Túnis,Alemanha,Outros
+234,Loja 234,Beirute,Japão,Outros
+235,Loja 235,Túnis,Rússia,Outros
+236,Loja 236,Dubai,Austrália,Outros
+237,Loja 237,Paris,Itália,Outros
+238,Loja 238,Seul,Reino Unido,Outros
+239,Loja 239,Bangkok,Turquia,Outros
+240,Loja 240,Berlim,China,Outros
+241,Loja 241,Moscou,China,Outros
+242,Loja 242,Kyoto,China,Outros
+243,Loja 243,Moscou,Japão,Outros
+244,Loja 244,Phnom Penh,Coreia do Sul,Outros
+245,Loja 245,Johannesburg,Brasil,Nordeste
+246,Loja 246,Manila,Turquia,Outros
+247,Loja 247,Santiago,Coreia do Sul,Outros
+248,Loja 248,Roma,Portugal,Outros
+249,Loja 249,Damasco,Chile,Outros
+250,Loja 250,Nova Deli,México,Centro
+251,Loja 251,Tóquio,Turquia,Outros
+252,Loja 252,Bogotá,Canadá,Ontário
+253,Loja 253,Argel,Itália,Outros
+254,Loja 254,Cabul,Espanha,Outros
+255,Loja 255,Beirute,Austrália,Outros
+256,Loja 256,Doha,Estados Unidos,Meio-Oeste
+257,Loja 257,Phnom Penh,Itália,Outros
+258,Loja 258,Bagdá,Brasil,Norte
+259,Loja 259,Istambul,Brasil,Sudeste
+260,Loja 260,Teerã,Argentina,Outros
+261,Loja 261,Túnis,Canadá,Ontário
+262,Loja 262,Kinshasa,México,Centro
+263,Loja 263,Dubai,Rússia,Outros
+264,Loja 264,Bogotá,França,Outros
+265,Loja 265,Hanói,China,Outros
+266,Loja 266,Santiago,Brasil,Sudeste
+267,Loja 267,Colombo,Turquia,Outros
+268,Loja 268,Nova Deli,Brasil,Sul
+269,Loja 269,Seul,Canadá,Colúmbia Britânica
+270,Loja 270,Doha,Reino Unido,Outros
+271,Loja 271,Phnom Penh,México,Sul
+272,Loja 272,Taipei,Índia,Outros
+273,Loja 273,Seul,Reino Unido,Outros
+274,Loja 274,Nova York,Chile,Outros
+275,Loja 275,Madri,Argentina,Outros
+276,Loja 276,Kinshasa,Estados Unidos,Meio-Oeste
+277,Loja 277,Tóquio,Turquia,Outros
+278,Loja 278,Hanói,Japão,Outros
+279,Loja 279,Amã,Peru,Outros
+280,Loja 280,Cairo,Chile,Outros
+281,Loja 281,Sydney,México,Norte
+282,Loja 282,Colombo,México,Centro
+283,Loja 283,Jacarta,Austrália,Outros
+284,Loja 284,Cairo,Portugal,Outros
+285,Loja 285,Teerã,Coreia do Sul,Outros
+286,Loja 286,Jacarta,China,Outros
+287,Loja 287,Nova Deli,Argentina,Outros
+288,Loja 288,Tóquio,Coreia do Sul,Outros
+289,Loja 289,Mumbai,Argentina,Outros
+290,Loja 290,Lima,Brasil,Sul
+291,Loja 291,Taipei,Portugal,Outros
+292,Loja 292,Abu Dhabi,Coreia do Sul,Outros
+293,Loja 293,Riyadh,Itália,Outros
+294,Loja 294,Cidade do México,Portugal,Outros
+295,Loja 295,Riyadh,Coreia do Sul,Outros
+296,Loja 296,Buenos Aires,Argentina,Outros
+297,Loja 297,Johannesburg,Rússia,Outros
+298,Loja 298,Katmandu,Brasil,Norte
+299,Loja 299,Jacarta,Reino Unido,Outros
+300,Loja 300,Dhaka,Japão,Outros
+301,Loja 301,Dubai,Estados Unidos,Meio-Oeste
+302,Loja 302,Hong Kong,Índia,Outros
+303,Loja 303,Santiago,Chile,Outros
+304,Loja 304,Colombo,México,Sudeste
+305,Loja 305,Islamabad,China,Outros
+306,Loja 306,Colombo,Canadá,Alberta
+307,Loja 307,Nairobi,Portugal,Outros
+308,Loja 308,Kuala Lumpur,Estados Unidos,Sul
+309,Loja 309,Nova York,Argentina,Outros
+310,Loja 310,Cairo,Chile,Outros
+311,Loja 311,Casablanca,França,Outros
+312,Loja 312,Pequim,Turquia,Outros
+313,Loja 313,Abu Dhabi,Estados Unidos,Nordeste
+314,Loja 314,Kinshasa,Coreia do Sul,Outros
+315,Loja 315,Lima,Japão,Outros
+316,Loja 316,Bangkok,Peru,Outros
+317,Loja 317,Tóquio,Itália,Outros
+318,Loja 318,Cairo,China,Outros
+319,Loja 319,Colombo,Brasil,Nordeste
+320,Loja 320,Katmandu,Itália,Outros
+321,Loja 321,Santiago,Espanha,Outros
+322,Loja 322,Johannesburg,Espanha,Outros
+323,Loja 323,Pequim,México,Centro
+324,Loja 324,Los Angeles,China,Outros
+325,Loja 325,Damasco,Argentina,Outros
+326,Loja 326,Bagdá,China,Outros
+327,Loja 327,Jerusalém,Coreia do Sul,Outros
+328,Loja 328,Los Angeles,Austrália,Outros
+329,Loja 329,Seul,Estados Unidos,Oeste
+330,Loja 330,Seul,Rússia,Outros
+331,Loja 331,Pequim,França,Outros
+332,Loja 332,Dhaka,Argentina,Outros
+333,Loja 333,Kyoto,Rússia,Outros
+334,Loja 334,Los Angeles,Brasil,Sul
+335,Loja 335,Nova Deli,França,Outros
+336,Loja 336,Argel,Coreia do Sul,Outros
+337,Loja 337,Berlim,Japão,Outros
+338,Loja 338,Jacarta,Índia,Outros
+339,Loja 339,Tóquio,Reino Unido,Outros
+340,Loja 340,Manila,Reino Unido,Outros
+341,Loja 341,Kinshasa,Rússia,Outros
+342,Loja 342,Taipei,Canadá,Alberta
+343,Loja 343,Buenos Aires,Peru,Outros
+344,Loja 344,São Paulo,Rússia,Outros
+345,Loja 345,Paris,Alemanha,Outros
+346,Loja 346,Sydney,México,Norte
+347,Loja 347,Bogotá,México,Noroeste
+348,Loja 348,Abu Dhabi,Turquia,Outros
+349,Loja 349,Teerã,Peru,Outros
+350,Loja 350,Los Angeles,México,Norte
+351,Loja 351,Lagos,França,Outros
+352,Loja 352,Cingapura,Estados Unidos,Meio-Oeste
+353,Loja 353,Roma,Austrália,Outros
+354,Loja 354,Toronto,Itália,Outros
+355,Loja 355,Trípoli,Canadá,Quebec
+356,Loja 356,Dubai,Alemanha,Outros
+357,Loja 357,Manila,Reino Unido,Outros
+358,Loja 358,Hanói,Argentina,Outros
+359,Loja 359,Buenos Aires,Austrália,Outros
+360,Loja 360,Tóquio,Japão,Outros
+361,Loja 361,Sydney,Peru,Outros
+362,Loja 362,Los Angeles,México,Norte
+363,Loja 363,Cairo,Argentina,Outros
+364,Loja 364,Bagdá,Argentina,Outros
+365,Loja 365,Jerusalém,Portugal,Outros
+366,Loja 366,Dakar,Itália,Outros
+367,Loja 367,Berlim,Chile,Outros
+368,Loja 368,Jacarta,Turquia,Outros
+369,Loja 369,Seul,Argentina,Outros
+370,Loja 370,Lagos,Japão,Outros
+371,Loja 371,Bangkok,Brasil,Centro-Oeste
+372,Loja 372,Jerusalém,Japão,Outros
+373,Loja 373,Islamabad,Brasil,Sudeste
+374,Loja 374,Amã,Portugal,Outros
+375,Loja 375,Lagos,Japão,Outros
+376,Loja 376,Jacarta,Espanha,Outros
+377,Loja 377,Katmandu,Portugal,Outros
+378,Loja 378,Tóquio,Brasil,Sudeste
+379,Loja 379,Tóquio,Coreia do Sul,Outros
+380,Loja 380,Dubai,Itália,Outros
+381,Loja 381,Manila,Coreia do Sul,Outros
+382,Loja 382,Seul,Itália,Outros
+383,Loja 383,Berlim,Austrália,Outros
+384,Loja 384,Manila,Alemanha,Outros
+385,Loja 385,Bogotá,Espanha,Outros
+386,Loja 386,Nairobi,Reino Unido,Outros
+387,Loja 387,Nova Deli,Chile,Outros
+388,Loja 388,Bogotá,Japão,Outros
+389,Loja 389,Bogotá,Índia,Outros
+390,Loja 390,Argel,Estados Unidos,Meio-Oeste
+391,Loja 391,Argel,França,Outros
+392,Loja 392,Londres,Austrália,Outros
+393,Loja 393,Nairobi,Austrália,Outros
+394,Loja 394,Sydney,Brasil,Nordeste
+395,Loja 395,Seul,França,Outros
+396,Loja 396,Mumbai,Índia,Outros
+397,Loja 397,Riyadh,Chile,Outros
+398,Loja 398,Lima,México,Norte
+399,Loja 399,Kyoto,Reino Unido,Outros
+400,Loja 400,Sydney,Coreia do Sul,Outros
+401,Loja 401,Nova Deli,Rússia,Outros
+402,Loja 402,Tóquio,Alemanha,Outros
+403,Loja 403,Seul,China,Outros
+404,Loja 404,Cairo,Peru,Outros
+405,Loja 405,Abu Dhabi,Estados Unidos,Noroeste do Pacífico
+406,Loja 406,Dhaka,Austrália,Outros
+407,Loja 407,Teerã,Espanha,Outros
+408,Loja 408,Doha,França,Outros
+409,Loja 409,Seul,Índia,Outros
+410,Loja 410,Tóquio,Reino Unido,Outros
+411,Loja 411,Argel,Itália,Outros
+412,Loja 412,Teerã,Argentina,Outros
+413,Loja 413,Damasco,Canadá,Quebec
+414,Loja 414,Paris,Coreia do Sul,Outros
+415,Loja 415,Paris,Turquia,Outros
+416,Loja 416,Argel,Coreia do Sul,Outros
+417,Loja 417,Doha,Peru,Outros
+418,Loja 418,Amã,Peru,Outros
+419,Loja 419,Tóquio,Alemanha,Outros
+420,Loja 420,Lagos,Índia,Outros
+421,Loja 421,Nairobi,Portugal,Outros
+422,Loja 422,Túnis,França,Outros
+423,Loja 423,Casablanca,Peru,Outros
+424,Loja 424,Cairo,Chile,Outros
+425,Loja 425,Doha,México,Norte
+426,Loja 426,Amã,Peru,Outros
+427,Loja 427,Sydney,México,Norte
+428,Loja 428,Jacarta,Canadá,Manitoba
+429,Loja 429,Cairo,Japão,Outros
+430,Loja 430,Damasco,Itália,Outros
+431,Loja 431,Bangkok,Brasil,Sul
+432,Loja 432,Mumbai,Itália,Outros
+433,Loja 433,Buenos Aires,Alemanha,Outros
+434,Loja 434,Dakar,Peru,Outros
+435,Loja 435,Tóquio,Rússia,Outros
+436,Loja 436,Cairo,França,Outros
+437,Loja 437,Hong Kong,China,Outros
+438,Loja 438,Nairobi,Espanha,Outros
+439,Loja 439,Kuala Lumpur,França,Outros
+440,Loja 440,Cairo,Estados Unidos,Meio-Oeste
+441,Loja 441,Paris,Canadá,Ontário
+442,Loja 442,Abu Dhabi,Japão,Outros
+443,Loja 443,Bangkok,China,Outros
+444,Loja 444,Nova York,Portugal,Outros
+445,Loja 445,Madri,Turquia,Outros
+446,Loja 446,Túnis,Turquia,Outros
+447,Loja 447,Bangkok,China,Outros
+448,Loja 448,Bogotá,Japão,Outros
+449,Loja 449,Bagdá,Brasil,Sudeste
+450,Loja 450,Kuala Lumpur,Índia,Outros
+451,Loja 451,Buenos Aires,Coreia do Sul,Outros
+452,Loja 452,Hong Kong,Turquia,Outros
+453,Loja 453,Teerã,Japão,Outros
+454,Loja 454,Manila,Turquia,Outros
+455,Loja 455,Argel,Rússia,Outros
+456,Loja 456,Berlim,México,Norte
+457,Loja 457,Kinshasa,Portugal,Outros
+458,Loja 458,Beirute,Estados Unidos,Meio-Oeste
+459,Loja 459,Cabul,Turquia,Outros
+460,Loja 460,São Paulo,Índia,Outros
+461,Loja 461,Buenos Aires,Japão,Outros
+462,Loja 462,Johannesburg,Coreia do Sul,Outros
+463,Loja 463,Lagos,Alemanha,Outros
+464,Loja 464,Los Angeles,França,Outros
+465,Loja 465,Trípoli,Portugal,Outros
+466,Loja 466,Lagos,Argentina,Outros
+467,Loja 467,Kinshasa,Chile,Outros
+468,Loja 468,Nova Deli,Rússia,Outros
+469,Loja 469,Jerusalém,Brasil,Norte
+470,Loja 470,Jerusalém,Canadá,Quebec
+471,Loja 471,Cairo,Alemanha,Outros
+472,Loja 472,Pequim,França,Outros
+473,Loja 473,Moscou,Alemanha,Outros
+474,Loja 474,Sydney,Chile,Outros
+475,Loja 475,Nairobi,Peru,Outros
+476,Loja 476,Islamabad,Rússia,Outros
+477,Loja 477,Madri,Alemanha,Outros
+478,Loja 478,Katmandu,Argentina,Outros
+479,Loja 479,Cidade do México,Espanha,Outros
+480,Loja 480,Buenos Aires,Argentina,Outros
+481,Loja 481,Berlim,Itália,Outros
+482,Loja 482,Tóquio,Argentina,Outros
+483,Loja 483,Berlim,Índia,Outros
+484,Loja 484,Osaka,Brasil,Sul
+485,Loja 485,Casablanca,Rússia,Outros
+486,Loja 486,Seul,Austrália,Outros
+487,Loja 487,Bangkok,Austrália,Outros
+488,Loja 488,Phnom Penh,Argentina,Outros
+489,Loja 489,Seul,Alemanha,Outros
+490,Loja 490,Argel,Rússia,Outros
+491,Loja 491,Nova Deli,Índia,Outros
+492,Loja 492,Cairo,Peru,Outros
+493,Loja 493,Cingapura,Coreia do Sul,Outros
+494,Loja 494,Seul,México,Sudeste
+495,Loja 495,Manila,Japão,Outros
+496,Loja 496,Hong Kong,Canadá,Ontário
+497,Loja 497,Manila,Reino Unido,Outros
+498,Loja 498,Damasco,Rússia,Outros
+499,Loja 499,Yangon,Índia,Outros
+500,Loja 500,Jacarta,Japão,Outros
+501,Loja 501,Bogotá,Canadá,Colúmbia Britânica
+502,Loja 502,Bogotá,Brasil,Norte
+503,Loja 503,Casablanca,Estados Unidos,Noroeste do Pacífico
+504,Loja 504,Toronto,Argentina,Outros
+505,Loja 505,São Paulo,Estados Unidos,Noroeste do Pacífico
+506,Loja 506,Buenos Aires,Estados Unidos,Meio-Oeste
+507,Loja 507,Dubai,Rússia,Outros
+508,Loja 508,Nova Deli,Argentina,Outros
+509,Loja 509,Osaka,Austrália,Outros
+510,Loja 510,Jerusalém,Canadá,Ontário
+511,Loja 511,São Paulo,Estados Unidos,Oeste
+512,Loja 512,Tóquio,Canadá,Ontário
+513,Loja 513,Túnis,Brasil,Sudeste
+514,Loja 514,Jerusalém,Argentina,Outros
+515,Loja 515,Jerusalém,Rússia,Outros
+516,Loja 516,Seul,Portugal,Outros
+517,Loja 517,Trípoli,Peru,Outros
+518,Loja 518,Doha,Turquia,Outros
+519,Loja 519,Istambul,Japão,Outros
+520,Loja 520,Nova Deli,México,Sudeste
+521,Loja 521,Hanói,Alemanha,Outros
+522,Loja 522,Bogotá,Portugal,Outros
+523,Loja 523,Katmandu,Peru,Outros
+524,Loja 524,Yangon,Espanha,Outros
+525,Loja 525,Nova Deli,Canadá,Quebec
+526,Loja 526,Osaka,Estados Unidos,Meio-Oeste
+527,Loja 527,Moscou,França,Outros
+528,Loja 528,Londres,Coreia do Sul,Outros
+529,Loja 529,Beirute,Austrália,Outros
+530,Loja 530,Abu Dhabi,Argentina,Outros
+531,Loja 531,Bogotá,Alemanha,Outros
+532,Loja 532,Doha,Chile,Outros
+533,Loja 533,Mumbai,Turquia,Outros
+534,Loja 534,Phnom Penh,Chile,Outros
+535,Loja 535,Moscou,Japão,Outros
+536,Loja 536,Osaka,Turquia,Outros
+537,Loja 537,São Paulo,Rússia,Outros
+538,Loja 538,Santiago,Espanha,Outros
+539,Loja 539,Berlim,Estados Unidos,Sul
+540,Loja 540,Sydney,Peru,Outros
+541,Loja 541,Yangon,China,Outros
+542,Loja 542,Sydney,Estados Unidos,Meio-Oeste
+543,Loja 543,Moscou,Brasil,Sudeste
+544,Loja 544,Nova York,França,Outros
+545,Loja 545,Santiago,Estados Unidos,Nordeste
+546,Loja 546,Cairo,Japão,Outros
+547,Loja 547,Abu Dhabi,China,Outros
+548,Loja 548,Hanói,Espanha,Outros
+549,Loja 549,Dubai,Canadá,Quebec
+550,Loja 550,Manila,Austrália,Outros
+551,Loja 551,Osaka,Índia,Outros
+552,Loja 552,Cairo,Peru,Outros
+553,Loja 553,Osaka,Reino Unido,Outros
+554,Loja 554,Amã,Alemanha,Outros
+555,Loja 555,Kinshasa,Rússia,Outros
+556,Loja 556,Dakar,Portugal,Outros
+557,Loja 557,Túnis,México,Sul
+558,Loja 558,Argel,Estados Unidos,Nordeste
+559,Loja 559,Moscou,Rússia,Outros
+560,Loja 560,Túnis,Turquia,Outros
+561,Loja 561,Teerã,Portugal,Outros
+562,Loja 562,Nova Deli,Reino Unido,Outros
+563,Loja 563,Jacarta,Austrália,Outros
+564,Loja 564,Rio de Janeiro,China,Outros
+565,Loja 565,Tóquio,Austrália,Outros
+566,Loja 566,Amã,Japão,Outros
+567,Loja 567,Colombo,Brasil,Norte
+568,Loja 568,Rio de Janeiro,Brasil,Sudeste
+569,Loja 569,Cingapura,Austrália,Outros
+570,Loja 570,Osaka,Portugal,Outros
+571,Loja 571,Cairo,Portugal,Outros
+572,Loja 572,Nova Deli,Peru,Outros
+573,Loja 573,Johannesburg,Chile,Outros
+574,Loja 574,Moscou,Reino Unido,Outros
+575,Loja 575,Dakar,Chile,Outros
+576,Loja 576,Trípoli,China,Outros
+577,Loja 577,Seul,Reino Unido,Outros
+578,Loja 578,Bagdá,Itália,Outros
+579,Loja 579,Seul,Rússia,Outros
+580,Loja 580,Colombo,Portugal,Outros
+581,Loja 581,Colombo,Espanha,Outros
+582,Loja 582,Jacarta,Estados Unidos,Meio-Oeste
+583,Loja 583,Tóquio,Portugal,Outros
+584,Loja 584,Cidade do México,Austrália,Outros
+585,Loja 585,Dakar,Peru,Outros
+586,Loja 586,Taipei,Itália,Outros
+587,Loja 587,Hong Kong,China,Outros
+588,Loja 588,Casablanca,Rússia,Outros
+589,Loja 589,Buenos Aires,França,Outros
+590,Loja 590,Seul,Turquia,Outros
+591,Loja 591,Cabul,Austrália,Outros
+592,Loja 592,Berlim,Turquia,Outros
+593,Loja 593,Londres,Chile,Outros
+594,Loja 594,Moscou,Rússia,Outros
+595,Loja 595,Yangon,Argentina,Outros
+596,Loja 596,Roma,Estados Unidos,Oeste
+597,Loja 597,Toronto,China,Outros
+598,Loja 598,Cingapura,China,Outros
+599,Loja 599,Taipei,Argentina,Outros
+600,Loja 600,Istambul,França,Outros
+601,Loja 601,Trípoli,Portugal,Outros
+602,Loja 602,Tóquio,Portugal,Outros
+603,Loja 603,Doha,Estados Unidos,Meio-Oeste
+604,Loja 604,Dubai,Argentina,Outros
+605,Loja 605,Phnom Penh,Estados Unidos,Sul
+606,Loja 606,Hanói,México,Centro
+607,Loja 607,Tóquio,Estados Unidos,Meio-Oeste
+608,Loja 608,Madri,Brasil,Sul
+609,Loja 609,Kyoto,Itália,Outros
+610,Loja 610,Rio de Janeiro,Japão,Outros
+611,Loja 611,Jacarta,França,Outros
+612,Loja 612,Taipei,Brasil,Sudeste
+613,Loja 613,Doha,Alemanha,Outros
+614,Loja 614,Damasco,França,Outros
+615,Loja 615,Damasco,França,Outros
+616,Loja 616,Los Angeles,Chile,Outros
+617,Loja 617,Cabul,Estados Unidos,Sul
+618,Loja 618,Mumbai,Coreia do Sul,Outros
+619,Loja 619,Madri,Brasil,Norte
+620,Loja 620,Sydney,China,Outros
+621,Loja 621,Pequim,Alemanha,Outros
+622,Loja 622,Cabul,Alemanha,Outros
+623,Loja 623,Seul,Coreia do Sul,Outros
+624,Loja 624,Bogotá,Austrália,Outros
+625,Loja 625,Rio de Janeiro,Austrália,Outros
+626,Loja 626,Berlim,Espanha,Outros
+627,Loja 627,Santiago,Alemanha,Outros
+628,Loja 628,Bangkok,Portugal,Outros
+629,Loja 629,Cairo,Austrália,Outros
+630,Loja 630,São Paulo,Itália,Outros
+631,Loja 631,Pequim,Turquia,Outros
+632,Loja 632,Mumbai,Brasil,Sul
+633,Loja 633,Nairobi,Japão,Outros
+634,Loja 634,Berlim,México,Centro
+635,Loja 635,Nova York,Turquia,Outros
+636,Loja 636,Phnom Penh,Canadá,Alberta
+637,Loja 637,Tóquio,México,Centro
+638,Loja 638,Londres,China,Outros
+639,Loja 639,Seul,Japão,Outros
+640,Loja 640,Jerusalém,Espanha,Outros
+641,Loja 641,Beirute,México,Noroeste
+642,Loja 642,Mumbai,Japão,Outros
+643,Loja 643,Mumbai,Portugal,Outros
+644,Loja 644,Los Angeles,França,Outros
+645,Loja 645,Nova York,Espanha,Outros
+646,Loja 646,Hong Kong,Brasil,Sudeste
+647,Loja 647,Riyadh,Turquia,Outros
+648,Loja 648,Seul,Chile,Outros
+649,Loja 649,Kuala Lumpur,Japão,Outros
+650,Loja 650,Lima,Estados Unidos,Nordeste
+651,Loja 651,Santiago,China,Outros
+652,Loja 652,Lagos,Coreia do Sul,Outros
+653,Loja 653,Casablanca,Brasil,Sudeste
+654,Loja 654,Cingapura,Estados Unidos,Sul
+655,Loja 655,Hong Kong,Turquia,Outros
+656,Loja 656,Nairobi,França,Outros
+657,Loja 657,Moscou,França,Outros
+658,Loja 658,Pequim,Canadá,Quebec
+659,Loja 659,Nairobi,Canadá,Colúmbia Britânica
+660,Loja 660,Trípoli,Itália,Outros
+661,Loja 661,Osaka,França,Outros
+662,Loja 662,Bogotá,Argentina,Outros
+663,Loja 663,Madri,Peru,Outros
+664,Loja 664,Cingapura,Portugal,Outros
+665,Loja 665,Madri,Alemanha,Outros
+666,Loja 666,Mumbai,Alemanha,Outros
+667,Loja 667,Nova Deli,Itália,Outros
+668,Loja 668,Riyadh,Portugal,Outros
+669,Loja 669,Dakar,Turquia,Outros
+670,Loja 670,Hanói,Reino Unido,Outros
+671,Loja 671,Trípoli,Coreia do Sul,Outros
+672,Loja 672,Paris,China,Outros
+673,Loja 673,Nova York,Peru,Outros
+674,Loja 674,Riyadh,Índia,Outros
+675,Loja 675,São Paulo,Austrália,Outros
+676,Loja 676,Rio de Janeiro,Itália,Outros
+677,Loja 677,Teerã,França,Outros
+678,Loja 678,Seul,Argentina,Outros
+679,Loja 679,Bogotá,Reino Unido,Outros
+680,Loja 680,Manila,Coreia do Sul,Outros
+681,Loja 681,Sydney,Argentina,Outros
+682,Loja 682,Amã,Índia,Outros
+683,Loja 683,Bangkok,Índia,Outros
+684,Loja 684,Nairobi,Índia,Outros
+685,Loja 685,Argel,Estados Unidos,Sul
+686,Loja 686,Casablanca,Índia,Outros
+687,Loja 687,Kyoto,Chile,Outros
+688,Loja 688,Lagos,Peru,Outros
+689,Loja 689,São Paulo,Alemanha,Outros
+690,Loja 690,Jerusalém,Brasil,Nordeste
+691,Loja 691,Islamabad,Brasil,Sudeste
+692,Loja 692,Londres,México,Noroeste
+693,Loja 693,Hanói,Alemanha,Outros
+694,Loja 694,Tóquio,China,Outros
+695,Loja 695,Nova York,Portugal,Outros
+696,Loja 696,Mumbai,Reino Unido,Outros
+697,Loja 697,Cidade do México,Espanha,Outros
+698,Loja 698,Nairobi,China,Outros
+699,Loja 699,Seul,Chile,Outros
+700,Loja 700,Beirute,Alemanha,Outros
+701,Loja 701,Johannesburg,Rússia,Outros
+702,Loja 702,Londres,México,Centro
+703,Loja 703,Argel,Coreia do Sul,Outros
+704,Loja 704,Cingapura,Japão,Outros
+705,Loja 705,Cairo,França,Outros
+706,Loja 706,Katmandu,México,Noroeste
+707,Loja 707,Hanói,Austrália,Outros
+708,Loja 708,Dhaka,Peru,Outros
+709,Loja 709,Cingapura,Reino Unido,Outros
+710,Loja 710,Seul,China,Outros
+711,Loja 711,Roma,Espanha,Outros
+712,Loja 712,Osaka,Portugal,Outros
+713,Loja 713,Osaka,Espanha,Outros
+714,Loja 714,Bagdá,Coreia do Sul,Outros
+715,Loja 715,Moscou,México,Noroeste
+716,Loja 716,Moscou,Argentina,Outros
+717,Loja 717,Teerã,China,Outros
+718,Loja 718,Toronto,Itália,Outros
+719,Loja 719,Cabul,Peru,Outros
+720,Loja 720,Seul,Alemanha,Outros
+721,Loja 721,Osaka,Coreia do Sul,Outros
+722,Loja 722,Rio de Janeiro,Canadá,Alberta
+723,Loja 723,Doha,Japão,Outros
+724,Loja 724,Seul,México,Noroeste
+725,Loja 725,Colombo,México,Noroeste
+726,Loja 726,São Paulo,Alemanha,Outros
+727,Loja 727,Santiago,Espanha,Outros
+728,Loja 728,Bogotá,Argentina,Outros
+729,Loja 729,Jacarta,Argentina,Outros
+730,Loja 730,Doha,Itália,Outros
+731,Loja 731,Taipei,Portugal,Outros
+732,Loja 732,Osaka,Estados Unidos,Nordeste
+733,Loja 733,Hanói,Estados Unidos,Sul
+734,Loja 734,Rio de Janeiro,Estados Unidos,Meio-Oeste
+735,Loja 735,Yangon,Argentina,Outros
+736,Loja 736,Tóquio,Rússia,Outros
+737,Loja 737,Damasco,Chile,Outros
+738,Loja 738,Cairo,Índia,Outros
+739,Loja 739,Riyadh,Austrália,Outros
+740,Loja 740,Santiago,Argentina,Outros
+741,Loja 741,Dubai,Austrália,Outros
+742,Loja 742,Teerã,Chile,Outros
+743,Loja 743,Cingapura,Coreia do Sul,Outros
+744,Loja 744,Hong Kong,Peru,Outros
+745,Loja 745,Kuala Lumpur,Rússia,Outros
+746,Loja 746,Roma,Canadá,Alberta
+747,Loja 747,Seul,Argentina,Outros
+748,Loja 748,Pequim,Espanha,Outros
+749,Loja 749,Toronto,Japão,Outros
+750,Loja 750,Buenos Aires,Turquia,Outros
+751,Loja 751,Yangon,Austrália,Outros
+752,Loja 752,Cairo,França,Outros
+753,Loja 753,Los Angeles,Alemanha,Outros
+754,Loja 754,Bagdá,Brasil,Nordeste
+755,Loja 755,Rio de Janeiro,Espanha,Outros
+756,Loja 756,Kuala Lumpur,Turquia,Outros
+757,Loja 757,Jacarta,Brasil,Centro-Oeste
+758,Loja 758,Jacarta,Espanha,Outros
+759,Loja 759,Berlim,Índia,Outros
+760,Loja 760,Dubai,Espanha,Outros
+761,Loja 761,Dubai,Itália,Outros
+762,Loja 762,Colombo,Brasil,Nordeste
+763,Loja 763,Jerusalém,Itália,Outros
+764,Loja 764,Trípoli,China,Outros
+765,Loja 765,Cabul,México,Sul
+766,Loja 766,Nova Deli,Canadá,Quebec
+767,Loja 767,Nairobi,Espanha,Outros
+768,Loja 768,Nova Deli,México,Sudeste
+769,Loja 769,Dakar,Portugal,Outros
+770,Loja 770,Casablanca,Chile,Outros
+771,Loja 771,Teerã,Espanha,Outros
+772,Loja 772,Santiago,Portugal,Outros
+773,Loja 773,Jerusalém,China,Outros
+774,Loja 774,Taipei,Canadá,Alberta
+775,Loja 775,Nairobi,Alemanha,Outros
+776,Loja 776,Casablanca,Índia,Outros
+777,Loja 777,Lima,Estados Unidos,Meio-Oeste
+778,Loja 778,Manila,Coreia do Sul,Outros
+779,Loja 779,Nairobi,Peru,Outros
+780,Loja 780,Kyoto,Peru,Outros
+781,Loja 781,Madri,Itália,Outros
+782,Loja 782,Manila,Brasil,Centro-Oeste
+783,Loja 783,Abu Dhabi,Japão,Outros
+784,Loja 784,Dakar,Índia,Outros
+785,Loja 785,Yangon,Estados Unidos,Noroeste do Pacífico
+786,Loja 786,Manila,China,Outros
+787,Loja 787,Istambul,Estados Unidos,Meio-Oeste
+788,Loja 788,Kinshasa,Japão,Outros
+789,Loja 789,Abu Dhabi,Peru,Outros
+790,Loja 790,Istambul,China,Outros
+791,Loja 791,Phnom Penh,Índia,Outros
+792,Loja 792,Manila,Reino Unido,Outros
+793,Loja 793,Madri,França,Outros
+794,Loja 794,Seul,Estados Unidos,Meio-Oeste
+795,Loja 795,Dakar,Estados Unidos,Sul
+796,Loja 796,Roma,Turquia,Outros
+797,Loja 797,Seul,Chile,Outros
+798,Loja 798,Johannesburg,Chile,Outros
+799,Loja 799,Cabul,Austrália,Outros
+800,Loja 800,Sydney,Canadá,Alberta
+801,Loja 801,Teerã,Brasil,Norte
+802,Loja 802,Kinshasa,China,Outros
+803,Loja 803,Manila,França,Outros
+804,Loja 804,Johannesburg,Espanha,Outros
+805,Loja 805,São Paulo,Japão,Outros
+806,Loja 806,Toronto,Turquia,Outros
+807,Loja 807,Doha,Japão,Outros
+808,Loja 808,Damasco,Espanha,Outros
+809,Loja 809,Santiago,Índia,Outros
+810,Loja 810,Dubai,Portugal,Outros
+811,Loja 811,Santiago,Brasil,Nordeste
+812,Loja 812,Rio de Janeiro,Reino Unido,Outros
+813,Loja 813,Bangkok,Alemanha,Outros
+814,Loja 814,Bangkok,Turquia,Outros
+815,Loja 815,Osaka,Turquia,Outros
+816,Loja 816,Kuala Lumpur,Brasil,Sul
+817,Loja 817,Yangon,Índia,Outros
+818,Loja 818,Katmandu,Brasil,Centro-Oeste
+819,Loja 819,Kuala Lumpur,Canadá,Colúmbia Britânica
+820,Loja 820,Nova Deli,Espanha,Outros
+821,Loja 821,Tóquio,Turquia,Outros
+822,Loja 822,Cabul,Estados Unidos,Oeste
+823,Loja 823,Londres,Rússia,Outros
+824,Loja 824,Seul,Brasil,Centro-Oeste
+825,Loja 825,Nairobi,Portugal,Outros
+826,Loja 826,Kuala Lumpur,Espanha,Outros
+827,Loja 827,Rio de Janeiro,Turquia,Outros
+828,Loja 828,Beirute,Portugal,Outros
+829,Loja 829,Istambul,Alemanha,Outros
+830,Loja 830,Roma,Canadá,Alberta
+831,Loja 831,Cairo,Argentina,Outros
+832,Loja 832,Hanói,China,Outros
+833,Loja 833,Seul,Brasil,Sudeste
+834,Loja 834,Kyoto,Portugal,Outros
+835,Loja 835,Jacarta,Itália,Outros
+836,Loja 836,Colombo,França,Outros
+837,Loja 837,Cidade do México,Itália,Outros
+838,Loja 838,Tóquio,França,Outros
+839,Loja 839,Casablanca,Coreia do Sul,Outros
+840,Loja 840,Paris,Austrália,Outros
+841,Loja 841,Riyadh,Peru,Outros
+842,Loja 842,Dubai,Espanha,Outros
+843,Loja 843,Lima,Estados Unidos,Sul
+844,Loja 844,Bogotá,Portugal,Outros
+845,Loja 845,Hanói,México,Norte
+846,Loja 846,Kyoto,Japão,Outros
+847,Loja 847,Johannesburg,Chile,Outros
+848,Loja 848,Doha,México,Sul
+849,Loja 849,Islamabad,Índia,Outros
+850,Loja 850,Colombo,Chile,Outros
+851,Loja 851,Dhaka,México,Sudeste
+852,Loja 852,Seul,Peru,Outros
+853,Loja 853,Amã,Turquia,Outros
+854,Loja 854,Colombo,Chile,Outros
+855,Loja 855,Islamabad,Turquia,Outros
+856,Loja 856,Cairo,Índia,Outros
+857,Loja 857,Casablanca,México,Sul
+858,Loja 858,Colombo,Austrália,Outros
+859,Loja 859,Hong Kong,Brasil,Sul
+860,Loja 860,Pequim,Rússia,Outros
+861,Loja 861,Nova York,Coreia do Sul,Outros
+862,Loja 862,Los Angeles,Alemanha,Outros
+863,Loja 863,Toronto,Espanha,Outros
+864,Loja 864,Moscou,China,Outros
+865,Loja 865,Kuala Lumpur,Turquia,Outros
+866,Loja 866,Bagdá,Japão,Outros
+867,Loja 867,Damasco,Japão,Outros
+868,Loja 868,Doha,Japão,Outros
+869,Loja 869,Los Angeles,Portugal,Outros
+870,Loja 870,Pequim,Alemanha,Outros
+871,Loja 871,Roma,Canadá,Manitoba
+872,Loja 872,Nova Deli,Canadá,Colúmbia Britânica
+873,Loja 873,Cabul,Japão,Outros
+874,Loja 874,Osaka,México,Norte
+875,Loja 875,Bagdá,Turquia,Outros
+876,Loja 876,Tóquio,Portugal,Outros
+877,Loja 877,Berlim,China,Outros
+878,Loja 878,Osaka,Coreia do Sul,Outros
+879,Loja 879,Abu Dhabi,Alemanha,Outros
+880,Loja 880,Cabul,Argentina,Outros
+881,Loja 881,Roma,Japão,Outros
+882,Loja 882,Dhaka,Austrália,Outros
+883,Loja 883,Phnom Penh,Alemanha,Outros
+884,Loja 884,Sydney,Canadá,Manitoba
+885,Loja 885,Katmandu,França,Outros
+886,Loja 886,Lima,Peru,Outros
+887,Loja 887,Rio de Janeiro,Índia,Outros
+888,Loja 888,Beirute,Chile,Outros
+889,Loja 889,Rio de Janeiro,México,Norte
+890,Loja 890,Beirute,Chile,Outros
+891,Loja 891,Casablanca,Espanha,Outros
+892,Loja 892,Phnom Penh,Brasil,Norte
+893,Loja 893,Moscou,Índia,Outros
+894,Loja 894,Hanói,Itália,Outros
+895,Loja 895,Nova Deli,Alemanha,Outros
+896,Loja 896,Jacarta,Coreia do Sul,Outros
+897,Loja 897,Sydney,México,Sudeste
+898,Loja 898,Toronto,Coreia do Sul,Outros
+899,Loja 899,Damasco,Peru,Outros
+900,Loja 900,Londres,Chile,Outros
+901,Loja 901,Jacarta,Estados Unidos,Meio-Oeste
+902,Loja 902,Casablanca,México,Sudeste
+903,Loja 903,Cairo,Argentina,Outros
+904,Loja 904,Amã,Chile,Outros
+905,Loja 905,Nova Deli,Argentina,Outros
+906,Loja 906,Jacarta,México,Sudeste
+907,Loja 907,Sydney,Japão,Outros
+908,Loja 908,Katmandu,Chile,Outros
+909,Loja 909,São Paulo,Chile,Outros
+910,Loja 910,Dakar,Estados Unidos,Meio-Oeste
+911,Loja 911,Bogotá,Portugal,Outros
+912,Loja 912,Dakar,Índia,Outros
+913,Loja 913,Seul,México,Sul
+914,Loja 914,Paris,México,Noroeste
+915,Loja 915,Lima,Brasil,Sul
+916,Loja 916,Madri,Estados Unidos,Meio-Oeste
+917,Loja 917,Argel,Argentina,Outros
+918,Loja 918,Mumbai,Chile,Outros
+919,Loja 919,Cairo,França,Outros
+920,Loja 920,Colombo,Reino Unido,Outros
+921,Loja 921,Cidade do México,Rússia,Outros
+922,Loja 922,Argel,Austrália,Outros
+923,Loja 923,Santiago,Turquia,Outros
+924,Loja 924,Mumbai,Rússia,Outros
+925,Loja 925,Berlim,Espanha,Outros
+926,Loja 926,Bogotá,China,Outros
+927,Loja 927,Sydney,Japão,Outros
+928,Loja 928,Casablanca,Itália,Outros
+929,Loja 929,Katmandu,Itália,Outros
+930,Loja 930,Cairo,Coreia do Sul,Outros
+931,Loja 931,Lima,Japão,Outros
+932,Loja 932,Teerã,Reino Unido,Outros
+933,Loja 933,Berlim,Coreia do Sul,Outros
+934,Loja 934,Santiago,México,Norte
+935,Loja 935,Dakar,Estados Unidos,Meio-Oeste
+936,Loja 936,Katmandu,Chile,Outros
+937,Loja 937,Cabul,Argentina,Outros
+938,Loja 938,Hong Kong,Coreia do Sul,Outros
+939,Loja 939,Tóquio,Chile,Outros
+940,Loja 940,Manila,Reino Unido,Outros
+941,Loja 941,Hong Kong,Japão,Outros
+942,Loja 942,Taipei,Índia,Outros
+943,Loja 943,Santiago,Canadá,Ontário
+944,Loja 944,Dakar,Espanha,Outros
+945,Loja 945,Doha,Portugal,Outros
+946,Loja 946,Kyoto,Austrália,Outros
+947,Loja 947,Nova York,Chile,Outros
+948,Loja 948,Amã,Canadá,Quebec
+949,Loja 949,Damasco,Argentina,Outros
+950,Loja 950,Colombo,Portugal,Outros
+951,Loja 951,Teerã,Brasil,Nordeste
+952,Loja 952,Nairobi,China,Outros
+953,Loja 953,Pequim,Espanha,Outros
+954,Loja 954,Hong Kong,Brasil,Sul
+955,Loja 955,Taipei,Brasil,Norte
+956,Loja 956,Colombo,França,Outros
+957,Loja 957,Paris,Chile,Outros
+958,Loja 958,Lagos,Brasil,Norte
+959,Loja 959,Bangkok,Estados Unidos,Sul
+960,Loja 960,Seul,Alemanha,Outros
+961,Loja 961,Madri,Argentina,Outros
+962,Loja 962,Cidade do México,Itália,Outros
+963,Loja 963,Bogotá,Espanha,Outros
+964,Loja 964,Kinshasa,Alemanha,Outros
+965,Loja 965,Islamabad,Portugal,Outros
+966,Loja 966,Túnis,Canadá,Alberta
+967,Loja 967,Berlim,Rússia,Outros
+968,Loja 968,Bagdá,Alemanha,Outros
+969,Loja 969,Yangon,Turquia,Outros
+970,Loja 970,Kinshasa,Chile,Outros
+971,Loja 971,Kinshasa,Argentina,Outros
+972,Loja 972,Seul,Argentina,Outros
+973,Loja 973,Hanói,Rússia,Outros
+974,Loja 974,Dhaka,Canadá,Colúmbia Britânica
+975,Loja 975,Dhaka,Estados Unidos,Oeste
+976,Loja 976,Manila,Japão,Outros
+977,Loja 977,Tóquio,Índia,Outros
+978,Loja 978,Berlim,Brasil,Norte
+979,Loja 979,Lima,Portugal,Outros
+980,Loja 980,Londres,Chile,Outros
+981,Loja 981,Teerã,Rússia,Outros
+982,Loja 982,Beirute,Brasil,Sudeste
+983,Loja 983,Dubai,França,Outros
+984,Loja 984,Dubai,Reino Unido,Outros
+985,Loja 985,Santiago,França,Outros
+986,Loja 986,Jacarta,Itália,Outros
+987,Loja 987,Abu Dhabi,Alemanha,Outros
+988,Loja 988,Jacarta,Reino Unido,Outros
+989,Loja 989,Seul,Coreia do Sul,Outros
+990,Loja 990,Rio de Janeiro,Espanha,Outros
+991,Loja 991,Cairo,México,Noroeste
+992,Loja 992,Nova York,Espanha,Outros
+993,Loja 993,Sydney,Rússia,Outros
+994,Loja 994,Rio de Janeiro,Canadá,Colúmbia Britânica
+995,Loja 995,Bogotá,Índia,Outros
+996,Loja 996,Túnis,Índia,Outros
+997,Loja 997,Istambul,Reino Unido,Outros
+998,Loja 998,Kuala Lumpur,Coreia do Sul,Outros
+999,Loja 999,Londres,Coreia do Sul,Outros
+1000,Loja 1000,Yangon,China,Outros
+1001,Loja 1001,Seul,Portugal,Outros
+1002,Loja 1002,Toronto,China,Outros
+1003,Loja 1003,Lima,Alemanha,Outros
+1004,Loja 1004,Bogotá,Alemanha,Outros
+1005,Loja 1005,Cingapura,Portugal,Outros
+1006,Loja 1006,Beirute,Turquia,Outros
+1007,Loja 1007,Cairo,México,Centro
+1008,Loja 1008,Roma,Rússia,Outros
+1009,Loja 1009,Kinshasa,Peru,Outros
+1010,Loja 1010,Hong Kong,Itália,Outros
+1011,Loja 1011,Katmandu,Japão,Outros
+1012,Loja 1012,Paris,Brasil,Nordeste
+1013,Loja 1013,Dakar,Portugal,Outros
+1014,Loja 1014,Manila,Espanha,Outros
+1015,Loja 1015,Bangkok,Chile,Outros
+1016,Loja 1016,Istambul,Austrália,Outros
+1017,Loja 1017,Seul,Argentina,Outros
+1018,Loja 1018,Lagos,México,Centro
+1019,Loja 1019,Nova Deli,Brasil,Sul
+1020,Loja 1020,Katmandu,Brasil,Sul
+1021,Loja 1021,Toronto,Turquia,Outros
+1022,Loja 1022,Cingapura,Canadá,Colúmbia Britânica
+1023,Loja 1023,Mumbai,Itália,Outros
+1024,Loja 1024,Kuala Lumpur,Coreia do Sul,Outros
+1025,Loja 1025,Moscou,Canadá,Ontário
+1026,Loja 1026,Beirute,Peru,Outros
+1027,Loja 1027,Toronto,Estados Unidos,Nordeste
+1028,Loja 1028,Johannesburg,México,Centro
+1029,Loja 1029,Hong Kong,Turquia,Outros
+1030,Loja 1030,Seul,Turquia,Outros
+1031,Loja 1031,Dhaka,Rússia,Outros
+1032,Loja 1032,Nova York,Rússia,Outros
+1033,Loja 1033,Jacarta,Estados Unidos,Nordeste
+1034,Loja 1034,Beirute,Portugal,Outros
+1035,Loja 1035,Osaka,Turquia,Outros
+1036,Loja 1036,Seul,França,Outros
+1037,Loja 1037,Hong Kong,Argentina,Outros
+1038,Loja 1038,Toronto,México,Norte
+1039,Loja 1039,Mumbai,Brasil,Centro-Oeste
+1040,Loja 1040,Jacarta,Turquia,Outros
+1041,Loja 1041,Jacarta,Peru,Outros
+1042,Loja 1042,Sydney,Chile,Outros
+1043,Loja 1043,Rio de Janeiro,Reino Unido,Outros
+1044,Loja 1044,Sydney,Argentina,Outros
+1045,Loja 1045,Rio de Janeiro,China,Outros
+1046,Loja 1046,Madri,China,Outros
+1047,Loja 1047,Casablanca,Turquia,Outros
+1048,Loja 1048,Tóquio,Alemanha,Outros
+1049,Loja 1049,Kyoto,Rússia,Outros
+1050,Loja 1050,Roma,Austrália,Outros
+1051,Loja 1051,Taipei,Estados Unidos,Oeste
+1052,Loja 1052,Lagos,Rússia,Outros
+1053,Loja 1053,Tóquio,Japão,Outros
+1054,Loja 1054,Yangon,Argentina,Outros
+1055,Loja 1055,Madri,Estados Unidos,Sul
+1056,Loja 1056,Sydney,Canadá,Ontário
+1057,Loja 1057,Doha,China,Outros
+1058,Loja 1058,Madri,Peru,Outros
+1059,Loja 1059,Tóquio,Itália,Outros
+1060,Loja 1060,Amã,França,Outros
+1061,Loja 1061,Dubai,Austrália,Outros
+1062,Loja 1062,Bagdá,México,Sul
+1063,Loja 1063,Rio de Janeiro,Estados Unidos,Noroeste do Pacífico
+1064,Loja 1064,Sydney,Coreia do Sul,Outros
+1065,Loja 1065,Amã,China,Outros
+1066,Loja 1066,Roma,Portugal,Outros
+1067,Loja 1067,Toronto,Reino Unido,Outros
+1068,Loja 1068,Roma,Itália,Outros
+1069,Loja 1069,Teerã,Portugal,Outros
+1070,Loja 1070,Johannesburg,México,Noroeste
+1071,Loja 1071,Tóquio,Itália,Outros
+1072,Loja 1072,Cingapura,Espanha,Outros
+1073,Loja 1073,Doha,Coreia do Sul,Outros
+1074,Loja 1074,Seul,China,Outros
+1075,Loja 1075,Kinshasa,França,Outros
+1076,Loja 1076,Cairo,Índia,Outros
+1077,Loja 1077,Damasco,Turquia,Outros
+1078,Loja 1078,Cidade do México,Chile,Outros
+1079,Loja 1079,Cabul,Chile,Outros
+1080,Loja 1080,Berlim,Índia,Outros
+1081,Loja 1081,Jacarta,Japão,Outros
+1082,Loja 1082,Phnom Penh,México,Centro
+1083,Loja 1083,Sydney,Argentina,Outros
+1084,Loja 1084,Dubai,Estados Unidos,Noroeste do Pacífico
+1085,Loja 1085,Santiago,Coreia do Sul,Outros
+1086,Loja 1086,São Paulo,Espanha,Outros
+1087,Loja 1087,Cingapura,China,Outros
+1088,Loja 1088,Seul,Peru,Outros
+1089,Loja 1089,Roma,Índia,Outros
+1090,Loja 1090,Riyadh,Peru,Outros
+1091,Loja 1091,Trípoli,Canadá,Manitoba
+1092,Loja 1092,Amã,Canadá,Ontário
+1093,Loja 1093,Cairo,Coreia do Sul,Outros
+1094,Loja 1094,Istambul,Índia,Outros
+1095,Loja 1095,Cairo,França,Outros
+1096,Loja 1096,Nova York,Japão,Outros
+1097,Loja 1097,Manila,Rússia,Outros
+1098,Loja 1098,Argel,França,Outros
+1099,Loja 1099,Rio de Janeiro,Japão,Outros
+1100,Loja 1100,Johannesburg,Argentina,Outros
+1101,Loja 1101,Casablanca,Japão,Outros
+1102,Loja 1102,Argel,México,Sudeste
+1103,Loja 1103,Argel,Chile,Outros
+1104,Loja 1104,Cabul,Brasil,Norte
+1105,Loja 1105,Johannesburg,Peru,Outros
+1106,Loja 1106,Toronto,Reino Unido,Outros
+1107,Loja 1107,Jerusalém,Estados Unidos,Noroeste do Pacífico
+1108,Loja 1108,Riyadh,Estados Unidos,Meio-Oeste
+1109,Loja 1109,Katmandu,Turquia,Outros
+1110,Loja 1110,Cabul,Alemanha,Outros
+1111,Loja 1111,Istambul,Peru,Outros
+1112,Loja 1112,Jerusalém,Portugal,Outros
+1113,Loja 1113,Doha,China,Outros
+1114,Loja 1114,Mumbai,Chile,Outros
+1115,Loja 1115,Cairo,Canadá,Ontário
+1116,Loja 1116,Bangkok,Rússia,Outros
+1117,Loja 1117,Jerusalém,Índia,Outros
+1118,Loja 1118,Lima,Índia,Outros
+1119,Loja 1119,Lagos,Alemanha,Outros
+1120,Loja 1120,Tóquio,Itália,Outros
+1121,Loja 1121,Manila,México,Centro
+1122,Loja 1122,Colombo,França,Outros
+1123,Loja 1123,Berlim,Chile,Outros
+1124,Loja 1124,Dubai,Austrália,Outros
+1125,Loja 1125,Phnom Penh,Canadá,Ontário
+1126,Loja 1126,Hanói,Estados Unidos,Meio-Oeste
+1127,Loja 1127,Seul,México,Norte
+1128,Loja 1128,Buenos Aires,Alemanha,Outros
+1129,Loja 1129,Colombo,Coreia do Sul,Outros
+1130,Loja 1130,Roma,Chile,Outros
+1131,Loja 1131,Moscou,Argentina,Outros
+1132,Loja 1132,Colombo,Alemanha,Outros
+1133,Loja 1133,Santiago,Reino Unido,Outros
+1134,Loja 1134,Osaka,Estados Unidos,Sul
+1135,Loja 1135,Paris,Argentina,Outros
+1136,Loja 1136,Tóquio,Japão,Outros
+1137,Loja 1137,Dhaka,França,Outros
+1138,Loja 1138,Seul,Alemanha,Outros
+1139,Loja 1139,Toronto,México,Norte
+1140,Loja 1140,Taipei,China,Outros
+1141,Loja 1141,Dakar,Rússia,Outros
+1142,Loja 1142,Paris,Turquia,Outros
+1143,Loja 1143,Madri,Chile,Outros
+1144,Loja 1144,Katmandu,Reino Unido,Outros
+1145,Loja 1145,Tóquio,México,Centro
+1146,Loja 1146,Argel,Chile,Outros
+1147,Loja 1147,Jerusalém,China,Outros
+1148,Loja 1148,Bagdá,Portugal,Outros
+1149,Loja 1149,Casablanca,Argentina,Outros
+1150,Loja 1150,Buenos Aires,Estados Unidos,Oeste
+1151,Loja 1151,Phnom Penh,Argentina,Outros
+1152,Loja 1152,Kyoto,Rússia,Outros
+1153,Loja 1153,Jerusalém,Rússia,Outros
+1154,Loja 1154,Cingapura,China,Outros
+1155,Loja 1155,Cairo,Reino Unido,Outros
+1156,Loja 1156,Tóquio,China,Outros
+1157,Loja 1157,Lagos,Rússia,Outros
+1158,Loja 1158,Seul,Canadá,Quebec
+1159,Loja 1159,Amã,Rússia,Outros
+1160,Loja 1160,Tóquio,Rússia,Outros
+1161,Loja 1161,São Paulo,Turquia,Outros
+1162,Loja 1162,Manila,Brasil,Norte
+1163,Loja 1163,Kyoto,Reino Unido,Outros
+1164,Loja 1164,Santiago,França,Outros
+1165,Loja 1165,Colombo,Portugal,Outros
+1166,Loja 1166,Lima,Espanha,Outros
+1167,Loja 1167,Riyadh,Itália,Outros
+1168,Loja 1168,Osaka,Índia,Outros
+1169,Loja 1169,Pequim,Chile,Outros
+1170,Loja 1170,Los Angeles,Canadá,Colúmbia Britânica
+1171,Loja 1171,Rio de Janeiro,Reino Unido,Outros
+1172,Loja 1172,Lima,Reino Unido,Outros
+1173,Loja 1173,Colombo,Argentina,Outros
+1174,Loja 1174,Beirute,Itália,Outros
+1175,Loja 1175,Osaka,Austrália,Outros
+1176,Loja 1176,Berlim,Itália,Outros
+1177,Loja 1177,Santiago,Rússia,Outros
+1178,Loja 1178,Roma,Peru,Outros
+1179,Loja 1179,Beirute,Japão,Outros
+1180,Loja 1180,Túnis,Índia,Outros
+1181,Loja 1181,Kuala Lumpur,Austrália,Outros
+1182,Loja 1182,Dubai,Canadá,Ontário
+1183,Loja 1183,Islamabad,Austrália,Outros
+1184,Loja 1184,Riyadh,México,Norte
+1185,Loja 1185,Lagos,Brasil,Centro-Oeste
+1186,Loja 1186,Doha,Coreia do Sul,Outros
+1187,Loja 1187,Roma,Turquia,Outros
+1188,Loja 1188,Túnis,Japão,Outros
+1189,Loja 1189,Damasco,China,Outros
+1190,Loja 1190,Yangon,Itália,Outros
+1191,Loja 1191,Los Angeles,México,Noroeste
+1192,Loja 1192,Bangkok,Estados Unidos,Nordeste
+1193,Loja 1193,Bangkok,França,Outros
+1194,Loja 1194,Casablanca,México,Centro
+1195,Loja 1195,Seul,Estados Unidos,Sul
+1196,Loja 1196,Casablanca,Reino Unido,Outros
+1197,Loja 1197,Seul,Coreia do Sul,Outros
+1198,Loja 1198,Bogotá,Coreia do Sul,Outros
+1199,Loja 1199,Mumbai,Argentina,Outros
+1200,Loja 1200,Kyoto,Alemanha,Outros
+1201,Loja 1201,Johannesburg,França,Outros
+1202,Loja 1202,Damasco,França,Outros
+1203,Loja 1203,Dakar,Coreia do Sul,Outros
+1204,Loja 1204,Argel,Espanha,Outros
+1205,Loja 1205,Paris,Japão,Outros
+1206,Loja 1206,Kuala Lumpur,Índia,Outros
+1207,Loja 1207,Bagdá,Coreia do Sul,Outros
+1208,Loja 1208,Amã,Coreia do Sul,Outros
+1209,Loja 1209,Lagos,Rússia,Outros
+1210,Loja 1210,Santiago,Turquia,Outros
+1211,Loja 1211,Hanói,Reino Unido,Outros
+1212,Loja 1212,Riyadh,Espanha,Outros
+1213,Loja 1213,Johannesburg,Argentina,Outros
+1214,Loja 1214,Katmandu,França,Outros
+1215,Loja 1215,Túnis,Espanha,Outros
+1216,Loja 1216,Kyoto,Espanha,Outros
+1217,Loja 1217,Osaka,Peru,Outros
+1218,Loja 1218,Cidade do México,Turquia,Outros
+1219,Loja 1219,Nova York,Argentina,Outros
+1220,Loja 1220,Bangkok,China,Outros
+1221,Loja 1221,Argel,Coreia do Sul,Outros
+1222,Loja 1222,Cairo,Canadá,Ontário
+1223,Loja 1223,Riyadh,Japão,Outros
+1224,Loja 1224,Yangon,Argentina,Outros
+1225,Loja 1225,Paris,México,Noroeste
+1226,Loja 1226,Pequim,Chile,Outros
+1227,Loja 1227,Teerã,Peru,Outros
+1228,Loja 1228,Rio de Janeiro,França,Outros
+1229,Loja 1229,Abu Dhabi,Índia,Outros
+1230,Loja 1230,Beirute,Peru,Outros
+1231,Loja 1231,Buenos Aires,França,Outros
+1232,Loja 1232,Cabul,Austrália,Outros
+1233,Loja 1233,Kinshasa,Portugal,Outros
+1234,Loja 1234,Kyoto,Portugal,Outros
+1235,Loja 1235,Kuala Lumpur,Espanha,Outros
+1236,Loja 1236,Riyadh,Turquia,Outros
+1237,Loja 1237,Islamabad,Chile,Outros
+1238,Loja 1238,Madri,Espanha,Outros
+1239,Loja 1239,Bagdá,Chile,Outros
+1240,Loja 1240,Casablanca,Peru,Outros
+1241,Loja 1241,Santiago,Alemanha,Outros
+1242,Loja 1242,Londres,Rússia,Outros
+1243,Loja 1243,Argel,Austrália,Outros
+1244,Loja 1244,Kuala Lumpur,Coreia do Sul,Outros
+1245,Loja 1245,Nairobi,Coreia do Sul,Outros
+1246,Loja 1246,Hong Kong,Turquia,Outros
+1247,Loja 1247,Damasco,Índia,Outros
+1248,Loja 1248,Lima,Argentina,Outros
+1249,Loja 1249,Tóquio,México,Sul
+1250,Loja 1250,Islamabad,China,Outros
+1251,Loja 1251,Jacarta,Coreia do Sul,Outros
+1252,Loja 1252,Kuala Lumpur,China,Outros
+1253,Loja 1253,Santiago,Argentina,Outros
+1254,Loja 1254,Sydney,Austrália,Outros
+1255,Loja 1255,Los Angeles,Canadá,Ontário
+1256,Loja 1256,Abu Dhabi,Índia,Outros
+1257,Loja 1257,Kyoto,Alemanha,Outros
+1258,Loja 1258,Dhaka,Canadá,Manitoba
+1259,Loja 1259,Madri,Itália,Outros
+1260,Loja 1260,Amã,Japão,Outros
+1261,Loja 1261,Osaka,Itália,Outros
+1262,Loja 1262,Osaka,Índia,Outros
+1263,Loja 1263,Doha,Japão,Outros
+1264,Loja 1264,Argel,Itália,Outros
+1265,Loja 1265,Johannesburg,México,Sudeste
+1266,Loja 1266,Rio de Janeiro,Brasil,Sul
+1267,Loja 1267,Nairobi,Estados Unidos,Noroeste do Pacífico
+1268,Loja 1268,Kyoto,Reino Unido,Outros
+1269,Loja 1269,Teerã,Peru,Outros
+1270,Loja 1270,Amã,Índia,Outros
+1271,Loja 1271,Los Angeles,México,Sul
+1272,Loja 1272,Teerã,Canadá,Alberta
+1273,Loja 1273,Roma,Reino Unido,Outros
+1274,Loja 1274,Hong Kong,Canadá,Colúmbia Britânica
+1275,Loja 1275,Rio de Janeiro,México,Noroeste
+1276,Loja 1276,Doha,México,Sul
+1277,Loja 1277,Dhaka,Brasil,Nordeste
+1278,Loja 1278,Taipei,Argentina,Outros
+1279,Loja 1279,Lagos,Turquia,Outros
+1280,Loja 1280,Riyadh,Argentina,Outros
+1281,Loja 1281,São Paulo,França,Outros
+1282,Loja 1282,Islamabad,Coreia do Sul,Outros
+1283,Loja 1283,Cairo,Japão,Outros
+1284,Loja 1284,Madri,Portugal,Outros
+1285,Loja 1285,Jacarta,China,Outros
+1286,Loja 1286,Trípoli,França,Outros
+1287,Loja 1287,Katmandu,China,Outros
+1288,Loja 1288,Nairobi,Índia,Outros
+1289,Loja 1289,Amã,Chile,Outros
+1290,Loja 1290,São Paulo,França,Outros
+1291,Loja 1291,Riyadh,Austrália,Outros
+1292,Loja 1292,Jacarta,Rússia,Outros
+1293,Loja 1293,Dakar,Reino Unido,Outros
+1294,Loja 1294,Toronto,Espanha,Outros
+1295,Loja 1295,Moscou,Índia,Outros
+1296,Loja 1296,Pequim,Coreia do Sul,Outros
+1297,Loja 1297,Istambul,Canadá,Manitoba
+1298,Loja 1298,Paris,Austrália,Outros
+1299,Loja 1299,Seul,Chile,Outros
+1300,Loja 1300,Katmandu,Coreia do Sul,Outros
+1301,Loja 1301,Kyoto,Japão,Outros
+1302,Loja 1302,Rio de Janeiro,Chile,Outros
+1303,Loja 1303,Bangkok,Espanha,Outros
+1304,Loja 1304,Lima,Canadá,Colúmbia Britânica
+1305,Loja 1305,Osaka,Japão,Outros
+1306,Loja 1306,Tóquio,Austrália,Outros
+1307,Loja 1307,São Paulo,Austrália,Outros
+1308,Loja 1308,Jacarta,Portugal,Outros
+1309,Loja 1309,Hong Kong,Alemanha,Outros
+1310,Loja 1310,Teerã,Peru,Outros
+1311,Loja 1311,Los Angeles,Espanha,Outros
+1312,Loja 1312,Roma,Espanha,Outros
+1313,Loja 1313,Buenos Aires,China,Outros
+1314,Loja 1314,Seul,Portugal,Outros
+1315,Loja 1315,Cingapura,Japão,Outros
+1316,Loja 1316,Bogotá,Reino Unido,Outros
+1317,Loja 1317,Moscou,Brasil,Nordeste
+1318,Loja 1318,Túnis,Índia,Outros
+1319,Loja 1319,Jerusalém,Espanha,Outros
+1320,Loja 1320,Lima,Reino Unido,Outros
+1321,Loja 1321,Cairo,China,Outros
+1322,Loja 1322,Bagdá,Espanha,Outros
+1323,Loja 1323,Dhaka,Itália,Outros
+1324,Loja 1324,Manila,Turquia,Outros
+1325,Loja 1325,Moscou,Turquia,Outros
+1326,Loja 1326,Londres,Reino Unido,Outros
+1327,Loja 1327,Bagdá,Coreia do Sul,Outros
+1328,Loja 1328,Riyadh,Rússia,Outros
+1329,Loja 1329,Istambul,Peru,Outros
+1330,Loja 1330,Sydney,Coreia do Sul,Outros
+1331,Loja 1331,Hong Kong,Reino Unido,Outros
+1332,Loja 1332,Seul,Peru,Outros
+1333,Loja 1333,Cairo,Itália,Outros
+1334,Loja 1334,Tóquio,Espanha,Outros
+1335,Loja 1335,Nova York,Turquia,Outros
+1336,Loja 1336,Bangkok,Chile,Outros
+1337,Loja 1337,Roma,Alemanha,Outros
+1338,Loja 1338,Seul,Rússia,Outros
+1339,Loja 1339,Kyoto,Chile,Outros
+1340,Loja 1340,Dhaka,Peru,Outros
+1341,Loja 1341,Lagos,Itália,Outros
+1342,Loja 1342,Cairo,França,Outros
+1343,Loja 1343,Yangon,Estados Unidos,Nordeste
+1344,Loja 1344,Berlim,Índia,Outros
+1345,Loja 1345,Dakar,Espanha,Outros
+1346,Loja 1346,Paris,Chile,Outros
+1347,Loja 1347,Taipei,Brasil,Sudeste
+1348,Loja 1348,Dakar,Reino Unido,Outros
+1349,Loja 1349,Paris,Austrália,Outros
+1350,Loja 1350,Hong Kong,Chile,Outros
+1351,Loja 1351,Bangkok,Espanha,Outros
+1352,Loja 1352,Hanói,Argentina,Outros
+1353,Loja 1353,Tóquio,Turquia,Outros
+1354,Loja 1354,Cabul,Chile,Outros
+1355,Loja 1355,Islamabad,Chile,Outros
+1356,Loja 1356,Yangon,Argentina,Outros
+1357,Loja 1357,Rio de Janeiro,Brasil,Nordeste
+1358,Loja 1358,Kyoto,Índia,Outros
+1359,Loja 1359,Taipei,Rússia,Outros
+1360,Loja 1360,Tóquio,Coreia do Sul,Outros
+1361,Loja 1361,Casablanca,Itália,Outros
+1362,Loja 1362,Doha,Portugal,Outros
+1363,Loja 1363,Nairobi,Austrália,Outros
+1364,Loja 1364,Argel,México,Noroeste
+1365,Loja 1365,Doha,China,Outros
+1366,Loja 1366,Argel,Chile,Outros
+1367,Loja 1367,Jerusalém,Itália,Outros
+1368,Loja 1368,Rio de Janeiro,Coreia do Sul,Outros
+1369,Loja 1369,Mumbai,Turquia,Outros
+1370,Loja 1370,Johannesburg,Chile,Outros
+1371,Loja 1371,Phnom Penh,Espanha,Outros
+1372,Loja 1372,Dhaka,Itália,Outros
+1373,Loja 1373,Jerusalém,Coreia do Sul,Outros
+1374,Loja 1374,Bangkok,Portugal,Outros
+1375,Loja 1375,Jacarta,Reino Unido,Outros
+1376,Loja 1376,Colombo,Itália,Outros
+1377,Loja 1377,Cingapura,Brasil,Norte
+1378,Loja 1378,Amã,França,Outros
+1379,Loja 1379,Mumbai,Austrália,Outros
+1380,Loja 1380,Colombo,Japão,Outros
+1381,Loja 1381,Túnis,Rússia,Outros
+1382,Loja 1382,Kyoto,Espanha,Outros
+1383,Loja 1383,Osaka,Chile,Outros
+1384,Loja 1384,Beirute,Índia,Outros
+1385,Loja 1385,Doha,Argentina,Outros
+1386,Loja 1386,Mumbai,Itália,Outros
+1387,Loja 1387,Sydney,Coreia do Sul,Outros
+1388,Loja 1388,Jacarta,Chile,Outros
+1389,Loja 1389,Berlim,México,Sudeste
+1390,Loja 1390,Buenos Aires,Índia,Outros
+1391,Loja 1391,Pequim,Austrália,Outros
+1392,Loja 1392,Bogotá,Reino Unido,Outros
+1393,Loja 1393,Cairo,Índia,Outros
+1394,Loja 1394,Los Angeles,México,Sul
+1395,Loja 1395,Teerã,Estados Unidos,Nordeste
+1396,Loja 1396,Cingapura,Coreia do Sul,Outros
+1397,Loja 1397,Bogotá,Reino Unido,Outros
+1398,Loja 1398,Doha,Canadá,Colúmbia Britânica
+1399,Loja 1399,Roma,Alemanha,Outros
+1400,Loja 1400,Lima,Japão,Outros
+1401,Loja 1401,Amã,Canadá,Alberta
+1402,Loja 1402,Kuala Lumpur,Espanha,Outros
+1403,Loja 1403,Tóquio,Estados Unidos,Noroeste do Pacífico
+1404,Loja 1404,Paris,Alemanha,Outros
+1405,Loja 1405,Damasco,Japão,Outros
+1406,Loja 1406,Johannesburg,Coreia do Sul,Outros
+1407,Loja 1407,Los Angeles,França,Outros
+1408,Loja 1408,Pequim,Coreia do Sul,Outros
+1409,Loja 1409,São Paulo,Alemanha,Outros
+1410,Loja 1410,Túnis,Canadá,Manitoba
+1411,Loja 1411,Trípoli,Argentina,Outros
+1412,Loja 1412,Teerã,França,Outros
+1413,Loja 1413,Buenos Aires,Rússia,Outros
+1414,Loja 1414,Buenos Aires,Argentina,Outros
+1415,Loja 1415,Santiago,Reino Unido,Outros
+1416,Loja 1416,Cabul,China,Outros
+1417,Loja 1417,Kuala Lumpur,Brasil,Sudeste
+1418,Loja 1418,Bogotá,Reino Unido,Outros
+1419,Loja 1419,Nova Deli,Japão,Outros
+1420,Loja 1420,Jacarta,Argentina,Outros
+1421,Loja 1421,Kinshasa,Brasil,Sudeste
+1422,Loja 1422,Jacarta,Brasil,Sudeste
+1423,Loja 1423,Roma,Peru,Outros
+1424,Loja 1424,Túnis,Chile,Outros
+1425,Loja 1425,Manila,Brasil,Nordeste
+1426,Loja 1426,Paris,Coreia do Sul,Outros
+1427,Loja 1427,Toronto,Chile,Outros
+1428,Loja 1428,Madri,Chile,Outros
+1429,Loja 1429,Bagdá,Chile,Outros
+1430,Loja 1430,Hong Kong,Turquia,Outros
+1431,Loja 1431,Teerã,Índia,Outros
+1432,Loja 1432,Hong Kong,Estados Unidos,Noroeste do Pacífico
+1433,Loja 1433,Madri,Turquia,Outros
+1434,Loja 1434,Amã,Reino Unido,Outros
+1435,Loja 1435,Hanói,Portugal,Outros
+1436,Loja 1436,Seul,Canadá,Colúmbia Britânica
+1437,Loja 1437,Yangon,Reino Unido,Outros
+1438,Loja 1438,Berlim,França,Outros
+1439,Loja 1439,Lima,Canadá,Manitoba
+1440,Loja 1440,Islamabad,Reino Unido,Outros
+1441,Loja 1441,Islamabad,Índia,Outros
+1442,Loja 1442,Jerusalém,Turquia,Outros
+1443,Loja 1443,Santiago,Chile,Outros
+1444,Loja 1444,Madri,Rússia,Outros
+1445,Loja 1445,Tóquio,Itália,Outros
+1446,Loja 1446,Londres,Coreia do Sul,Outros
+1447,Loja 1447,Amã,México,Centro
+1448,Loja 1448,Seul,Argentina,Outros
+1449,Loja 1449,Jacarta,China,Outros
+1450,Loja 1450,Paris,Turquia,Outros
+1451,Loja 1451,Colombo,Japão,Outros
+1452,Loja 1452,Islamabad,Peru,Outros
+1453,Loja 1453,Trípoli,Chile,Outros
+1454,Loja 1454,Lagos,Turquia,Outros
+1455,Loja 1455,Katmandu,Peru,Outros
+1456,Loja 1456,Riyadh,Itália,Outros
+1457,Loja 1457,Tóquio,Japão,Outros
+1458,Loja 1458,Rio de Janeiro,Austrália,Outros
+1459,Loja 1459,Cabul,Itália,Outros
+1460,Loja 1460,Kinshasa,França,Outros
+1461,Loja 1461,Johannesburg,Argentina,Outros
+1462,Loja 1462,Seul,Itália,Outros
+1463,Loja 1463,Buenos Aires,Reino Unido,Outros
+1464,Loja 1464,Paris,França,Outros
+1465,Loja 1465,Sydney,Itália,Outros
+1466,Loja 1466,Amã,Peru,Outros
+1467,Loja 1467,Los Angeles,Portugal,Outros
+1468,Loja 1468,Bangkok,Coreia do Sul,Outros
+1469,Loja 1469,Tóquio,Austrália,Outros
+1470,Loja 1470,Paris,Canadá,Alberta
+1471,Loja 1471,Tóquio,México,Sudeste
+1472,Loja 1472,Manila,Espanha,Outros
+1473,Loja 1473,Phnom Penh,Japão,Outros
+1474,Loja 1474,Casablanca,Brasil,Nordeste
+1475,Loja 1475,Nova York,Japão,Outros
+1476,Loja 1476,Colombo,Portugal,Outros
+1477,Loja 1477,Tóquio,Turquia,Outros
+1478,Loja 1478,Argel,México,Sudeste
+1479,Loja 1479,Hong Kong,Canadá,Manitoba
+1480,Loja 1480,Lagos,Peru,Outros
+1481,Loja 1481,Dhaka,Canadá,Colúmbia Britânica
+1482,Loja 1482,Teerã,Reino Unido,Outros
+1483,Loja 1483,Riyadh,Peru,Outros
+1484,Loja 1484,Doha,Alemanha,Outros
+1485,Loja 1485,Moscou,Chile,Outros
+1486,Loja 1486,Nova Deli,Itália,Outros
+1487,Loja 1487,Moscou,China,Outros
+1488,Loja 1488,Cairo,Estados Unidos,Sul
+1489,Loja 1489,Berlim,França,Outros
+1490,Loja 1490,Nairobi,Estados Unidos,Sul
+1491,Loja 1491,Doha,Estados Unidos,Sul
+1492,Loja 1492,Islamabad,Canadá,Colúmbia Britânica
+1493,Loja 1493,Phnom Penh,Japão,Outros
+1494,Loja 1494,Taipei,Itália,Outros
+1495,Loja 1495,Pequim,Argentina,Outros
+1496,Loja 1496,Lagos,Espanha,Outros
+1497,Loja 1497,Abu Dhabi,Portugal,Outros
+1498,Loja 1498,Istambul,Brasil,Nordeste
+1499,Loja 1499,Paris,Turquia,Outros
+1500,Loja 1500,Cidade do México,Índia,Outros
+1501,Loja 1501,Osaka,Argentina,Outros
+1502,Loja 1502,Dakar,Estados Unidos,Sul
+1503,Loja 1503,Phnom Penh,Reino Unido,Outros
+1504,Loja 1504,Yangon,Estados Unidos,Oeste
+1505,Loja 1505,Damasco,Coreia do Sul,Outros
+1506,Loja 1506,Dhaka,Argentina,Outros
+1507,Loja 1507,Phnom Penh,Estados Unidos,Noroeste do Pacífico
+1508,Loja 1508,Túnis,Portugal,Outros
+1509,Loja 1509,Argel,Reino Unido,Outros
+1510,Loja 1510,Cabul,Argentina,Outros
+1511,Loja 1511,Damasco,China,Outros
+1512,Loja 1512,Doha,Turquia,Outros
+1513,Loja 1513,Taipei,Argentina,Outros
+1514,Loja 1514,Cairo,Índia,Outros
+1515,Loja 1515,Argel,Alemanha,Outros
+1516,Loja 1516,Hanói,Chile,Outros
+1517,Loja 1517,Bangkok,França,Outros
+1518,Loja 1518,Casablanca,Austrália,Outros
+1519,Loja 1519,Bagdá,Turquia,Outros
+1520,Loja 1520,Santiago,Reino Unido,Outros
+1521,Loja 1521,Nairobi,Brasil,Centro-Oeste
+1522,Loja 1522,Trípoli,Portugal,Outros
+1523,Loja 1523,Beirute,Peru,Outros
+1524,Loja 1524,Amã,Coreia do Sul,Outros
+1525,Loja 1525,Nairobi,Portugal,Outros
+1526,Loja 1526,Katmandu,Coreia do Sul,Outros
+1527,Loja 1527,Mumbai,Coreia do Sul,Outros
+1528,Loja 1528,Paris,Espanha,Outros
+1529,Loja 1529,Islamabad,Alemanha,Outros
+1530,Loja 1530,Johannesburg,França,Outros
+1531,Loja 1531,Argel,Canadá,Colúmbia Britânica
+1532,Loja 1532,Túnis,Estados Unidos,Noroeste do Pacífico
+1533,Loja 1533,Cingapura,Turquia,Outros
+1534,Loja 1534,Toronto,China,Outros
+1535,Loja 1535,Nova York,Canadá,Manitoba
+1536,Loja 1536,São Paulo,Austrália,Outros
+1537,Loja 1537,Buenos Aires,Coreia do Sul,Outros
+1538,Loja 1538,Rio de Janeiro,Peru,Outros
+1539,Loja 1539,Nairobi,Reino Unido,Outros
+1540,Loja 1540,Nova York,Brasil,Centro-Oeste
+1541,Loja 1541,Istambul,México,Sudeste
+1542,Loja 1542,Lima,Espanha,Outros
+1543,Loja 1543,Damasco,Canadá,Alberta
+1544,Loja 1544,Cingapura,Argentina,Outros
+1545,Loja 1545,Argel,Reino Unido,Outros
+1546,Loja 1546,Kinshasa,Canadá,Ontário
+1547,Loja 1547,Jerusalém,China,Outros
+1548,Loja 1548,Roma,Brasil,Sudeste
+1549,Loja 1549,Abu Dhabi,Argentina,Outros
+1550,Loja 1550,Johannesburg,Japão,Outros
+1551,Loja 1551,Paris,Portugal,Outros
+1552,Loja 1552,Colombo,Rússia,Outros
+1553,Loja 1553,Paris,Canadá,Ontário
+1554,Loja 1554,Phnom Penh,Chile,Outros
+1555,Loja 1555,Paris,Espanha,Outros
+1556,Loja 1556,Johannesburg,Brasil,Norte
+1557,Loja 1557,Cidade do México,Alemanha,Outros
+1558,Loja 1558,Trípoli,Alemanha,Outros
+1559,Loja 1559,Amã,Estados Unidos,Sul
+1560,Loja 1560,Jacarta,Índia,Outros
+1561,Loja 1561,Santiago,Turquia,Outros
+1562,Loja 1562,Cairo,Austrália,Outros
+1563,Loja 1563,Johannesburg,Canadá,Quebec
+1564,Loja 1564,Nova York,Alemanha,Outros
+1565,Loja 1565,Riyadh,Alemanha,Outros
+1566,Loja 1566,Dakar,Coreia do Sul,Outros
+1567,Loja 1567,Yangon,Turquia,Outros
+1568,Loja 1568,Katmandu,Peru,Outros
+1569,Loja 1569,Tóquio,México,Sul
+1570,Loja 1570,Jacarta,Chile,Outros
+1571,Loja 1571,Cairo,Austrália,Outros
+1572,Loja 1572,Túnis,Coreia do Sul,Outros
+1573,Loja 1573,Lagos,Chile,Outros
+1574,Loja 1574,Rio de Janeiro,França,Outros
+1575,Loja 1575,Beirute,Itália,Outros
+1576,Loja 1576,Islamabad,Peru,Outros
+1577,Loja 1577,Dakar,Índia,Outros
+1578,Loja 1578,Dubai,Chile,Outros
+1579,Loja 1579,Bangkok,Peru,Outros
+1580,Loja 1580,Santiago,Chile,Outros
+1581,Loja 1581,Casablanca,Japão,Outros
+1582,Loja 1582,Islamabad,Chile,Outros
+1583,Loja 1583,Taipei,Argentina,Outros
+1584,Loja 1584,Madri,Itália,Outros
+1585,Loja 1585,Berlim,Chile,Outros
+1586,Loja 1586,Kuala Lumpur,Reino Unido,Outros
+1587,Loja 1587,Sydney,Canadá,Ontário
+1588,Loja 1588,Bangkok,Reino Unido,Outros
+1589,Loja 1589,Jerusalém,Índia,Outros
+1590,Loja 1590,Nairobi,Reino Unido,Outros
+1591,Loja 1591,Cairo,Rússia,Outros
+1592,Loja 1592,Berlim,Canadá,Manitoba
+1593,Loja 1593,Seul,Austrália,Outros
+1594,Loja 1594,Teerã,Canadá,Ontário
+1595,Loja 1595,Istambul,Espanha,Outros
+1596,Loja 1596,Cingapura,Japão,Outros
+1597,Loja 1597,Cairo,Alemanha,Outros
+1598,Loja 1598,Nova York,Rússia,Outros
+1599,Loja 1599,Argel,Estados Unidos,Sul
+1600,Loja 1600,Tóquio,Portugal,Outros
+1601,Loja 1601,Seul,Itália,Outros
+1602,Loja 1602,Casablanca,Japão,Outros
+1603,Loja 1603,Teerã,México,Sul
+1604,Loja 1604,Amã,Coreia do Sul,Outros
+1605,Loja 1605,Madri,França,Outros
+1606,Loja 1606,Los Angeles,Estados Unidos,Noroeste do Pacífico
+1607,Loja 1607,Pequim,Turquia,Outros
+1608,Loja 1608,Los Angeles,Turquia,Outros
+1609,Loja 1609,Casablanca,México,Centro
+1610,Loja 1610,Riyadh,Espanha,Outros
+1611,Loja 1611,Manila,China,Outros
+1612,Loja 1612,Seul,Espanha,Outros
+1613,Loja 1613,Rio de Janeiro,Rússia,Outros
+1614,Loja 1614,Bogotá,Brasil,Nordeste
+1615,Loja 1615,Taipei,Canadá,Quebec
+1616,Loja 1616,Dhaka,Coreia do Sul,Outros
+1617,Loja 1617,Kuala Lumpur,França,Outros
+1618,Loja 1618,Tóquio,Estados Unidos,Oeste
+1619,Loja 1619,Lagos,Espanha,Outros
+1620,Loja 1620,Santiago,Japão,Outros
+1621,Loja 1621,Kinshasa,México,Sudeste
+1622,Loja 1622,Seul,Japão,Outros
+1623,Loja 1623,Lagos,México,Sudeste
+1624,Loja 1624,Phnom Penh,Peru,Outros
+1625,Loja 1625,Tóquio,Estados Unidos,Sul
+1626,Loja 1626,Seul,Peru,Outros
+1627,Loja 1627,Istambul,Coreia do Sul,Outros
+1628,Loja 1628,Dubai,China,Outros
+1629,Loja 1629,Pequim,México,Sudeste
+1630,Loja 1630,Phnom Penh,Brasil,Norte
+1631,Loja 1631,Argel,Peru,Outros
+1632,Loja 1632,Damasco,Reino Unido,Outros
+1633,Loja 1633,Teerã,Coreia do Sul,Outros
+1634,Loja 1634,Istambul,Peru,Outros
+1635,Loja 1635,Berlim,Portugal,Outros
+1636,Loja 1636,Kyoto,França,Outros
+1637,Loja 1637,Damasco,China,Outros
+1638,Loja 1638,Teerã,Austrália,Outros
+1639,Loja 1639,Seul,Austrália,Outros
+1640,Loja 1640,Nova Deli,Chile,Outros
+1641,Loja 1641,Bagdá,Portugal,Outros
+1642,Loja 1642,Buenos Aires,Rússia,Outros
+1643,Loja 1643,Beirute,Japão,Outros
+1644,Loja 1644,Yangon,Chile,Outros
+1645,Loja 1645,Buenos Aires,Estados Unidos,Meio-Oeste
+1646,Loja 1646,Trípoli,Estados Unidos,Sul
+1647,Loja 1647,Jerusalém,Peru,Outros
+1648,Loja 1648,Lagos,Canadá,Ontário
+1649,Loja 1649,Cairo,Turquia,Outros
+1650,Loja 1650,Seul,Rússia,Outros
+1651,Loja 1651,Seul,Estados Unidos,Oeste
+1652,Loja 1652,Kuala Lumpur,Austrália,Outros
+1653,Loja 1653,Abu Dhabi,Índia,Outros
+1654,Loja 1654,Yangon,Espanha,Outros
+1655,Loja 1655,Londres,Austrália,Outros
+1656,Loja 1656,Jacarta,Chile,Outros
+1657,Loja 1657,Islamabad,China,Outros
+1658,Loja 1658,Londres,Coreia do Sul,Outros
+1659,Loja 1659,Bogotá,Peru,Outros
+1660,Loja 1660,Nairobi,Canadá,Manitoba
+1661,Loja 1661,Londres,Alemanha,Outros
+1662,Loja 1662,Cingapura,Estados Unidos,Oeste
+1663,Loja 1663,Túnis,Alemanha,Outros
+1664,Loja 1664,Paris,Brasil,Centro-Oeste
+1665,Loja 1665,Argel,Índia,Outros
+1666,Loja 1666,Abu Dhabi,Japão,Outros
+1667,Loja 1667,Cingapura,Turquia,Outros
+1668,Loja 1668,Tóquio,Alemanha,Outros
+1669,Loja 1669,Cabul,França,Outros
+1670,Loja 1670,Amã,Itália,Outros
+1671,Loja 1671,Paris,Espanha,Outros
+1672,Loja 1672,Teerã,Reino Unido,Outros
+1673,Loja 1673,Nova Deli,Japão,Outros
+1674,Loja 1674,Amã,Portugal,Outros
+1675,Loja 1675,Damasco,França,Outros
+1676,Loja 1676,Berlim,Coreia do Sul,Outros
+1677,Loja 1677,Osaka,Peru,Outros
+1678,Loja 1678,Paris,Turquia,Outros
+1679,Loja 1679,Rio de Janeiro,Reino Unido,Outros
+1680,Loja 1680,Bogotá,Canadá,Alberta
+1681,Loja 1681,Beirute,Portugal,Outros
+1682,Loja 1682,Sydney,Argentina,Outros
+1683,Loja 1683,Seul,Japão,Outros
+1684,Loja 1684,Doha,Itália,Outros
+1685,Loja 1685,Nova York,Japão,Outros
+1686,Loja 1686,Dakar,Peru,Outros
+1687,Loja 1687,Amã,Alemanha,Outros
+1688,Loja 1688,Doha,Coreia do Sul,Outros
+1689,Loja 1689,Trípoli,Portugal,Outros
+1690,Loja 1690,São Paulo,Reino Unido,Outros
+1691,Loja 1691,Trípoli,Austrália,Outros
+1692,Loja 1692,Dhaka,Brasil,Nordeste
+1693,Loja 1693,Dakar,Chile,Outros
+1694,Loja 1694,Manila,Austrália,Outros
+1695,Loja 1695,Cairo,Índia,Outros
+1696,Loja 1696,Nova Deli,Estados Unidos,Noroeste do Pacífico
+1697,Loja 1697,Dhaka,Peru,Outros
+1698,Loja 1698,Santiago,França,Outros
+1699,Loja 1699,Phnom Penh,México,Centro
+1700,Loja 1700,Dubai,Argentina,Outros
+1701,Loja 1701,Hong Kong,Turquia,Outros
+1702,Loja 1702,Dubai,Turquia,Outros
+1703,Loja 1703,Katmandu,Chile,Outros
+1704,Loja 1704,Bangkok,Estados Unidos,Oeste
+1705,Loja 1705,Bagdá,Brasil,Nordeste
+1706,Loja 1706,Buenos Aires,Alemanha,Outros
+1707,Loja 1707,Lagos,Japão,Outros
+1708,Loja 1708,Kyoto,Chile,Outros
+1709,Loja 1709,Jacarta,Chile,Outros
+1710,Loja 1710,Madri,Rússia,Outros
+1711,Loja 1711,Kuala Lumpur,China,Outros
+1712,Loja 1712,Seul,Coreia do Sul,Outros
+1713,Loja 1713,Mumbai,Índia,Outros
+1714,Loja 1714,Hanói,Itália,Outros
+1715,Loja 1715,Roma,Japão,Outros
+1716,Loja 1716,Bangkok,Portugal,Outros
+1717,Loja 1717,Buenos Aires,China,Outros
+1718,Loja 1718,Tóquio,Rússia,Outros
+1719,Loja 1719,Sydney,Alemanha,Outros
+1720,Loja 1720,Madri,Argentina,Outros
+1721,Loja 1721,Doha,Espanha,Outros
+1722,Loja 1722,Taipei,Chile,Outros
+1723,Loja 1723,Santiago,Espanha,Outros
+1724,Loja 1724,Moscou,Coreia do Sul,Outros
+1725,Loja 1725,Cabul,México,Sudeste
+1726,Loja 1726,Phnom Penh,Argentina,Outros
+1727,Loja 1727,Kuala Lumpur,Reino Unido,Outros
+1728,Loja 1728,Londres,Japão,Outros
+1729,Loja 1729,Hanói,Itália,Outros
+1730,Loja 1730,Bogotá,França,Outros
+1731,Loja 1731,Túnis,Estados Unidos,Oeste
+1732,Loja 1732,Osaka,Espanha,Outros
+1733,Loja 1733,Abu Dhabi,Espanha,Outros
+1734,Loja 1734,Túnis,Estados Unidos,Nordeste
+1735,Loja 1735,Johannesburg,Estados Unidos,Meio-Oeste
+1736,Loja 1736,Kyoto,Brasil,Sul
+1737,Loja 1737,Cidade do México,Japão,Outros
+1738,Loja 1738,Cingapura,Espanha,Outros
+1739,Loja 1739,Buenos Aires,México,Norte
+1740,Loja 1740,Seul,Brasil,Sul
+1741,Loja 1741,Islamabad,Alemanha,Outros
+1742,Loja 1742,Osaka,Chile,Outros
+1743,Loja 1743,Trípoli,Austrália,Outros
+1744,Loja 1744,Teerã,Turquia,Outros
+1745,Loja 1745,Hanói,Rússia,Outros
+1746,Loja 1746,Teerã,Coreia do Sul,Outros
+1747,Loja 1747,Kinshasa,Estados Unidos,Meio-Oeste
+1748,Loja 1748,Taipei,Turquia,Outros
+1749,Loja 1749,Lima,Portugal,Outros
+1750,Loja 1750,Jacarta,Brasil,Nordeste
+1751,Loja 1751,Hong Kong,Japão,Outros
+1752,Loja 1752,Londres,Índia,Outros
+1753,Loja 1753,Sydney,Espanha,Outros
+1754,Loja 1754,São Paulo,Peru,Outros
+1755,Loja 1755,Cairo,Itália,Outros
+1756,Loja 1756,Pequim,Chile,Outros
+1757,Loja 1757,Doha,Portugal,Outros
+1758,Loja 1758,Tóquio,Rússia,Outros
+1759,Loja 1759,Cairo,Austrália,Outros
+1760,Loja 1760,Trípoli,Estados Unidos,Meio-Oeste
+1761,Loja 1761,Bagdá,Austrália,Outros
+1762,Loja 1762,Katmandu,Rússia,Outros
+1763,Loja 1763,Cingapura,Chile,Outros
+1764,Loja 1764,Trípoli,Portugal,Outros
+1765,Loja 1765,Madri,Turquia,Outros
+1766,Loja 1766,Taipei,Estados Unidos,Noroeste do Pacífico
+1767,Loja 1767,Abu Dhabi,Rússia,Outros
+1768,Loja 1768,Cidade do México,Peru,Outros
+1769,Loja 1769,Santiago,Argentina,Outros
+1770,Loja 1770,Riyadh,Austrália,Outros
+1771,Loja 1771,Beirute,Austrália,Outros
+1772,Loja 1772,Nairobi,Argentina,Outros
+1773,Loja 1773,Amã,Alemanha,Outros
+1774,Loja 1774,Cingapura,Argentina,Outros
+1775,Loja 1775,Hanói,Turquia,Outros
+1776,Loja 1776,Mumbai,Canadá,Alberta
+1777,Loja 1777,Toronto,Turquia,Outros
+1778,Loja 1778,Dakar,Brasil,Sudeste
+1779,Loja 1779,Cairo,Turquia,Outros
+1780,Loja 1780,Cabul,Brasil,Centro-Oeste
+1781,Loja 1781,Amã,Brasil,Centro-Oeste
+1782,Loja 1782,Osaka,Reino Unido,Outros
+1783,Loja 1783,Kinshasa,França,Outros
+1784,Loja 1784,Colombo,Canadá,Quebec
+1785,Loja 1785,Londres,Itália,Outros
+1786,Loja 1786,Nairobi,Coreia do Sul,Outros
+1787,Loja 1787,Nova Deli,Canadá,Colúmbia Britânica
+1788,Loja 1788,Seul,Japão,Outros
+1789,Loja 1789,Cairo,Japão,Outros
+1790,Loja 1790,Trípoli,Estados Unidos,Nordeste
+1791,Loja 1791,Nova York,Estados Unidos,Sul
+1792,Loja 1792,Katmandu,França,Outros
+1793,Loja 1793,Lagos,China,Outros
+1794,Loja 1794,Dhaka,Japão,Outros
+1795,Loja 1795,Seul,Índia,Outros
+1796,Loja 1796,Katmandu,Brasil,Centro-Oeste
+1797,Loja 1797,Phnom Penh,Índia,Outros
+1798,Loja 1798,Yangon,México,Centro
+1799,Loja 1799,Nova Deli,Coreia do Sul,Outros
+1800,Loja 1800,Berlim,Índia,Outros
+1801,Loja 1801,Kyoto,Alemanha,Outros
+1802,Loja 1802,Sydney,Índia,Outros
+1803,Loja 1803,Yangon,China,Outros
+1804,Loja 1804,Cingapura,Canadá,Colúmbia Britânica
+1805,Loja 1805,Cidade do México,Japão,Outros
+1806,Loja 1806,Katmandu,Brasil,Sul
+1807,Loja 1807,Amã,Rússia,Outros
+1808,Loja 1808,Bangkok,França,Outros
+1809,Loja 1809,Cabul,China,Outros
+1810,Loja 1810,Rio de Janeiro,Argentina,Outros
+1811,Loja 1811,Riyadh,Austrália,Outros
+1812,Loja 1812,Buenos Aires,Alemanha,Outros
+1813,Loja 1813,Berlim,Estados Unidos,Noroeste do Pacífico
+1814,Loja 1814,Moscou,Coreia do Sul,Outros
+1815,Loja 1815,Hanói,Chile,Outros
+1816,Loja 1816,Dakar,Coreia do Sul,Outros
+1817,Loja 1817,Katmandu,Japão,Outros
+1818,Loja 1818,Casablanca,Coreia do Sul,Outros
+1819,Loja 1819,Dubai,França,Outros
+1820,Loja 1820,Cabul,França,Outros
+1821,Loja 1821,Roma,México,Centro
+1822,Loja 1822,Moscou,Rússia,Outros
+1823,Loja 1823,Argel,Reino Unido,Outros
+1824,Loja 1824,Bogotá,Estados Unidos,Nordeste
+1825,Loja 1825,Londres,Japão,Outros
+1826,Loja 1826,Phnom Penh,China,Outros
+1827,Loja 1827,Tóquio,Turquia,Outros
+1828,Loja 1828,Doha,França,Outros
+1829,Loja 1829,Cingapura,Estados Unidos,Meio-Oeste
+1830,Loja 1830,Jerusalém,Alemanha,Outros
+1831,Loja 1831,Istambul,Turquia,Outros
+1832,Loja 1832,Dubai,Estados Unidos,Oeste
+1833,Loja 1833,Damasco,Japão,Outros
+1834,Loja 1834,Bangkok,Chile,Outros
+1835,Loja 1835,Manila,Austrália,Outros
+1836,Loja 1836,Los Angeles,China,Outros
+1837,Loja 1837,Colombo,Estados Unidos,Oeste
+1838,Loja 1838,Mumbai,Espanha,Outros
+1839,Loja 1839,Seul,Índia,Outros
+1840,Loja 1840,Nova Deli,China,Outros
+1841,Loja 1841,Johannesburg,Estados Unidos,Sul
+1842,Loja 1842,Tóquio,China,Outros
+1843,Loja 1843,Kyoto,Argentina,Outros
+1844,Loja 1844,Kuala Lumpur,Peru,Outros
+1845,Loja 1845,Jerusalém,Chile,Outros
+1846,Loja 1846,Islamabad,Chile,Outros
+1847,Loja 1847,Kinshasa,França,Outros
+1848,Loja 1848,Abu Dhabi,Reino Unido,Outros
+1849,Loja 1849,Roma,Japão,Outros
+1850,Loja 1850,Damasco,China,Outros
+1851,Loja 1851,Phnom Penh,China,Outros
+1852,Loja 1852,Los Angeles,Austrália,Outros
+1853,Loja 1853,Damasco,Turquia,Outros
+1854,Loja 1854,Paris,Chile,Outros
+1855,Loja 1855,Teerã,Alemanha,Outros
+1856,Loja 1856,Islamabad,Alemanha,Outros
+1857,Loja 1857,Nova Deli,Índia,Outros
+1858,Loja 1858,Taipei,Índia,Outros
+1859,Loja 1859,Sydney,Rússia,Outros
+1860,Loja 1860,Túnis,Portugal,Outros
+1861,Loja 1861,Riyadh,Peru,Outros
+1862,Loja 1862,Jacarta,China,Outros
+1863,Loja 1863,Paris,Canadá,Quebec
+1864,Loja 1864,Cidade do México,França,Outros
+1865,Loja 1865,Bogotá,Turquia,Outros
+1866,Loja 1866,Osaka,Chile,Outros
+1867,Loja 1867,Jerusalém,Índia,Outros
+1868,Loja 1868,São Paulo,Espanha,Outros
+1869,Loja 1869,Jerusalém,Chile,Outros
+1870,Loja 1870,Kuala Lumpur,Índia,Outros
+1871,Loja 1871,Mumbai,China,Outros
+1872,Loja 1872,Cabul,Rússia,Outros
+1873,Loja 1873,Hong Kong,Reino Unido,Outros
+1874,Loja 1874,Abu Dhabi,Índia,Outros
+1875,Loja 1875,Kinshasa,Coreia do Sul,Outros
+1876,Loja 1876,Trípoli,Chile,Outros
+1877,Loja 1877,Istambul,Rússia,Outros
+1878,Loja 1878,Cairo,Estados Unidos,Sul
+1879,Loja 1879,Kyoto,Reino Unido,Outros
+1880,Loja 1880,Bogotá,México,Norte
+1881,Loja 1881,Túnis,Peru,Outros
+1882,Loja 1882,Osaka,Índia,Outros
+1883,Loja 1883,São Paulo,Índia,Outros
+1884,Loja 1884,Lagos,Argentina,Outros
+1885,Loja 1885,Lima,Peru,Outros
+1886,Loja 1886,Buenos Aires,Alemanha,Outros
+1887,Loja 1887,Amã,Argentina,Outros
+1888,Loja 1888,Lagos,China,Outros
+1889,Loja 1889,Madri,Turquia,Outros
+1890,Loja 1890,Lima,Reino Unido,Outros
+1891,Loja 1891,Riyadh,Portugal,Outros
+1892,Loja 1892,Túnis,Índia,Outros
+1893,Loja 1893,Jacarta,Japão,Outros
+1894,Loja 1894,Taipei,México,Sul
+1895,Loja 1895,Riyadh,Rússia,Outros
+1896,Loja 1896,Manila,Japão,Outros
+1897,Loja 1897,São Paulo,Índia,Outros
+1898,Loja 1898,Kinshasa,Rússia,Outros
+1899,Loja 1899,Londres,Turquia,Outros
+1900,Loja 1900,Bagdá,Turquia,Outros
+1901,Loja 1901,Kinshasa,Peru,Outros
+1902,Loja 1902,Toronto,Portugal,Outros
+1903,Loja 1903,Yangon,Argentina,Outros
+1904,Loja 1904,Cidade do México,Chile,Outros
+1905,Loja 1905,Amã,Brasil,Sul
+1906,Loja 1906,Cairo,Coreia do Sul,Outros
+1907,Loja 1907,Los Angeles,Reino Unido,Outros
+1908,Loja 1908,Santiago,Peru,Outros
+1909,Loja 1909,Kinshasa,Canadá,Ontário
+1910,Loja 1910,Katmandu,Chile,Outros
+1911,Loja 1911,Nairobi,Chile,Outros
+1912,Loja 1912,Doha,China,Outros
+1913,Loja 1913,Bangkok,Itália,Outros
+1914,Loja 1914,Paris,Estados Unidos,Noroeste do Pacífico
+1915,Loja 1915,Seul,Argentina,Outros
+1916,Loja 1916,Hong Kong,Canadá,Ontário
+1917,Loja 1917,Osaka,Alemanha,Outros
+1918,Loja 1918,Nova Deli,Índia,Outros
+1919,Loja 1919,Seul,Portugal,Outros
+1920,Loja 1920,Beirute,Rússia,Outros
+1921,Loja 1921,Kuala Lumpur,Chile,Outros
+1922,Loja 1922,Argel,Índia,Outros
+1923,Loja 1923,Los Angeles,França,Outros
+1924,Loja 1924,Katmandu,Turquia,Outros
+1925,Loja 1925,Dubai,Reino Unido,Outros
+1926,Loja 1926,Kinshasa,México,Sudeste
+1927,Loja 1927,Yangon,Espanha,Outros
+1928,Loja 1928,Mumbai,Coreia do Sul,Outros
+1929,Loja 1929,Casablanca,Estados Unidos,Oeste
+1930,Loja 1930,Damasco,México,Centro
+1931,Loja 1931,Yangon,Estados Unidos,Sul
+1932,Loja 1932,Osaka,Brasil,Nordeste
+1933,Loja 1933,Buenos Aires,Japão,Outros
+1934,Loja 1934,Londres,Turquia,Outros
+1935,Loja 1935,Cingapura,Espanha,Outros
+1936,Loja 1936,Istambul,Itália,Outros
+1937,Loja 1937,Tóquio,Peru,Outros
+1938,Loja 1938,São Paulo,Austrália,Outros
+1939,Loja 1939,Katmandu,França,Outros
+1940,Loja 1940,Islamabad,Reino Unido,Outros
+1941,Loja 1941,Katmandu,Japão,Outros
+1942,Loja 1942,Cidade do México,Turquia,Outros
+1943,Loja 1943,Paris,Austrália,Outros
+1944,Loja 1944,Mumbai,Coreia do Sul,Outros
+1945,Loja 1945,São Paulo,Turquia,Outros
+1946,Loja 1946,Trípoli,Portugal,Outros
+1947,Loja 1947,Seul,Turquia,Outros
+1948,Loja 1948,Seul,México,Sudeste
+1949,Loja 1949,Seul,Brasil,Centro-Oeste
+1950,Loja 1950,Teerã,Portugal,Outros
+1951,Loja 1951,Cabul,Peru,Outros
+1952,Loja 1952,Istambul,Portugal,Outros
+1953,Loja 1953,Jacarta,Espanha,Outros
+1954,Loja 1954,Buenos Aires,China,Outros
+1955,Loja 1955,Santiago,Índia,Outros
+1956,Loja 1956,Rio de Janeiro,México,Centro
+1957,Loja 1957,Bagdá,Peru,Outros
+1958,Loja 1958,Moscou,Reino Unido,Outros
+1959,Loja 1959,Osaka,Brasil,Norte
+1960,Loja 1960,Teerã,Portugal,Outros
+1961,Loja 1961,Damasco,Peru,Outros
+1962,Loja 1962,Pequim,Reino Unido,Outros
+1963,Loja 1963,Lima,China,Outros
+1964,Loja 1964,Madri,Reino Unido,Outros
+1965,Loja 1965,Cingapura,Coreia do Sul,Outros
+1966,Loja 1966,Sydney,Índia,Outros
+1967,Loja 1967,Kuala Lumpur,Coreia do Sul,Outros
+1968,Loja 1968,Sydney,Chile,Outros
+1969,Loja 1969,Phnom Penh,Rússia,Outros
+1970,Loja 1970,Doha,Portugal,Outros
+1971,Loja 1971,Nova York,Japão,Outros
+1972,Loja 1972,Trípoli,Índia,Outros
+1973,Loja 1973,Seul,Espanha,Outros
+1974,Loja 1974,Jerusalém,Portugal,Outros
+1975,Loja 1975,Lagos,Alemanha,Outros
+1976,Loja 1976,Doha,Austrália,Outros
+1977,Loja 1977,Jacarta,Argentina,Outros
+1978,Loja 1978,Mumbai,Peru,Outros
+1979,Loja 1979,Nairobi,Peru,Outros
+1980,Loja 1980,Sydney,França,Outros
+1981,Loja 1981,Hanói,China,Outros
+1982,Loja 1982,Mumbai,México,Sul
+1983,Loja 1983,Buenos Aires,Estados Unidos,Oeste
+1984,Loja 1984,Riyadh,França,Outros
+1985,Loja 1985,Manila,Japão,Outros
+1986,Loja 1986,Túnis,Brasil,Norte
+1987,Loja 1987,Buenos Aires,Coreia do Sul,Outros
+1988,Loja 1988,Doha,França,Outros
+1989,Loja 1989,Beirute,Rússia,Outros
+1990,Loja 1990,Sydney,Alemanha,Outros
+1991,Loja 1991,Argel,Austrália,Outros
+1992,Loja 1992,Casablanca,Índia,Outros
+1993,Loja 1993,Seul,China,Outros
+1994,Loja 1994,Colombo,Itália,Outros
+1995,Loja 1995,São Paulo,Rússia,Outros
+1996,Loja 1996,Amã,Japão,Outros
+1997,Loja 1997,São Paulo,Canadá,Quebec
+1998,Loja 1998,Hong Kong,França,Outros
+1999,Loja 1999,Cidade do México,Índia,Outros
+2000,Loja 2000,Argel,Espanha,Outros
+2001,Loja 2001,Buenos Aires,Reino Unido,Outros
+2002,Loja 2002,Hong Kong,Rússia,Outros
+2003,Loja 2003,Nairobi,Canadá,Alberta
+2004,Loja 2004,Lagos,Itália,Outros
+2005,Loja 2005,Paris,França,Outros
+2006,Loja 2006,Nairobi,Estados Unidos,Meio-Oeste
+2007,Loja 2007,Doha,China,Outros
+2008,Loja 2008,Los Angeles,Canadá,Quebec
+2009,Loja 2009,Bangkok,Coreia do Sul,Outros
+2010,Loja 2010,Beirute,Itália,Outros
+2011,Loja 2011,Nova York,China,Outros
+2012,Loja 2012,Abu Dhabi,Peru,Outros
+2013,Loja 2013,Taipei,Austrália,Outros
+2014,Loja 2014,Túnis,França,Outros
+2015,Loja 2015,Roma,Estados Unidos,Nordeste
+2016,Loja 2016,Toronto,Reino Unido,Outros
+2017,Loja 2017,Doha,Portugal,Outros
+2018,Loja 2018,Paris,Alemanha,Outros
+2019,Loja 2019,Jacarta,Austrália,Outros
+2020,Loja 2020,Lima,Reino Unido,Outros
+2021,Loja 2021,Cairo,Chile,Outros
+2022,Loja 2022,Hanói,México,Sudeste
+2023,Loja 2023,Moscou,Chile,Outros
+2024,Loja 2024,Madri,Índia,Outros
+2025,Loja 2025,Kuala Lumpur,Chile,Outros
+2026,Loja 2026,Seul,Espanha,Outros
+2027,Loja 2027,Argel,Rússia,Outros
+2028,Loja 2028,Kyoto,Estados Unidos,Oeste
+2029,Loja 2029,Kinshasa,Japão,Outros
+2030,Loja 2030,Trípoli,Canadá,Manitoba
+2031,Loja 2031,Hanói,Rússia,Outros
+2032,Loja 2032,Los Angeles,Canadá,Ontário
+2033,Loja 2033,Osaka,Japão,Outros
+2034,Loja 2034,Trípoli,Turquia,Outros
+2035,Loja 2035,Jerusalém,China,Outros
+2036,Loja 2036,Istambul,México,Norte
+2037,Loja 2037,Doha,Brasil,Norte
+2038,Loja 2038,Manila,México,Sudeste
+2039,Loja 2039,Taipei,Alemanha,Outros
+2040,Loja 2040,Riyadh,Portugal,Outros
+2041,Loja 2041,Cairo,Peru,Outros
+2042,Loja 2042,São Paulo,Rússia,Outros
+2043,Loja 2043,Islamabad,México,Norte
+2044,Loja 2044,Cabul,Peru,Outros
+2045,Loja 2045,Damasco,Turquia,Outros
+2046,Loja 2046,Kinshasa,Turquia,Outros
+2047,Loja 2047,Phnom Penh,Canadá,Alberta
+2048,Loja 2048,Hanói,Japão,Outros
+2049,Loja 2049,Osaka,Espanha,Outros
+2050,Loja 2050,Seul,Rússia,Outros
+2051,Loja 2051,Sydney,Argentina,Outros
+2052,Loja 2052,Rio de Janeiro,México,Sul
+2053,Loja 2053,São Paulo,Reino Unido,Outros
+2054,Loja 2054,Jerusalém,Canadá,Ontário
+2055,Loja 2055,Hanói,Brasil,Nordeste
+2056,Loja 2056,Paris,México,Norte
+2057,Loja 2057,Seul,Peru,Outros
+2058,Loja 2058,Cingapura,Rússia,Outros
+2059,Loja 2059,Tóquio,Coreia do Sul,Outros
+2060,Loja 2060,Johannesburg,Espanha,Outros
+2061,Loja 2061,Pequim,Argentina,Outros
+2062,Loja 2062,Cidade do México,Índia,Outros
+2063,Loja 2063,Seul,França,Outros
+2064,Loja 2064,Dubai,Turquia,Outros
+2065,Loja 2065,Dhaka,Canadá,Quebec
+2066,Loja 2066,Kuala Lumpur,Coreia do Sul,Outros
+2067,Loja 2067,Bagdá,Estados Unidos,Nordeste
+2068,Loja 2068,Cairo,Brasil,Centro-Oeste
+2069,Loja 2069,Abu Dhabi,Reino Unido,Outros
+2070,Loja 2070,Casablanca,Peru,Outros
+2071,Loja 2071,Lagos,Peru,Outros
+2072,Loja 2072,Tóquio,Estados Unidos,Noroeste do Pacífico
+2073,Loja 2073,Bangkok,Canadá,Colúmbia Britânica
+2074,Loja 2074,Bagdá,Peru,Outros
+2075,Loja 2075,Roma,Canadá,Colúmbia Britânica
+2076,Loja 2076,Cidade do México,Turquia,Outros
+2077,Loja 2077,Riyadh,Índia,Outros
+2078,Loja 2078,Yangon,Alemanha,Outros
+2079,Loja 2079,Buenos Aires,Rússia,Outros
+2080,Loja 2080,Sydney,Índia,Outros
+2081,Loja 2081,São Paulo,Alemanha,Outros
+2082,Loja 2082,Cairo,Japão,Outros
+2083,Loja 2083,Islamabad,Espanha,Outros
+2084,Loja 2084,Nova Deli,Rússia,Outros
+2085,Loja 2085,Paris,Estados Unidos,Nordeste
+2086,Loja 2086,Teerã,Rússia,Outros
+2087,Loja 2087,Seul,Japão,Outros
+2088,Loja 2088,Hanói,Chile,Outros
+2089,Loja 2089,Dakar,Peru,Outros
+2090,Loja 2090,Trípoli,México,Noroeste
+2091,Loja 2091,Moscou,Portugal,Outros
+2092,Loja 2092,Túnis,Brasil,Nordeste
+2093,Loja 2093,Dhaka,França,Outros
+2094,Loja 2094,Sydney,Espanha,Outros
+2095,Loja 2095,Beirute,Japão,Outros
+2096,Loja 2096,Bogotá,Chile,Outros
+2097,Loja 2097,Phnom Penh,Reino Unido,Outros
+2098,Loja 2098,Doha,Espanha,Outros
+2099,Loja 2099,Katmandu,Canadá,Colúmbia Britânica
+2100,Loja 2100,Nairobi,Estados Unidos,Oeste
+2101,Loja 2101,Jacarta,Canadá,Quebec
+2102,Loja 2102,Colombo,Japão,Outros
+2103,Loja 2103,Phnom Penh,Japão,Outros
+2104,Loja 2104,Tóquio,Turquia,Outros
+2105,Loja 2105,Kyoto,Itália,Outros
+2106,Loja 2106,Taipei,Reino Unido,Outros
+2107,Loja 2107,Bogotá,China,Outros
+2108,Loja 2108,Seul,Rússia,Outros
+2109,Loja 2109,Nova Deli,Turquia,Outros
+2110,Loja 2110,Mumbai,Austrália,Outros
+2111,Loja 2111,Riyadh,Rússia,Outros
+2112,Loja 2112,Riyadh,Peru,Outros
+2113,Loja 2113,Bangkok,Alemanha,Outros
+2114,Loja 2114,Jacarta,Turquia,Outros
+2115,Loja 2115,Dhaka,Alemanha,Outros
+2116,Loja 2116,Yangon,Índia,Outros
+2117,Loja 2117,Yangon,Chile,Outros
+2118,Loja 2118,Manila,Austrália,Outros
+2119,Loja 2119,Riyadh,Canadá,Colúmbia Britânica
+2120,Loja 2120,Kyoto,Portugal,Outros
+2121,Loja 2121,Johannesburg,Itália,Outros
+2122,Loja 2122,Paris,Rússia,Outros
+2123,Loja 2123,Santiago,Portugal,Outros
+2124,Loja 2124,Moscou,Rússia,Outros
+2125,Loja 2125,Johannesburg,Japão,Outros
+2126,Loja 2126,São Paulo,Reino Unido,Outros
+2127,Loja 2127,Bogotá,Brasil,Norte
+2128,Loja 2128,Osaka,Índia,Outros
+2129,Loja 2129,Jacarta,Canadá,Quebec
+2130,Loja 2130,Casablanca,México,Norte
+2131,Loja 2131,Bagdá,Argentina,Outros
+2132,Loja 2132,Bagdá,Espanha,Outros
+2133,Loja 2133,Tóquio,Austrália,Outros
+2134,Loja 2134,Madri,Austrália,Outros
+2135,Loja 2135,São Paulo,Índia,Outros
+2136,Loja 2136,Dakar,Austrália,Outros
+2137,Loja 2137,Nairobi,Chile,Outros
+2138,Loja 2138,Roma,Rússia,Outros
+2139,Loja 2139,Abu Dhabi,Estados Unidos,Oeste
+2140,Loja 2140,Hong Kong,Austrália,Outros
+2141,Loja 2141,Nairobi,Coreia do Sul,Outros
+2142,Loja 2142,Los Angeles,Chile,Outros
+2143,Loja 2143,Madri,Austrália,Outros
+2144,Loja 2144,Seul,China,Outros
+2145,Loja 2145,Roma,França,Outros
+2146,Loja 2146,Beirute,Canadá,Quebec
+2147,Loja 2147,Kuala Lumpur,França,Outros
+2148,Loja 2148,Argel,Rússia,Outros
+2149,Loja 2149,Dubai,Alemanha,Outros
+2150,Loja 2150,Lagos,Austrália,Outros
+2151,Loja 2151,Sydney,China,Outros
+2152,Loja 2152,Berlim,Canadá,Quebec
+2153,Loja 2153,Tóquio,Canadá,Manitoba
+2154,Loja 2154,Abu Dhabi,Reino Unido,Outros
+2155,Loja 2155,Dakar,Brasil,Sudeste
+2156,Loja 2156,Los Angeles,Itália,Outros
+2157,Loja 2157,Teerã,México,Sudeste
+2158,Loja 2158,Dubai,Brasil,Sul
+2159,Loja 2159,Nova Deli,Índia,Outros
+2160,Loja 2160,Jacarta,Argentina,Outros
+2161,Loja 2161,Damasco,China,Outros
+2162,Loja 2162,Bogotá,Rússia,Outros
+2163,Loja 2163,Túnis,México,Sudeste
+2164,Loja 2164,Amã,Brasil,Sudeste
+2165,Loja 2165,Katmandu,Estados Unidos,Sul
+2166,Loja 2166,Bangkok,Austrália,Outros
+2167,Loja 2167,Londres,Canadá,Alberta
+2168,Loja 2168,Túnis,Alemanha,Outros
+2169,Loja 2169,Jacarta,Índia,Outros
+2170,Loja 2170,Lagos,Estados Unidos,Noroeste do Pacífico
+2171,Loja 2171,Jerusalém,Estados Unidos,Oeste
+2172,Loja 2172,Kyoto,Chile,Outros
+2173,Loja 2173,Seul,Índia,Outros
+2174,Loja 2174,Argel,França,Outros
+2175,Loja 2175,Seul,Japão,Outros
+2176,Loja 2176,Amã,Reino Unido,Outros
+2177,Loja 2177,Colombo,Estados Unidos,Noroeste do Pacífico
+2178,Loja 2178,Moscou,Brasil,Centro-Oeste
+2179,Loja 2179,Londres,Reino Unido,Outros
+2180,Loja 2180,Colombo,Coreia do Sul,Outros
+2181,Loja 2181,Nova Deli,Estados Unidos,Nordeste
+2182,Loja 2182,Amã,México,Noroeste
+2183,Loja 2183,Cingapura,Brasil,Sul
+2184,Loja 2184,Seul,Austrália,Outros
+2185,Loja 2185,Paris,China,Outros
+2186,Loja 2186,Nairobi,Espanha,Outros
+2187,Loja 2187,Bangkok,Alemanha,Outros
+2188,Loja 2188,Tóquio,Reino Unido,Outros
+2189,Loja 2189,Nova Deli,Brasil,Norte
+2190,Loja 2190,Buenos Aires,Reino Unido,Outros
+2191,Loja 2191,Riyadh,China,Outros
+2192,Loja 2192,Cabul,Estados Unidos,Nordeste
+2193,Loja 2193,Manila,Índia,Outros
+2194,Loja 2194,Pequim,Alemanha,Outros
+2195,Loja 2195,Jerusalém,Portugal,Outros
+2196,Loja 2196,Phnom Penh,Austrália,Outros
+2197,Loja 2197,Bangkok,Estados Unidos,Nordeste
+2198,Loja 2198,Paris,Coreia do Sul,Outros
+2199,Loja 2199,Madri,China,Outros
+2200,Loja 2200,Dakar,Argentina,Outros
+2201,Loja 2201,Damasco,China,Outros
+2202,Loja 2202,Kinshasa,Austrália,Outros
+2203,Loja 2203,Islamabad,Austrália,Outros
+2204,Loja 2204,Casablanca,Austrália,Outros
+2205,Loja 2205,Nova Deli,Índia,Outros
+2206,Loja 2206,Cairo,Itália,Outros
+2207,Loja 2207,Santiago,Peru,Outros
+2208,Loja 2208,São Paulo,Chile,Outros
+2209,Loja 2209,Cairo,Brasil,Sul
+2210,Loja 2210,Islamabad,Alemanha,Outros
+2211,Loja 2211,Teerã,Portugal,Outros
+2212,Loja 2212,Tóquio,Japão,Outros
+2213,Loja 2213,São Paulo,Índia,Outros
+2214,Loja 2214,Teerã,Brasil,Sudeste
+2215,Loja 2215,Johannesburg,Coreia do Sul,Outros
+2216,Loja 2216,Beirute,França,Outros
+2217,Loja 2217,Lima,Turquia,Outros
+2218,Loja 2218,Phnom Penh,Coreia do Sul,Outros
+2219,Loja 2219,Nova York,Rússia,Outros
+2220,Loja 2220,Cidade do México,Índia,Outros
+2221,Loja 2221,Roma,Espanha,Outros
+2222,Loja 2222,Manila,Turquia,Outros
+2223,Loja 2223,Riyadh,Argentina,Outros
+2224,Loja 2224,Trípoli,Portugal,Outros
+2225,Loja 2225,Cairo,Austrália,Outros
+2226,Loja 2226,Madri,Austrália,Outros
+2227,Loja 2227,Santiago,Estados Unidos,Noroeste do Pacífico
+2228,Loja 2228,Seul,Argentina,Outros
+2229,Loja 2229,Nairobi,Brasil,Norte
+2230,Loja 2230,Phnom Penh,Peru,Outros
+2231,Loja 2231,Hong Kong,Chile,Outros
+2232,Loja 2232,Teerã,México,Norte
+2233,Loja 2233,Yangon,Coreia do Sul,Outros
+2234,Loja 2234,Moscou,México,Noroeste
+2235,Loja 2235,Buenos Aires,Rússia,Outros
+2236,Loja 2236,Cabul,Rússia,Outros
+2237,Loja 2237,Sydney,China,Outros
+2238,Loja 2238,Bangkok,Turquia,Outros
+2239,Loja 2239,Lima,Rússia,Outros
+2240,Loja 2240,Riyadh,Reino Unido,Outros
+2241,Loja 2241,Seul,Portugal,Outros
+2242,Loja 2242,Jacarta,México,Sul
+2243,Loja 2243,Teerã,Chile,Outros
+2244,Loja 2244,Roma,Rússia,Outros
+2245,Loja 2245,Cabul,França,Outros
+2246,Loja 2246,Taipei,Estados Unidos,Noroeste do Pacífico
+2247,Loja 2247,Nairobi,Turquia,Outros
+2248,Loja 2248,Cingapura,Itália,Outros
+2249,Loja 2249,Túnis,Turquia,Outros
+2250,Loja 2250,Berlim,Rússia,Outros
+2251,Loja 2251,Kyoto,Índia,Outros
+2252,Loja 2252,Tóquio,Canadá,Alberta
+2253,Loja 2253,Cairo,China,Outros
+2254,Loja 2254,Paris,México,Sul
+2255,Loja 2255,Yangon,Coreia do Sul,Outros
+2256,Loja 2256,Kyoto,Argentina,Outros
+2257,Loja 2257,Bagdá,Índia,Outros
+2258,Loja 2258,Madri,Chile,Outros
+2259,Loja 2259,Lima,Estados Unidos,Meio-Oeste
+2260,Loja 2260,Doha,Portugal,Outros
+2261,Loja 2261,Roma,Espanha,Outros
+2262,Loja 2262,Tóquio,Índia,Outros
+2263,Loja 2263,Buenos Aires,China,Outros
+2264,Loja 2264,Cairo,Itália,Outros
+2265,Loja 2265,Jerusalém,Espanha,Outros
+2266,Loja 2266,Johannesburg,Portugal,Outros
+2267,Loja 2267,Moscou,China,Outros
+2268,Loja 2268,Dhaka,Itália,Outros
+2269,Loja 2269,Bangkok,Canadá,Quebec
+2270,Loja 2270,Tóquio,Estados Unidos,Meio-Oeste
+2271,Loja 2271,Dakar,Japão,Outros
+2272,Loja 2272,Katmandu,Alemanha,Outros
+2273,Loja 2273,Dhaka,Coreia do Sul,Outros
+2274,Loja 2274,Madri,Brasil,Centro-Oeste
+2275,Loja 2275,Tóquio,Brasil,Centro-Oeste
+2276,Loja 2276,Istambul,Estados Unidos,Oeste
+2277,Loja 2277,Cabul,Japão,Outros
+2278,Loja 2278,Bogotá,Estados Unidos,Oeste
+2279,Loja 2279,Pequim,Estados Unidos,Nordeste
+2280,Loja 2280,Istambul,Austrália,Outros
+2281,Loja 2281,Cidade do México,Chile,Outros
+2282,Loja 2282,Teerã,Alemanha,Outros
+2283,Loja 2283,Cairo,Canadá,Ontário
+2284,Loja 2284,Katmandu,Coreia do Sul,Outros
+2285,Loja 2285,Istambul,Canadá,Alberta
+2286,Loja 2286,Colombo,Chile,Outros
+2287,Loja 2287,Hanói,Alemanha,Outros
+2288,Loja 2288,Berlim,Portugal,Outros
+2289,Loja 2289,Rio de Janeiro,Chile,Outros
+2290,Loja 2290,Kuala Lumpur,Turquia,Outros
+2291,Loja 2291,Nairobi,México,Sudeste
+2292,Loja 2292,Dubai,França,Outros
+2293,Loja 2293,Kuala Lumpur,Brasil,Sudeste
+2294,Loja 2294,Dhaka,Turquia,Outros
+2295,Loja 2295,Bagdá,Coreia do Sul,Outros
+2296,Loja 2296,Colombo,Argentina,Outros
+2297,Loja 2297,Jacarta,Espanha,Outros
+2298,Loja 2298,Trípoli,Alemanha,Outros
+2299,Loja 2299,Cingapura,França,Outros
+2300,Loja 2300,Jacarta,Turquia,Outros
+2301,Loja 2301,Tóquio,Índia,Outros
+2302,Loja 2302,São Paulo,Argentina,Outros
+2303,Loja 2303,Los Angeles,Brasil,Norte
+2304,Loja 2304,Hong Kong,Reino Unido,Outros
+2305,Loja 2305,São Paulo,Turquia,Outros
+2306,Loja 2306,Manila,Turquia,Outros
+2307,Loja 2307,São Paulo,Coreia do Sul,Outros
+2308,Loja 2308,Nova York,Alemanha,Outros
+2309,Loja 2309,Lima,Turquia,Outros
+2310,Loja 2310,Seul,Austrália,Outros
+2311,Loja 2311,Seul,Itália,Outros
+2312,Loja 2312,Bagdá,Turquia,Outros
+2313,Loja 2313,Colombo,Portugal,Outros
+2314,Loja 2314,Nova York,França,Outros
+2315,Loja 2315,Buenos Aires,Itália,Outros
+2316,Loja 2316,Madri,França,Outros
+2317,Loja 2317,São Paulo,Japão,Outros
+2318,Loja 2318,Mumbai,Japão,Outros
+2319,Loja 2319,Dubai,Chile,Outros
+2320,Loja 2320,Santiago,Portugal,Outros
+2321,Loja 2321,Dubai,Alemanha,Outros
+2322,Loja 2322,Dakar,Reino Unido,Outros
+2323,Loja 2323,Manila,Turquia,Outros
+2324,Loja 2324,Damasco,Estados Unidos,Nordeste
+2325,Loja 2325,Tóquio,Japão,Outros
+2326,Loja 2326,Lima,China,Outros
+2327,Loja 2327,Dubai,Brasil,Nordeste
+2328,Loja 2328,Cairo,Portugal,Outros
+2329,Loja 2329,Nova York,Estados Unidos,Sul
+2330,Loja 2330,Nova York,Alemanha,Outros
+2331,Loja 2331,Colombo,Coreia do Sul,Outros
+2332,Loja 2332,Trípoli,França,Outros
+2333,Loja 2333,Madri,Espanha,Outros
+2334,Loja 2334,Dhaka,China,Outros
+2335,Loja 2335,Taipei,Chile,Outros
+2336,Loja 2336,Colombo,Brasil,Sul
+2337,Loja 2337,Abu Dhabi,Espanha,Outros
+2338,Loja 2338,Taipei,Índia,Outros
+2339,Loja 2339,Bangkok,Portugal,Outros
+2340,Loja 2340,Kinshasa,Coreia do Sul,Outros
+2341,Loja 2341,Colombo,Reino Unido,Outros
+2342,Loja 2342,Jerusalém,Espanha,Outros
+2343,Loja 2343,Cairo,Índia,Outros
+2344,Loja 2344,Rio de Janeiro,Estados Unidos,Meio-Oeste
+2345,Loja 2345,Jerusalém,China,Outros
+2346,Loja 2346,Lima,Reino Unido,Outros
+2347,Loja 2347,Los Angeles,Espanha,Outros
+2348,Loja 2348,Seul,China,Outros
+2349,Loja 2349,Londres,Argentina,Outros
+2350,Loja 2350,Dhaka,Coreia do Sul,Outros
+2351,Loja 2351,Riyadh,Rússia,Outros
+2352,Loja 2352,Jacarta,Coreia do Sul,Outros
+2353,Loja 2353,Yangon,França,Outros
+2354,Loja 2354,Islamabad,Espanha,Outros
+2355,Loja 2355,Abu Dhabi,China,Outros
+2356,Loja 2356,Hong Kong,Austrália,Outros
+2357,Loja 2357,Santiago,Itália,Outros
+2358,Loja 2358,Kyoto,Estados Unidos,Meio-Oeste
+2359,Loja 2359,Dubai,Japão,Outros
+2360,Loja 2360,Nairobi,Índia,Outros
+2361,Loja 2361,Tóquio,Índia,Outros
+2362,Loja 2362,Túnis,Chile,Outros
+2363,Loja 2363,Madri,Espanha,Outros
+2364,Loja 2364,Colombo,Peru,Outros
+2365,Loja 2365,Bogotá,México,Centro
+2366,Loja 2366,Lagos,Argentina,Outros
+2367,Loja 2367,Bogotá,Estados Unidos,Nordeste
+2368,Loja 2368,São Paulo,França,Outros
+2369,Loja 2369,Colombo,Índia,Outros
+2370,Loja 2370,Lima,Rússia,Outros
+2371,Loja 2371,Phnom Penh,México,Centro
+2372,Loja 2372,Kinshasa,Coreia do Sul,Outros
+2373,Loja 2373,Nova Deli,Itália,Outros
+2374,Loja 2374,Colombo,Estados Unidos,Oeste
+2375,Loja 2375,Nova York,México,Sudeste
+2376,Loja 2376,Colombo,Espanha,Outros
+2377,Loja 2377,Jacarta,Canadá,Ontário
+2378,Loja 2378,Paris,Peru,Outros
+2379,Loja 2379,Roma,Turquia,Outros
+2380,Loja 2380,Jerusalém,Argentina,Outros
+2381,Loja 2381,Istambul,Portugal,Outros
+2382,Loja 2382,Tóquio,Alemanha,Outros
+2383,Loja 2383,Trípoli,Reino Unido,Outros
+2384,Loja 2384,Abu Dhabi,Espanha,Outros
+2385,Loja 2385,Dhaka,Peru,Outros
+2386,Loja 2386,Madri,Canadá,Colúmbia Britânica
+2387,Loja 2387,Argel,Chile,Outros
+2388,Loja 2388,Cabul,Japão,Outros
+2389,Loja 2389,Amã,China,Outros
+2390,Loja 2390,Colombo,Itália,Outros
+2391,Loja 2391,Cairo,Alemanha,Outros
+2392,Loja 2392,Jerusalém,Canadá,Manitoba
+2393,Loja 2393,Lagos,Alemanha,Outros
+2394,Loja 2394,Casablanca,Portugal,Outros
+2395,Loja 2395,Islamabad,Alemanha,Outros
+2396,Loja 2396,Cairo,Coreia do Sul,Outros
+2397,Loja 2397,Istambul,França,Outros
+2398,Loja 2398,Nova Deli,Portugal,Outros
+2399,Loja 2399,Manila,Austrália,Outros
+2400,Loja 2400,Katmandu,Itália,Outros
+2401,Loja 2401,Jacarta,Rússia,Outros
+2402,Loja 2402,Taipei,Portugal,Outros
+2403,Loja 2403,Nova York,Espanha,Outros
+2404,Loja 2404,Cidade do México,Argentina,Outros
+2405,Loja 2405,Katmandu,Peru,Outros
+2406,Loja 2406,Istambul,Turquia,Outros
+2407,Loja 2407,Dubai,Argentina,Outros
+2408,Loja 2408,Nova York,Brasil,Nordeste
+2409,Loja 2409,Berlim,Canadá,Quebec
+2410,Loja 2410,Dakar,Rússia,Outros
+2411,Loja 2411,Johannesburg,Turquia,Outros
+2412,Loja 2412,Hanói,México,Centro
+2413,Loja 2413,Londres,Estados Unidos,Oeste
+2414,Loja 2414,Jerusalém,Portugal,Outros
+2415,Loja 2415,Túnis,Portugal,Outros
+2416,Loja 2416,Buenos Aires,Canadá,Alberta
+2417,Loja 2417,Beirute,Austrália,Outros
+2418,Loja 2418,Nairobi,Portugal,Outros
+2419,Loja 2419,Cabul,Espanha,Outros
+2420,Loja 2420,Nova York,Austrália,Outros
+2421,Loja 2421,Dakar,Brasil,Nordeste
+2422,Loja 2422,Lagos,Turquia,Outros
+2423,Loja 2423,Teerã,Espanha,Outros
+2424,Loja 2424,Kuala Lumpur,Brasil,Sul
+2425,Loja 2425,Islamabad,Turquia,Outros
+2426,Loja 2426,Riyadh,Canadá,Manitoba
+2427,Loja 2427,Berlim,França,Outros
+2428,Loja 2428,São Paulo,Espanha,Outros
+2429,Loja 2429,Lagos,Argentina,Outros
+2430,Loja 2430,Los Angeles,Alemanha,Outros
+2431,Loja 2431,Lagos,Itália,Outros
+2432,Loja 2432,Cidade do México,Rússia,Outros
+2433,Loja 2433,Moscou,Estados Unidos,Noroeste do Pacífico
+2434,Loja 2434,Nairobi,Itália,Outros
+2435,Loja 2435,São Paulo,Argentina,Outros
+2436,Loja 2436,Paris,Espanha,Outros
+2437,Loja 2437,Doha,Chile,Outros
+2438,Loja 2438,Riyadh,Canadá,Quebec
+2439,Loja 2439,Nairobi,Japão,Outros
+2440,Loja 2440,Bogotá,Coreia do Sul,Outros
+2441,Loja 2441,Bagdá,Chile,Outros
+2442,Loja 2442,Cairo,Índia,Outros
+2443,Loja 2443,Islamabad,Argentina,Outros
+2444,Loja 2444,Nairobi,Rússia,Outros
+2445,Loja 2445,Amã,Rússia,Outros
+2446,Loja 2446,Londres,Índia,Outros
+2447,Loja 2447,Kinshasa,Espanha,Outros
+2448,Loja 2448,Hong Kong,Rússia,Outros
+2449,Loja 2449,Dhaka,Rússia,Outros
+2450,Loja 2450,Buenos Aires,Brasil,Norte
+2451,Loja 2451,Dhaka,França,Outros
+2452,Loja 2452,Kyoto,Chile,Outros
+2453,Loja 2453,Madri,China,Outros
+2454,Loja 2454,Cingapura,Turquia,Outros
+2455,Loja 2455,Trípoli,França,Outros
+2456,Loja 2456,Nova York,Turquia,Outros
+2457,Loja 2457,Nova York,Itália,Outros
+2458,Loja 2458,Katmandu,Brasil,Sudeste
+2459,Loja 2459,Toronto,Portugal,Outros
+2460,Loja 2460,Rio de Janeiro,França,Outros
+2461,Loja 2461,Bogotá,Espanha,Outros
+2462,Loja 2462,Islamabad,Peru,Outros
+2463,Loja 2463,Dakar,Portugal,Outros
+2464,Loja 2464,Londres,Estados Unidos,Oeste
+2465,Loja 2465,Bogotá,China,Outros
+2466,Loja 2466,Lima,China,Outros
+2467,Loja 2467,Trípoli,China,Outros
+2468,Loja 2468,Tóquio,Turquia,Outros
+2469,Loja 2469,Rio de Janeiro,Peru,Outros
+2470,Loja 2470,Osaka,Japão,Outros
+2471,Loja 2471,Cabul,Japão,Outros
+2472,Loja 2472,Hanói,Japão,Outros
+2473,Loja 2473,Bagdá,México,Norte
+2474,Loja 2474,Cabul,Índia,Outros
+2475,Loja 2475,Lima,França,Outros
+2476,Loja 2476,Seul,Peru,Outros
+2477,Loja 2477,Hong Kong,Índia,Outros
+2478,Loja 2478,Paris,Coreia do Sul,Outros
+2479,Loja 2479,Rio de Janeiro,França,Outros
+2480,Loja 2480,Paris,Estados Unidos,Noroeste do Pacífico
+2481,Loja 2481,Tóquio,Argentina,Outros
+2482,Loja 2482,Riyadh,França,Outros
+2483,Loja 2483,Amã,Turquia,Outros
+2484,Loja 2484,São Paulo,Portugal,Outros
+2485,Loja 2485,Lima,Argentina,Outros
+2486,Loja 2486,Mumbai,Itália,Outros
+2487,Loja 2487,Mumbai,Alemanha,Outros
+2488,Loja 2488,Yangon,México,Norte
+2489,Loja 2489,Doha,Peru,Outros
+2490,Loja 2490,Pequim,China,Outros
+2491,Loja 2491,Doha,Coreia do Sul,Outros
+2492,Loja 2492,Nova Deli,Índia,Outros
+2493,Loja 2493,Taipei,Portugal,Outros
+2494,Loja 2494,Riyadh,Rússia,Outros
+2495,Loja 2495,Rio de Janeiro,Estados Unidos,Oeste
+2496,Loja 2496,Buenos Aires,Portugal,Outros
+2497,Loja 2497,Moscou,Reino Unido,Outros
+2498,Loja 2498,Kuala Lumpur,Chile,Outros
+2499,Loja 2499,Damasco,Canadá,Quebec
+2500,Loja 2500,Toronto,China,Outros
+2501,Loja 2501,Doha,Austrália,Outros
+2502,Loja 2502,Colombo,China,Outros
+2503,Loja 2503,Casablanca,França,Outros
+2504,Loja 2504,Kuala Lumpur,Reino Unido,Outros
+2505,Loja 2505,Colombo,Rússia,Outros
+2506,Loja 2506,Cairo,Alemanha,Outros
+2507,Loja 2507,Seul,Itália,Outros
+2508,Loja 2508,Lima,Brasil,Norte
+2509,Loja 2509,Jacarta,Portugal,Outros
+2510,Loja 2510,Sydney,Portugal,Outros
+2511,Loja 2511,Paris,Alemanha,Outros
+2512,Loja 2512,Moscou,Coreia do Sul,Outros
+2513,Loja 2513,Seul,Japão,Outros
+2514,Loja 2514,Jacarta,Rússia,Outros
+2515,Loja 2515,Seul,Reino Unido,Outros
+2516,Loja 2516,Mumbai,Coreia do Sul,Outros
+2517,Loja 2517,Katmandu,Peru,Outros
+2518,Loja 2518,Bagdá,Índia,Outros
+2519,Loja 2519,Osaka,Peru,Outros
+2520,Loja 2520,Toronto,Turquia,Outros
+2521,Loja 2521,Bogotá,Japão,Outros
+2522,Loja 2522,Los Angeles,Canadá,Ontário
+2523,Loja 2523,Moscou,Espanha,Outros
+2524,Loja 2524,Dakar,Coreia do Sul,Outros
+2525,Loja 2525,Hong Kong,Rússia,Outros
+2526,Loja 2526,Islamabad,Chile,Outros
+2527,Loja 2527,Dhaka,Rússia,Outros
+2528,Loja 2528,Manila,França,Outros
+2529,Loja 2529,Pequim,Índia,Outros
+2530,Loja 2530,Katmandu,Alemanha,Outros
+2531,Loja 2531,Moscou,Chile,Outros
+2532,Loja 2532,Argel,Japão,Outros
+2533,Loja 2533,Nova York,México,Sudeste
+2534,Loja 2534,Rio de Janeiro,México,Sul
+2535,Loja 2535,Paris,Alemanha,Outros
+2536,Loja 2536,Madri,Peru,Outros
+2537,Loja 2537,Toronto,Turquia,Outros
+2538,Loja 2538,Túnis,Itália,Outros
+2539,Loja 2539,Trípoli,China,Outros
+2540,Loja 2540,Cairo,Coreia do Sul,Outros
+2541,Loja 2541,Bagdá,Chile,Outros
+2542,Loja 2542,Cidade do México,Rússia,Outros
+2543,Loja 2543,Lagos,Portugal,Outros
+2544,Loja 2544,Hong Kong,França,Outros
+2545,Loja 2545,Buenos Aires,Coreia do Sul,Outros
+2546,Loja 2546,Damasco,Austrália,Outros
+2547,Loja 2547,Damasco,Espanha,Outros
+2548,Loja 2548,Cingapura,Turquia,Outros
+2549,Loja 2549,Santiago,Brasil,Nordeste
+2550,Loja 2550,Paris,China,Outros
+2551,Loja 2551,Osaka,Reino Unido,Outros
+2552,Loja 2552,Taipei,Itália,Outros
+2553,Loja 2553,Paris,Espanha,Outros
+2554,Loja 2554,Katmandu,China,Outros
+2555,Loja 2555,Túnis,Canadá,Colúmbia Britânica
+2556,Loja 2556,Londres,Turquia,Outros
+2557,Loja 2557,Damasco,Canadá,Alberta
+2558,Loja 2558,Cidade do México,Brasil,Sudeste
+2559,Loja 2559,Bangkok,Canadá,Manitoba
+2560,Loja 2560,Abu Dhabi,Japão,Outros
+2561,Loja 2561,Sydney,Itália,Outros
+2562,Loja 2562,Cidade do México,Índia,Outros
+2563,Loja 2563,Beirute,Canadá,Colúmbia Britânica
+2564,Loja 2564,Nova York,Peru,Outros
+2565,Loja 2565,Lima,Índia,Outros
+2566,Loja 2566,Tóquio,Coreia do Sul,Outros
+2567,Loja 2567,Teerã,Portugal,Outros
+2568,Loja 2568,Tóquio,Itália,Outros
+2569,Loja 2569,Jerusalém,Espanha,Outros
+2570,Loja 2570,Riyadh,Reino Unido,Outros
+2571,Loja 2571,Moscou,Itália,Outros
+2572,Loja 2572,Johannesburg,Reino Unido,Outros
+2573,Loja 2573,Kuala Lumpur,Espanha,Outros
+2574,Loja 2574,Argel,Turquia,Outros
+2575,Loja 2575,Nairobi,Estados Unidos,Nordeste
+2576,Loja 2576,Katmandu,Índia,Outros
+2577,Loja 2577,Johannesburg,Reino Unido,Outros
+2578,Loja 2578,Amã,Itália,Outros
+2579,Loja 2579,Lima,Austrália,Outros
+2580,Loja 2580,Londres,Coreia do Sul,Outros
+2581,Loja 2581,Argel,Coreia do Sul,Outros
+2582,Loja 2582,Taipei,China,Outros
+2583,Loja 2583,Trípoli,Estados Unidos,Noroeste do Pacífico
+2584,Loja 2584,Rio de Janeiro,França,Outros
+2585,Loja 2585,Doha,Chile,Outros
+2586,Loja 2586,Buenos Aires,França,Outros
+2587,Loja 2587,Lima,Portugal,Outros
+2588,Loja 2588,Lagos,Brasil,Norte
+2589,Loja 2589,Trípoli,Argentina,Outros
+2590,Loja 2590,Teerã,Espanha,Outros
+2591,Loja 2591,Phnom Penh,Chile,Outros
+2592,Loja 2592,Hanói,Japão,Outros
+2593,Loja 2593,Berlim,Brasil,Centro-Oeste
+2594,Loja 2594,Jacarta,Espanha,Outros
+2595,Loja 2595,Kinshasa,Reino Unido,Outros
+2596,Loja 2596,Túnis,Turquia,Outros
+2597,Loja 2597,Cingapura,Japão,Outros
+2598,Loja 2598,Jacarta,Rússia,Outros
+2599,Loja 2599,Damasco,Índia,Outros
+2600,Loja 2600,Amã,Turquia,Outros
+2601,Loja 2601,Dhaka,Rússia,Outros
+2602,Loja 2602,Istambul,Espanha,Outros
+2603,Loja 2603,Mumbai,Alemanha,Outros
+2604,Loja 2604,Osaka,Índia,Outros
+2605,Loja 2605,Hanói,Alemanha,Outros
+2606,Loja 2606,Jacarta,Índia,Outros
+2607,Loja 2607,Lagos,Itália,Outros
+2608,Loja 2608,Moscou,Japão,Outros
+2609,Loja 2609,Rio de Janeiro,Itália,Outros
+2610,Loja 2610,Sydney,Japão,Outros
+2611,Loja 2611,Sydney,Argentina,Outros
+2612,Loja 2612,Seul,Chile,Outros
+2613,Loja 2613,Trípoli,Estados Unidos,Sul
+2614,Loja 2614,Manila,Portugal,Outros
+2615,Loja 2615,Johannesburg,Japão,Outros
+2616,Loja 2616,Abu Dhabi,Austrália,Outros
+2617,Loja 2617,Katmandu,Espanha,Outros
+2618,Loja 2618,Sydney,Itália,Outros
+2619,Loja 2619,Hanói,Alemanha,Outros
+2620,Loja 2620,Lima,Reino Unido,Outros
+2621,Loja 2621,Bangkok,Portugal,Outros
+2622,Loja 2622,Riyadh,França,Outros
+2623,Loja 2623,Toronto,Japão,Outros
+2624,Loja 2624,Toronto,México,Sudeste
+2625,Loja 2625,Bogotá,México,Norte
+2626,Loja 2626,Toronto,Chile,Outros
+2627,Loja 2627,Sydney,Peru,Outros
+2628,Loja 2628,Mumbai,Itália,Outros
+2629,Loja 2629,Kinshasa,Reino Unido,Outros
+2630,Loja 2630,Kuala Lumpur,Portugal,Outros
+2631,Loja 2631,Islamabad,Reino Unido,Outros
+2632,Loja 2632,Abu Dhabi,Índia,Outros
+2633,Loja 2633,Katmandu,Portugal,Outros
+2634,Loja 2634,Sydney,Argentina,Outros
+2635,Loja 2635,Jacarta,Argentina,Outros
+2636,Loja 2636,São Paulo,Turquia,Outros
+2637,Loja 2637,Nova Deli,Portugal,Outros
+2638,Loja 2638,Lima,Alemanha,Outros
+2639,Loja 2639,Riyadh,Alemanha,Outros
+2640,Loja 2640,Colombo,Japão,Outros
+2641,Loja 2641,Islamabad,Coreia do Sul,Outros
+2642,Loja 2642,Islamabad,Alemanha,Outros
+2643,Loja 2643,Teerã,Brasil,Centro-Oeste
+2644,Loja 2644,Dakar,França,Outros
+2645,Loja 2645,Jacarta,Portugal,Outros
+2646,Loja 2646,Doha,México,Centro
+2647,Loja 2647,Nova York,Alemanha,Outros
+2648,Loja 2648,Kyoto,França,Outros
+2649,Loja 2649,Cidade do México,Espanha,Outros
+2650,Loja 2650,Hanói,Índia,Outros
+2651,Loja 2651,Casablanca,Reino Unido,Outros
+2652,Loja 2652,Seul,Canadá,Ontário
+2653,Loja 2653,Damasco,Portugal,Outros
+2654,Loja 2654,Katmandu,Índia,Outros
+2655,Loja 2655,Toronto,Brasil,Sudeste
+2656,Loja 2656,Istambul,Índia,Outros
+2657,Loja 2657,Doha,Japão,Outros
+2658,Loja 2658,Johannesburg,Reino Unido,Outros
+2659,Loja 2659,Cabul,Espanha,Outros
+2660,Loja 2660,Cidade do México,Turquia,Outros
+2661,Loja 2661,Cairo,Canadá,Colúmbia Britânica
+2662,Loja 2662,Damasco,Reino Unido,Outros
+2663,Loja 2663,Mumbai,Austrália,Outros
+2664,Loja 2664,Seul,Canadá,Alberta
+2665,Loja 2665,Cidade do México,Rússia,Outros
+2666,Loja 2666,Moscou,Peru,Outros
+2667,Loja 2667,Lagos,Argentina,Outros
+2668,Loja 2668,Mumbai,Espanha,Outros
+2669,Loja 2669,Seul,Portugal,Outros
+2670,Loja 2670,Pequim,Itália,Outros
+2671,Loja 2671,Osaka,Estados Unidos,Nordeste
+2672,Loja 2672,Argel,Turquia,Outros
+2673,Loja 2673,Lagos,Estados Unidos,Nordeste
+2674,Loja 2674,Cairo,Itália,Outros
+2675,Loja 2675,Colombo,Turquia,Outros
+2676,Loja 2676,Rio de Janeiro,México,Norte
+2677,Loja 2677,Johannesburg,Índia,Outros
+2678,Loja 2678,Bangkok,Alemanha,Outros
+2679,Loja 2679,Rio de Janeiro,Estados Unidos,Meio-Oeste
+2680,Loja 2680,Pequim,Coreia do Sul,Outros
+2681,Loja 2681,Yangon,Itália,Outros
+2682,Loja 2682,Casablanca,Austrália,Outros
+2683,Loja 2683,Dubai,Brasil,Sul
+2684,Loja 2684,Londres,Peru,Outros
+2685,Loja 2685,Mumbai,Itália,Outros
+2686,Loja 2686,Toronto,China,Outros
+2687,Loja 2687,Santiago,Peru,Outros
+2688,Loja 2688,Pequim,Austrália,Outros
+2689,Loja 2689,Dhaka,Austrália,Outros
+2690,Loja 2690,Hong Kong,Coreia do Sul,Outros
+2691,Loja 2691,Argel,Reino Unido,Outros
+2692,Loja 2692,Rio de Janeiro,Espanha,Outros
+2693,Loja 2693,Nova Deli,Chile,Outros
+2694,Loja 2694,Roma,Estados Unidos,Nordeste
+2695,Loja 2695,Riyadh,Japão,Outros
+2696,Loja 2696,Nova Deli,Brasil,Centro-Oeste
+2697,Loja 2697,Riyadh,China,Outros
+2698,Loja 2698,Bogotá,Japão,Outros
+2699,Loja 2699,Kuala Lumpur,Itália,Outros
+2700,Loja 2700,Bagdá,Canadá,Ontário
+2701,Loja 2701,Cairo,Itália,Outros
+2702,Loja 2702,Cingapura,Portugal,Outros
+2703,Loja 2703,Colombo,Estados Unidos,Sul
+2704,Loja 2704,Teerã,Índia,Outros
+2705,Loja 2705,Lima,China,Outros
+2706,Loja 2706,Londres,China,Outros
+2707,Loja 2707,Nova York,Espanha,Outros
+2708,Loja 2708,Moscou,Canadá,Quebec
+2709,Loja 2709,Seul,China,Outros
+2710,Loja 2710,Abu Dhabi,França,Outros
+2711,Loja 2711,Cairo,Índia,Outros
+2712,Loja 2712,Nairobi,China,Outros
+2713,Loja 2713,Teerã,Japão,Outros
+2714,Loja 2714,Moscou,Alemanha,Outros
+2715,Loja 2715,Katmandu,China,Outros
+2716,Loja 2716,Los Angeles,Coreia do Sul,Outros
+2717,Loja 2717,Rio de Janeiro,Brasil,Centro-Oeste
+2718,Loja 2718,Paris,Turquia,Outros
+2719,Loja 2719,Katmandu,Brasil,Sul
+2720,Loja 2720,Bagdá,Coreia do Sul,Outros
+2721,Loja 2721,Kuala Lumpur,Brasil,Nordeste
+2722,Loja 2722,Londres,China,Outros
+2723,Loja 2723,Islamabad,Itália,Outros
+2724,Loja 2724,São Paulo,China,Outros
+2725,Loja 2725,Riyadh,Canadá,Ontário
+2726,Loja 2726,Kuala Lumpur,Índia,Outros
+2727,Loja 2727,Casablanca,Reino Unido,Outros
+2728,Loja 2728,Hong Kong,Espanha,Outros
+2729,Loja 2729,Trípoli,França,Outros
+2730,Loja 2730,Santiago,Japão,Outros
+2731,Loja 2731,Londres,Alemanha,Outros
+2732,Loja 2732,Mumbai,Índia,Outros
+2733,Loja 2733,Tóquio,Japão,Outros
+2734,Loja 2734,Taipei,China,Outros
+2735,Loja 2735,Lima,França,Outros
+2736,Loja 2736,Jacarta,Brasil,Nordeste
+2737,Loja 2737,Hanói,Portugal,Outros
+2738,Loja 2738,Taipei,Reino Unido,Outros
+2739,Loja 2739,Seul,Itália,Outros
+2740,Loja 2740,Katmandu,Japão,Outros
+2741,Loja 2741,Abu Dhabi,Espanha,Outros
+2742,Loja 2742,Cairo,Espanha,Outros
+2743,Loja 2743,Toronto,Itália,Outros
+2744,Loja 2744,Dhaka,Alemanha,Outros
+2745,Loja 2745,Cairo,Peru,Outros
+2746,Loja 2746,Seul,Brasil,Nordeste
+2747,Loja 2747,São Paulo,Brasil,Norte
+2748,Loja 2748,Kyoto,Alemanha,Outros
+2749,Loja 2749,Damasco,Brasil,Sul
+2750,Loja 2750,Dakar,França,Outros
+2751,Loja 2751,Jacarta,Alemanha,Outros
+2752,Loja 2752,Cairo,Brasil,Sul
+2753,Loja 2753,Londres,Reino Unido,Outros
+2754,Loja 2754,Madri,Chile,Outros
+2755,Loja 2755,Sydney,Estados Unidos,Oeste
+2756,Loja 2756,Nova York,Coreia do Sul,Outros
+2757,Loja 2757,Phnom Penh,Estados Unidos,Sul
+2758,Loja 2758,Hong Kong,Peru,Outros
+2759,Loja 2759,Kinshasa,Canadá,Manitoba
+2760,Loja 2760,Toronto,Estados Unidos,Meio-Oeste
+2761,Loja 2761,Lima,Brasil,Sul
+2762,Loja 2762,Manila,Brasil,Sul
+2763,Loja 2763,Seul,Argentina,Outros
+2764,Loja 2764,Abu Dhabi,Canadá,Colúmbia Britânica
+2765,Loja 2765,Colombo,Alemanha,Outros
+2766,Loja 2766,Nova York,Brasil,Norte
+2767,Loja 2767,Casablanca,Peru,Outros
+2768,Loja 2768,Taipei,Índia,Outros
+2769,Loja 2769,Londres,Espanha,Outros
+2770,Loja 2770,Osaka,Brasil,Norte
+2771,Loja 2771,Paris,França,Outros
+2772,Loja 2772,Trípoli,Itália,Outros
+2773,Loja 2773,Tóquio,Rússia,Outros
+2774,Loja 2774,Moscou,China,Outros
+2775,Loja 2775,Nairobi,Peru,Outros
+2776,Loja 2776,Jacarta,Chile,Outros
+2777,Loja 2777,Casablanca,Peru,Outros
+2778,Loja 2778,Colombo,Canadá,Ontário
+2779,Loja 2779,Mumbai,Índia,Outros
+2780,Loja 2780,Madri,Itália,Outros
+2781,Loja 2781,Santiago,Estados Unidos,Meio-Oeste
+2782,Loja 2782,Moscou,Turquia,Outros
+2783,Loja 2783,Cairo,França,Outros
+2784,Loja 2784,Túnis,Peru,Outros
+2785,Loja 2785,Londres,Peru,Outros
+2786,Loja 2786,Paris,Reino Unido,Outros
+2787,Loja 2787,Cairo,Estados Unidos,Nordeste
+2788,Loja 2788,Osaka,Brasil,Norte
+2789,Loja 2789,Taipei,México,Sul
+2790,Loja 2790,Sydney,Portugal,Outros
+2791,Loja 2791,Kuala Lumpur,Brasil,Sul
+2792,Loja 2792,Kyoto,China,Outros
+2793,Loja 2793,Trípoli,Espanha,Outros
+2794,Loja 2794,Cairo,Rússia,Outros
+2795,Loja 2795,Dakar,Turquia,Outros
+2796,Loja 2796,Phnom Penh,Canadá,Alberta
+2797,Loja 2797,Manila,Chile,Outros
+2798,Loja 2798,Moscou,Alemanha,Outros
+2799,Loja 2799,Mumbai,Japão,Outros
+2800,Loja 2800,Damasco,Reino Unido,Outros
+2801,Loja 2801,Beirute,Itália,Outros
+2802,Loja 2802,Moscou,Portugal,Outros
+2803,Loja 2803,Damasco,Japão,Outros
+2804,Loja 2804,Yangon,Japão,Outros
+2805,Loja 2805,Berlim,Reino Unido,Outros
+2806,Loja 2806,São Paulo,Itália,Outros
+2807,Loja 2807,Katmandu,Itália,Outros
+2808,Loja 2808,Colombo,Peru,Outros
+2809,Loja 2809,Hanói,Japão,Outros
+2810,Loja 2810,Beirute,Reino Unido,Outros
+2811,Loja 2811,Johannesburg,Reino Unido,Outros
+2812,Loja 2812,Seul,Coreia do Sul,Outros
+2813,Loja 2813,Cingapura,Brasil,Centro-Oeste
+2814,Loja 2814,Amã,Alemanha,Outros
+2815,Loja 2815,Phnom Penh,Chile,Outros
+2816,Loja 2816,Roma,Estados Unidos,Sul
+2817,Loja 2817,Argel,Portugal,Outros
+2818,Loja 2818,Abu Dhabi,Itália,Outros
+2819,Loja 2819,Nova Deli,Itália,Outros
+2820,Loja 2820,Trípoli,Rússia,Outros
+2821,Loja 2821,Damasco,Turquia,Outros
+2822,Loja 2822,Jacarta,Itália,Outros
+2823,Loja 2823,Doha,China,Outros
+2824,Loja 2824,Toronto,Portugal,Outros
+2825,Loja 2825,São Paulo,Coreia do Sul,Outros
+2826,Loja 2826,Katmandu,Rússia,Outros
+2827,Loja 2827,Nova York,Estados Unidos,Sul
+2828,Loja 2828,Doha,China,Outros
+2829,Loja 2829,Islamabad,Portugal,Outros
+2830,Loja 2830,Pequim,Peru,Outros
+2831,Loja 2831,Manila,Canadá,Quebec
+2832,Loja 2832,Taipei,Reino Unido,Outros
+2833,Loja 2833,São Paulo,Reino Unido,Outros
+2834,Loja 2834,Tóquio,Estados Unidos,Oeste
+2835,Loja 2835,Sydney,Estados Unidos,Sul
+2836,Loja 2836,Katmandu,México,Noroeste
+2837,Loja 2837,Jerusalém,França,Outros
+2838,Loja 2838,Rio de Janeiro,China,Outros
+2839,Loja 2839,Sydney,Coreia do Sul,Outros
+2840,Loja 2840,Sydney,Japão,Outros
+2841,Loja 2841,Roma,Coreia do Sul,Outros
+2842,Loja 2842,Hong Kong,França,Outros
+2843,Loja 2843,Tóquio,Rússia,Outros
+2844,Loja 2844,Cairo,Coreia do Sul,Outros
+2845,Loja 2845,Lagos,Estados Unidos,Noroeste do Pacífico
+2846,Loja 2846,Riyadh,Argentina,Outros
+2847,Loja 2847,Pequim,Reino Unido,Outros
+2848,Loja 2848,Damasco,Turquia,Outros
+2849,Loja 2849,Cidade do México,França,Outros
+2850,Loja 2850,Damasco,França,Outros
+2851,Loja 2851,Jacarta,Alemanha,Outros
+2852,Loja 2852,Abu Dhabi,Japão,Outros
+2853,Loja 2853,Trípoli,França,Outros
+2854,Loja 2854,Lima,México,Noroeste
+2855,Loja 2855,Los Angeles,Índia,Outros
+2856,Loja 2856,Colombo,México,Sudeste
+2857,Loja 2857,Cidade do México,Índia,Outros
+2858,Loja 2858,Doha,Portugal,Outros
+2859,Loja 2859,Lima,Espanha,Outros
+2860,Loja 2860,Lagos,Itália,Outros
+2861,Loja 2861,Berlim,Turquia,Outros
+2862,Loja 2862,Cabul,Estados Unidos,Noroeste do Pacífico
+2863,Loja 2863,Damasco,Estados Unidos,Nordeste
+2864,Loja 2864,Johannesburg,Rússia,Outros
+2865,Loja 2865,Istambul,Austrália,Outros
+2866,Loja 2866,Beirute,Estados Unidos,Sul
+2867,Loja 2867,Tóquio,Canadá,Ontário
+2868,Loja 2868,Dubai,Austrália,Outros
+2869,Loja 2869,Paris,Japão,Outros
+2870,Loja 2870,Bogotá,Portugal,Outros
+2871,Loja 2871,Hong Kong,Estados Unidos,Sul
+2872,Loja 2872,Taipei,Peru,Outros
+2873,Loja 2873,Kinshasa,Espanha,Outros
+2874,Loja 2874,Los Angeles,Coreia do Sul,Outros
+2875,Loja 2875,Seul,Austrália,Outros
+2876,Loja 2876,Osaka,Reino Unido,Outros
+2877,Loja 2877,Hong Kong,Turquia,Outros
+2878,Loja 2878,Seul,Reino Unido,Outros
+2879,Loja 2879,Tóquio,Índia,Outros
+2880,Loja 2880,Osaka,Reino Unido,Outros
+2881,Loja 2881,Kuala Lumpur,México,Centro
+2882,Loja 2882,Riyadh,Alemanha,Outros
+2883,Loja 2883,Jacarta,Estados Unidos,Sul
+2884,Loja 2884,Hanói,Espanha,Outros
+2885,Loja 2885,Santiago,China,Outros
+2886,Loja 2886,Berlim,Itália,Outros
+2887,Loja 2887,Sydney,Austrália,Outros
+2888,Loja 2888,Islamabad,Argentina,Outros
+2889,Loja 2889,Tóquio,México,Sudeste
+2890,Loja 2890,Bagdá,China,Outros
+2891,Loja 2891,Kinshasa,Brasil,Sul
+2892,Loja 2892,Bogotá,Alemanha,Outros
+2893,Loja 2893,Londres,França,Outros
+2894,Loja 2894,Moscou,Canadá,Colúmbia Britânica
+2895,Loja 2895,Argel,Canadá,Manitoba
+2896,Loja 2896,Tóquio,Argentina,Outros
+2897,Loja 2897,Katmandu,China,Outros
+2898,Loja 2898,Cairo,Estados Unidos,Meio-Oeste
+2899,Loja 2899,Jacarta,Austrália,Outros
+2900,Loja 2900,Nairobi,Turquia,Outros
+2901,Loja 2901,Cingapura,Brasil,Norte
+2902,Loja 2902,Islamabad,Austrália,Outros
+2903,Loja 2903,Sydney,França,Outros
+2904,Loja 2904,São Paulo,Itália,Outros
+2905,Loja 2905,Mumbai,Portugal,Outros
+2906,Loja 2906,Colombo,Chile,Outros
+2907,Loja 2907,Cairo,Chile,Outros
+2908,Loja 2908,Moscou,Canadá,Manitoba
+2909,Loja 2909,Abu Dhabi,Turquia,Outros
+2910,Loja 2910,Lima,Espanha,Outros
+2911,Loja 2911,Pequim,México,Norte
+2912,Loja 2912,Tóquio,Estados Unidos,Meio-Oeste
+2913,Loja 2913,Teerã,Chile,Outros
+2914,Loja 2914,Phnom Penh,Alemanha,Outros
+2915,Loja 2915,Istambul,Canadá,Manitoba
+2916,Loja 2916,Bogotá,Canadá,Colúmbia Britânica
+2917,Loja 2917,Teerã,Peru,Outros
+2918,Loja 2918,Jacarta,Brasil,Sul
+2919,Loja 2919,Nova York,Argentina,Outros
+2920,Loja 2920,Kuala Lumpur,Índia,Outros
+2921,Loja 2921,Moscou,Japão,Outros
+2922,Loja 2922,Teerã,Brasil,Sul
+2923,Loja 2923,Teerã,Austrália,Outros
+2924,Loja 2924,Damasco,Peru,Outros
+2925,Loja 2925,Cabul,Japão,Outros
+2926,Loja 2926,Cairo,Coreia do Sul,Outros
+2927,Loja 2927,Cingapura,Rússia,Outros
+2928,Loja 2928,Doha,Coreia do Sul,Outros
+2929,Loja 2929,Cingapura,Índia,Outros
+2930,Loja 2930,Kyoto,Peru,Outros
+2931,Loja 2931,Pequim,Argentina,Outros
+2932,Loja 2932,Jerusalém,Austrália,Outros
+2933,Loja 2933,Pequim,China,Outros
+2934,Loja 2934,Madri,Itália,Outros
+2935,Loja 2935,Pequim,Índia,Outros
+2936,Loja 2936,Moscou,Chile,Outros
+2937,Loja 2937,Doha,Japão,Outros
+2938,Loja 2938,Osaka,China,Outros
+2939,Loja 2939,Hong Kong,Chile,Outros
+2940,Loja 2940,Bagdá,México,Noroeste
+2941,Loja 2941,Teerã,Japão,Outros
+2942,Loja 2942,Madri,Turquia,Outros
+2943,Loja 2943,Cidade do México,Turquia,Outros
+2944,Loja 2944,Beirute,França,Outros
+2945,Loja 2945,Nairobi,Coreia do Sul,Outros
+2946,Loja 2946,Manila,Portugal,Outros
+2947,Loja 2947,Mumbai,Índia,Outros
+2948,Loja 2948,Paris,Itália,Outros
+2949,Loja 2949,Damasco,Argentina,Outros
+2950,Loja 2950,Doha,Peru,Outros
+2951,Loja 2951,Tóquio,Peru,Outros
+2952,Loja 2952,Los Angeles,Austrália,Outros
+2953,Loja 2953,Cairo,Rússia,Outros
+2954,Loja 2954,Yangon,Itália,Outros
+2955,Loja 2955,Hanói,Reino Unido,Outros
+2956,Loja 2956,Riyadh,Chile,Outros
+2957,Loja 2957,Rio de Janeiro,Brasil,Centro-Oeste
+2958,Loja 2958,Cairo,Itália,Outros
+2959,Loja 2959,Istambul,Estados Unidos,Noroeste do Pacífico
+2960,Loja 2960,Madri,Argentina,Outros
+2961,Loja 2961,Yangon,Itália,Outros
+2962,Loja 2962,Trípoli,Portugal,Outros
+2963,Loja 2963,Teerã,China,Outros
+2964,Loja 2964,Moscou,Estados Unidos,Nordeste
+2965,Loja 2965,Seul,Reino Unido,Outros
+2966,Loja 2966,Bagdá,Índia,Outros
+2967,Loja 2967,Islamabad,Brasil,Sul
+2968,Loja 2968,Istambul,Chile,Outros
+2969,Loja 2969,Casablanca,Brasil,Nordeste
+2970,Loja 2970,Tóquio,Índia,Outros
+2971,Loja 2971,Riyadh,México,Sul
+2972,Loja 2972,Kinshasa,Canadá,Ontário
+2973,Loja 2973,Seul,Turquia,Outros
+2974,Loja 2974,Manila,Espanha,Outros
+2975,Loja 2975,Osaka,Reino Unido,Outros
+2976,Loja 2976,Bogotá,Alemanha,Outros
+2977,Loja 2977,Manila,Canadá,Alberta
+2978,Loja 2978,Toronto,Argentina,Outros
+2979,Loja 2979,Nairobi,Espanha,Outros
+2980,Loja 2980,Yangon,Itália,Outros
+2981,Loja 2981,Toronto,França,Outros
+2982,Loja 2982,Phnom Penh,Turquia,Outros
+2983,Loja 2983,Londres,Coreia do Sul,Outros
+2984,Loja 2984,Amã,Índia,Outros
+2985,Loja 2985,Hanói,Japão,Outros
+2986,Loja 2986,Argel,Portugal,Outros
+2987,Loja 2987,Seul,México,Norte
+2988,Loja 2988,Kinshasa,México,Noroeste
+2989,Loja 2989,Paris,Argentina,Outros
+2990,Loja 2990,Berlim,Canadá,Manitoba
+2991,Loja 2991,Phnom Penh,Reino Unido,Outros
+2992,Loja 2992,Beirute,Rússia,Outros
+2993,Loja 2993,Casablanca,Alemanha,Outros
+2994,Loja 2994,Teerã,Chile,Outros
+2995,Loja 2995,Cairo,Portugal,Outros
+2996,Loja 2996,Bagdá,Coreia do Sul,Outros
+2997,Loja 2997,Seul,Portugal,Outros
+2998,Loja 2998,Amã,Itália,Outros
+2999,Loja 2999,Bangkok,Itália,Outros
+3000,Loja 3000,Pequim,Austrália,Outros
+3001,Loja 3001,Lagos,França,Outros
+3002,Loja 3002,Rio de Janeiro,Canadá,Quebec
+3003,Loja 3003,Doha,Índia,Outros
+3004,Loja 3004,Mumbai,China,Outros
+3005,Loja 3005,Seul,Turquia,Outros
+3006,Loja 3006,Lagos,Canadá,Alberta
+3007,Loja 3007,Dhaka,Índia,Outros
+3008,Loja 3008,Teerã,Rússia,Outros
+3009,Loja 3009,Tóquio,Espanha,Outros
+3010,Loja 3010,Riyadh,México,Centro
+3011,Loja 3011,Islamabad,Brasil,Centro-Oeste
+3012,Loja 3012,Abu Dhabi,Austrália,Outros
+3013,Loja 3013,Nairobi,Reino Unido,Outros
+3014,Loja 3014,Santiago,Índia,Outros
+3015,Loja 3015,Londres,Itália,Outros
+3016,Loja 3016,Toronto,Brasil,Norte
+3017,Loja 3017,Kuala Lumpur,Peru,Outros
+3018,Loja 3018,Yangon,Argentina,Outros
+3019,Loja 3019,Abu Dhabi,Estados Unidos,Oeste
+3020,Loja 3020,Jacarta,França,Outros
+3021,Loja 3021,Teerã,Chile,Outros
+3022,Loja 3022,Amã,Austrália,Outros
+3023,Loja 3023,Johannesburg,Brasil,Sul
+3024,Loja 3024,Nova York,França,Outros
+3025,Loja 3025,Roma,Turquia,Outros
+3026,Loja 3026,Cairo,México,Sudeste
+3027,Loja 3027,Cabul,Chile,Outros
+3028,Loja 3028,Abu Dhabi,Portugal,Outros
+3029,Loja 3029,Abu Dhabi,Portugal,Outros
+3030,Loja 3030,Mumbai,Canadá,Quebec
+3031,Loja 3031,Hanói,Argentina,Outros
+3032,Loja 3032,Cairo,Estados Unidos,Nordeste
+3033,Loja 3033,Nova York,Austrália,Outros
+3034,Loja 3034,Beirute,França,Outros
+3035,Loja 3035,Sydney,México,Norte
+3036,Loja 3036,Amã,Japão,Outros
+3037,Loja 3037,Islamabad,Rússia,Outros
+3038,Loja 3038,Dhaka,Coreia do Sul,Outros
+3039,Loja 3039,Cairo,Brasil,Nordeste
+3040,Loja 3040,Moscou,Austrália,Outros
+3041,Loja 3041,Amã,Estados Unidos,Meio-Oeste
+3042,Loja 3042,Los Angeles,Japão,Outros
+3043,Loja 3043,Toronto,Rússia,Outros
+3044,Loja 3044,Los Angeles,Índia,Outros
+3045,Loja 3045,Bogotá,Portugal,Outros
+3046,Loja 3046,Beirute,Austrália,Outros
+3047,Loja 3047,Pequim,Itália,Outros
+3048,Loja 3048,Abu Dhabi,Estados Unidos,Oeste
+3049,Loja 3049,Madri,Espanha,Outros
+3050,Loja 3050,Jerusalém,Estados Unidos,Nordeste
+3051,Loja 3051,Los Angeles,Brasil,Sul
+3052,Loja 3052,Cidade do México,Reino Unido,Outros
+3053,Loja 3053,Cabul,Canadá,Colúmbia Britânica
+3054,Loja 3054,Manila,Chile,Outros
+3055,Loja 3055,Jerusalém,França,Outros
+3056,Loja 3056,Bagdá,Rússia,Outros
+3057,Loja 3057,Manila,Argentina,Outros
+3058,Loja 3058,Doha,Austrália,Outros
+3059,Loja 3059,Kyoto,Canadá,Ontário
+3060,Loja 3060,Rio de Janeiro,China,Outros
+3061,Loja 3061,Doha,Coreia do Sul,Outros
+3062,Loja 3062,Osaka,Peru,Outros
+3063,Loja 3063,Abu Dhabi,Alemanha,Outros
+3064,Loja 3064,Argel,Argentina,Outros
+3065,Loja 3065,Berlim,França,Outros
+3066,Loja 3066,Dubai,Austrália,Outros
+3067,Loja 3067,Colombo,Coreia do Sul,Outros
+3068,Loja 3068,Paris,Brasil,Nordeste
+3069,Loja 3069,Nairobi,Alemanha,Outros
+3070,Loja 3070,Madri,França,Outros
+3071,Loja 3071,Yangon,Chile,Outros
+3072,Loja 3072,Katmandu,Canadá,Quebec
+3073,Loja 3073,Casablanca,Argentina,Outros
+3074,Loja 3074,Túnis,Argentina,Outros
+3075,Loja 3075,Seul,Portugal,Outros
+3076,Loja 3076,Doha,Alemanha,Outros
+3077,Loja 3077,Seul,Portugal,Outros
+3078,Loja 3078,Cairo,Índia,Outros
+3079,Loja 3079,Pequim,Índia,Outros
+3080,Loja 3080,Nova York,Reino Unido,Outros
+3081,Loja 3081,Colombo,Reino Unido,Outros
+3082,Loja 3082,Madri,Estados Unidos,Oeste
+3083,Loja 3083,Sydney,Austrália,Outros
+3084,Loja 3084,Seul,Japão,Outros
+3085,Loja 3085,Cairo,Peru,Outros
+3086,Loja 3086,Argel,Rússia,Outros
+3087,Loja 3087,Trípoli,Peru,Outros
+3088,Loja 3088,Pequim,Portugal,Outros
+3089,Loja 3089,Taipei,México,Norte
+3090,Loja 3090,Jacarta,Alemanha,Outros
+3091,Loja 3091,Seul,Turquia,Outros
+3092,Loja 3092,Cabul,Índia,Outros
+3093,Loja 3093,Nova Deli,México,Norte
+3094,Loja 3094,Bagdá,Coreia do Sul,Outros
+3095,Loja 3095,Roma,China,Outros
+3096,Loja 3096,Buenos Aires,Peru,Outros
+3097,Loja 3097,Damasco,França,Outros
+3098,Loja 3098,Jerusalém,Canadá,Colúmbia Britânica
+3099,Loja 3099,Tóquio,Austrália,Outros
+3100,Loja 3100,Seul,Austrália,Outros
+3101,Loja 3101,Cabul,México,Sudeste
+3102,Loja 3102,Cingapura,Peru,Outros
+3103,Loja 3103,Lima,Índia,Outros
+3104,Loja 3104,Bogotá,Austrália,Outros
+3105,Loja 3105,Madri,Itália,Outros
+3106,Loja 3106,Toronto,Brasil,Nordeste
+3107,Loja 3107,Yangon,Japão,Outros
+3108,Loja 3108,Lima,Portugal,Outros
+3109,Loja 3109,Bangkok,Estados Unidos,Meio-Oeste
+3110,Loja 3110,Islamabad,Austrália,Outros
+3111,Loja 3111,Lima,Austrália,Outros
+3112,Loja 3112,Paris,Argentina,Outros
+3113,Loja 3113,Amã,Turquia,Outros
+3114,Loja 3114,Jacarta,México,Noroeste
+3115,Loja 3115,Kuala Lumpur,França,Outros
+3116,Loja 3116,Berlim,Argentina,Outros
+3117,Loja 3117,Teerã,México,Centro
+3118,Loja 3118,Sydney,Peru,Outros
+3119,Loja 3119,Phnom Penh,Estados Unidos,Oeste
+3120,Loja 3120,Jacarta,China,Outros
+3121,Loja 3121,Pequim,Reino Unido,Outros
+3122,Loja 3122,Islamabad,México,Sudeste
+3123,Loja 3123,Kyoto,Rússia,Outros
+3124,Loja 3124,Taipei,Argentina,Outros
+3125,Loja 3125,Abu Dhabi,Coreia do Sul,Outros
+3126,Loja 3126,Argel,Índia,Outros
+3127,Loja 3127,Phnom Penh,Itália,Outros
+3128,Loja 3128,Lima,Brasil,Nordeste
+3129,Loja 3129,Yangon,Turquia,Outros
+3130,Loja 3130,Argel,Chile,Outros
+3131,Loja 3131,Nova Deli,Alemanha,Outros
+3132,Loja 3132,Moscou,Coreia do Sul,Outros
+3133,Loja 3133,Nova Deli,Índia,Outros
+3134,Loja 3134,Lima,Peru,Outros
+3135,Loja 3135,Kyoto,Rússia,Outros
+3136,Loja 3136,Cingapura,França,Outros
+3137,Loja 3137,Nova Deli,Turquia,Outros
+3138,Loja 3138,Doha,México,Sudeste
+3139,Loja 3139,Jacarta,Canadá,Quebec
+3140,Loja 3140,Mumbai,Japão,Outros
+3141,Loja 3141,Kyoto,França,Outros
+3142,Loja 3142,Tóquio,Canadá,Colúmbia Britânica
+3143,Loja 3143,Johannesburg,Turquia,Outros
+3144,Loja 3144,Londres,Brasil,Sul
+3145,Loja 3145,Kyoto,Canadá,Quebec
+3146,Loja 3146,Cairo,Rússia,Outros
+3147,Loja 3147,Katmandu,Reino Unido,Outros
+3148,Loja 3148,Osaka,Peru,Outros
+3149,Loja 3149,Cairo,Austrália,Outros
+3150,Loja 3150,Seul,Japão,Outros
+3151,Loja 3151,Moscou,Peru,Outros
+3152,Loja 3152,Cairo,Austrália,Outros
+3153,Loja 3153,Doha,Peru,Outros
+3154,Loja 3154,Jerusalém,Reino Unido,Outros
+3155,Loja 3155,Manila,Turquia,Outros
+3156,Loja 3156,Jacarta,Alemanha,Outros
+3157,Loja 3157,Beirute,Argentina,Outros
+3158,Loja 3158,Dhaka,Austrália,Outros
+3159,Loja 3159,Hanói,Japão,Outros
+3160,Loja 3160,Santiago,Itália,Outros
+3161,Loja 3161,Kyoto,Alemanha,Outros
+3162,Loja 3162,São Paulo,Espanha,Outros
+3163,Loja 3163,Phnom Penh,China,Outros
+3164,Loja 3164,Jacarta,Brasil,Nordeste
+3165,Loja 3165,Tóquio,China,Outros
+3166,Loja 3166,Hanói,Portugal,Outros
+3167,Loja 3167,Teerã,Rússia,Outros
+3168,Loja 3168,Jerusalém,Austrália,Outros
+3169,Loja 3169,Seul,Brasil,Centro-Oeste
+3170,Loja 3170,Nova York,Estados Unidos,Nordeste
+3171,Loja 3171,Trípoli,México,Centro
+3172,Loja 3172,Istambul,Peru,Outros
+3173,Loja 3173,Hanói,México,Norte
+3174,Loja 3174,Los Angeles,Japão,Outros
+3175,Loja 3175,Paris,Rússia,Outros
+3176,Loja 3176,Dubai,Espanha,Outros
+3177,Loja 3177,Istambul,França,Outros
+3178,Loja 3178,Bogotá,Canadá,Colúmbia Britânica
+3179,Loja 3179,Nova Deli,Brasil,Sul
+3180,Loja 3180,Túnis,Índia,Outros
+3181,Loja 3181,Doha,Índia,Outros
+3182,Loja 3182,Amã,Itália,Outros
+3183,Loja 3183,Lima,Coreia do Sul,Outros
+3184,Loja 3184,Mumbai,Canadá,Alberta
+3185,Loja 3185,São Paulo,Alemanha,Outros
+3186,Loja 3186,Trípoli,Índia,Outros
+3187,Loja 3187,Doha,Itália,Outros
+3188,Loja 3188,Cingapura,Espanha,Outros
+3189,Loja 3189,Phnom Penh,Coreia do Sul,Outros
+3190,Loja 3190,Dakar,Estados Unidos,Noroeste do Pacífico
+3191,Loja 3191,Madri,Turquia,Outros
+3192,Loja 3192,Túnis,Índia,Outros
+3193,Loja 3193,Los Angeles,Turquia,Outros
+3194,Loja 3194,Jacarta,Portugal,Outros
+3195,Loja 3195,Madri,Índia,Outros
+3196,Loja 3196,Moscou,Turquia,Outros
+3197,Loja 3197,Damasco,Austrália,Outros
+3198,Loja 3198,Jacarta,Argentina,Outros
+3199,Loja 3199,Cabul,Turquia,Outros
+3200,Loja 3200,Sydney,Coreia do Sul,Outros
+3201,Loja 3201,Nova York,Itália,Outros
+3202,Loja 3202,Dakar,Argentina,Outros
+3203,Loja 3203,Islamabad,Estados Unidos,Oeste
+3204,Loja 3204,Seul,Chile,Outros
+3205,Loja 3205,Londres,México,Norte
+3206,Loja 3206,Istambul,Estados Unidos,Meio-Oeste
+3207,Loja 3207,Sydney,Canadá,Colúmbia Britânica
+3208,Loja 3208,Tóquio,Rússia,Outros
+3209,Loja 3209,Berlim,Austrália,Outros
+3210,Loja 3210,Beirute,Estados Unidos,Oeste
+3211,Loja 3211,Casablanca,Alemanha,Outros
+3212,Loja 3212,Sydney,México,Norte
+3213,Loja 3213,Rio de Janeiro,Alemanha,Outros
+3214,Loja 3214,Trípoli,China,Outros
+3215,Loja 3215,Kuala Lumpur,Peru,Outros
+3216,Loja 3216,Kinshasa,Rússia,Outros
+3217,Loja 3217,Colombo,Chile,Outros
+3218,Loja 3218,Santiago,Canadá,Colúmbia Britânica
+3219,Loja 3219,Pequim,Turquia,Outros
+3220,Loja 3220,Cairo,México,Centro
+3221,Loja 3221,Cingapura,Chile,Outros
+3222,Loja 3222,Teerã,Portugal,Outros
+3223,Loja 3223,Kuala Lumpur,Portugal,Outros
+3224,Loja 3224,Dakar,Índia,Outros
+3225,Loja 3225,Osaka,Rússia,Outros
+3226,Loja 3226,Londres,China,Outros
+3227,Loja 3227,Cabul,França,Outros
+3228,Loja 3228,Seul,Rússia,Outros
+3229,Loja 3229,Los Angeles,Peru,Outros
+3230,Loja 3230,Taipei,Chile,Outros
+3231,Loja 3231,Lima,Estados Unidos,Oeste
+3232,Loja 3232,Los Angeles,Itália,Outros
+3233,Loja 3233,Jacarta,Índia,Outros
+3234,Loja 3234,Yangon,Coreia do Sul,Outros
+3235,Loja 3235,Damasco,Índia,Outros
+3236,Loja 3236,Hanói,Índia,Outros
+3237,Loja 3237,Madri,Estados Unidos,Nordeste
+3238,Loja 3238,Santiago,China,Outros
+3239,Loja 3239,Los Angeles,Estados Unidos,Nordeste
+3240,Loja 3240,Damasco,Portugal,Outros
+3241,Loja 3241,Seul,China,Outros
+3242,Loja 3242,Kuala Lumpur,Turquia,Outros
+3243,Loja 3243,Dubai,Chile,Outros
+3244,Loja 3244,Lagos,Austrália,Outros
+3245,Loja 3245,Kinshasa,Japão,Outros
+3246,Loja 3246,Teerã,Reino Unido,Outros
+3247,Loja 3247,Sydney,Índia,Outros
+3248,Loja 3248,Jacarta,Austrália,Outros
+3249,Loja 3249,Túnis,França,Outros
+3250,Loja 3250,Buenos Aires,Austrália,Outros
+3251,Loja 3251,Dubai,França,Outros
+3252,Loja 3252,Berlim,França,Outros
+3253,Loja 3253,Hong Kong,Rússia,Outros
+3254,Loja 3254,Cairo,Canadá,Manitoba
+3255,Loja 3255,Madri,Canadá,Manitoba
+3256,Loja 3256,Kuala Lumpur,Alemanha,Outros
+3257,Loja 3257,Hanói,Estados Unidos,Meio-Oeste
+3258,Loja 3258,Londres,China,Outros
+3259,Loja 3259,Nairobi,Chile,Outros
+3260,Loja 3260,Amã,Peru,Outros
+3261,Loja 3261,Katmandu,México,Sul
+3262,Loja 3262,Hanói,Rússia,Outros
+3263,Loja 3263,Teerã,Estados Unidos,Oeste
+3264,Loja 3264,Cabul,Turquia,Outros
+3265,Loja 3265,Cidade do México,Turquia,Outros
+3266,Loja 3266,Amã,Itália,Outros
+3267,Loja 3267,Seul,Espanha,Outros
+3268,Loja 3268,Hanói,Estados Unidos,Noroeste do Pacífico
+3269,Loja 3269,Cairo,Itália,Outros
+3270,Loja 3270,Riyadh,Turquia,Outros
+3271,Loja 3271,Amã,Itália,Outros
+3272,Loja 3272,Abu Dhabi,Alemanha,Outros
+3273,Loja 3273,Seul,Alemanha,Outros
+3274,Loja 3274,Johannesburg,Índia,Outros
+3275,Loja 3275,Nova York,Índia,Outros
+3276,Loja 3276,Roma,Turquia,Outros
+3277,Loja 3277,Osaka,Coreia do Sul,Outros
+3278,Loja 3278,Katmandu,Argentina,Outros
+3279,Loja 3279,Kinshasa,Coreia do Sul,Outros
+3280,Loja 3280,Kinshasa,Reino Unido,Outros
+3281,Loja 3281,Dakar,México,Sul
+3282,Loja 3282,Cabul,Austrália,Outros
+3283,Loja 3283,Colombo,Canadá,Quebec
+3284,Loja 3284,Seul,Argentina,Outros
+3285,Loja 3285,Seul,Coreia do Sul,Outros
+3286,Loja 3286,Nova Deli,México,Sudeste
+3287,Loja 3287,Pequim,Canadá,Manitoba
+3288,Loja 3288,Cairo,Austrália,Outros
+3289,Loja 3289,Londres,Alemanha,Outros
+3290,Loja 3290,Colombo,Argentina,Outros
+3291,Loja 3291,Nairobi,Argentina,Outros
+3292,Loja 3292,Dubai,China,Outros
+3293,Loja 3293,Madri,Chile,Outros
+3294,Loja 3294,Teerã,Austrália,Outros
+3295,Loja 3295,Seul,Argentina,Outros
+3296,Loja 3296,Istambul,Reino Unido,Outros
+3297,Loja 3297,Hanói,Chile,Outros
+3298,Loja 3298,Amã,Índia,Outros
+3299,Loja 3299,Tóquio,Chile,Outros
+3300,Loja 3300,Seul,Alemanha,Outros
+3301,Loja 3301,Lagos,Japão,Outros
+3302,Loja 3302,Osaka,Estados Unidos,Oeste
+3303,Loja 3303,Yangon,Índia,Outros
+3304,Loja 3304,Argel,China,Outros
+3305,Loja 3305,Cairo,Japão,Outros
+3306,Loja 3306,Bangkok,China,Outros
+3307,Loja 3307,Argel,França,Outros
+3308,Loja 3308,Jerusalém,Portugal,Outros
+3309,Loja 3309,Jacarta,China,Outros
+3310,Loja 3310,Istambul,Índia,Outros
+3311,Loja 3311,Jacarta,Turquia,Outros
+3312,Loja 3312,Los Angeles,Coreia do Sul,Outros
+3313,Loja 3313,Yangon,França,Outros
+3314,Loja 3314,Katmandu,Chile,Outros
+3315,Loja 3315,Santiago,Brasil,Norte
+3316,Loja 3316,Colombo,Portugal,Outros
+3317,Loja 3317,Bogotá,China,Outros
+3318,Loja 3318,Jacarta,Turquia,Outros
+3319,Loja 3319,Nairobi,Estados Unidos,Oeste
+3320,Loja 3320,Cabul,Índia,Outros
+3321,Loja 3321,Osaka,México,Noroeste
+3322,Loja 3322,Mumbai,Peru,Outros
+3323,Loja 3323,Bangkok,Alemanha,Outros
+3324,Loja 3324,Cairo,Brasil,Sudeste
+3325,Loja 3325,Hanói,México,Centro
+3326,Loja 3326,Túnis,Canadá,Ontário
+3327,Loja 3327,Cairo,Estados Unidos,Noroeste do Pacífico
+3328,Loja 3328,Riyadh,China,Outros
+3329,Loja 3329,Cabul,Turquia,Outros
+3330,Loja 3330,Colombo,Argentina,Outros
+3331,Loja 3331,Nova Deli,México,Noroeste
+3332,Loja 3332,Trípoli,Argentina,Outros
+3333,Loja 3333,Nova York,Índia,Outros
+3334,Loja 3334,Los Angeles,Canadá,Quebec
+3335,Loja 3335,Cairo,Austrália,Outros
+3336,Loja 3336,Dhaka,Turquia,Outros
+3337,Loja 3337,Santiago,França,Outros
+3338,Loja 3338,Lima,Chile,Outros
+3339,Loja 3339,Dakar,Estados Unidos,Meio-Oeste
+3340,Loja 3340,Cairo,Turquia,Outros
+3341,Loja 3341,Londres,Brasil,Sudeste
+3342,Loja 3342,Argel,Argentina,Outros
+3343,Loja 3343,Cidade do México,Chile,Outros
+3344,Loja 3344,Lima,Chile,Outros
+3345,Loja 3345,Istambul,México,Norte
+3346,Loja 3346,Lima,Austrália,Outros
+3347,Loja 3347,Tóquio,Alemanha,Outros
+3348,Loja 3348,Teerã,Rússia,Outros
+3349,Loja 3349,Bagdá,Brasil,Nordeste
+3350,Loja 3350,São Paulo,Rússia,Outros
+3351,Loja 3351,Roma,Chile,Outros
+3352,Loja 3352,Kuala Lumpur,Itália,Outros
+3353,Loja 3353,Istambul,Canadá,Colúmbia Britânica
+3354,Loja 3354,Paris,Peru,Outros
+3355,Loja 3355,Dubai,França,Outros
+3356,Loja 3356,Kinshasa,Peru,Outros
+3357,Loja 3357,Doha,Espanha,Outros
+3358,Loja 3358,Pequim,Austrália,Outros
+3359,Loja 3359,Seul,Índia,Outros
+3360,Loja 3360,Casablanca,Reino Unido,Outros
+3361,Loja 3361,Los Angeles,Brasil,Nordeste
+3362,Loja 3362,Sydney,Índia,Outros
+3363,Loja 3363,Amã,Itália,Outros
+3364,Loja 3364,Kuala Lumpur,Estados Unidos,Sul
+3365,Loja 3365,Los Angeles,Reino Unido,Outros
+3366,Loja 3366,Buenos Aires,Austrália,Outros
+3367,Loja 3367,Damasco,Austrália,Outros
+3368,Loja 3368,Nova York,Brasil,Centro-Oeste
+3369,Loja 3369,Amã,Itália,Outros
+3370,Loja 3370,Pequim,Alemanha,Outros
+3371,Loja 3371,Dhaka,Itália,Outros
+3372,Loja 3372,Doha,Turquia,Outros
+3373,Loja 3373,Phnom Penh,Argentina,Outros
+3374,Loja 3374,Moscou,Rússia,Outros
+3375,Loja 3375,Rio de Janeiro,Argentina,Outros
+3376,Loja 3376,Beirute,México,Norte
+3377,Loja 3377,Taipei,Canadá,Manitoba
+3378,Loja 3378,Rio de Janeiro,Reino Unido,Outros
+3379,Loja 3379,Yangon,França,Outros
+3380,Loja 3380,Trípoli,Brasil,Centro-Oeste
+3381,Loja 3381,Istambul,Reino Unido,Outros
+3382,Loja 3382,Cidade do México,Reino Unido,Outros
+3383,Loja 3383,Casablanca,Espanha,Outros
+3384,Loja 3384,Túnis,Japão,Outros
+3385,Loja 3385,Berlim,Alemanha,Outros
+3386,Loja 3386,Lima,Japão,Outros
+3387,Loja 3387,Seul,Chile,Outros
+3388,Loja 3388,Santiago,Índia,Outros
+3389,Loja 3389,Casablanca,Turquia,Outros
+3390,Loja 3390,Seul,Japão,Outros
+3391,Loja 3391,Nairobi,Brasil,Sul
+3392,Loja 3392,Istambul,Turquia,Outros
+3393,Loja 3393,Tóquio,Portugal,Outros
+3394,Loja 3394,Nova Deli,Rússia,Outros
+3395,Loja 3395,Seul,Brasil,Norte
+3396,Loja 3396,Nairobi,Estados Unidos,Meio-Oeste
+3397,Loja 3397,Hanói,Japão,Outros
+3398,Loja 3398,Riyadh,França,Outros
+3399,Loja 3399,Doha,Coreia do Sul,Outros
+3400,Loja 3400,Lima,Índia,Outros
+3401,Loja 3401,Nairobi,China,Outros
+3402,Loja 3402,Sydney,Índia,Outros
+3403,Loja 3403,Nova York,Espanha,Outros
+3404,Loja 3404,Tóquio,Índia,Outros
+3405,Loja 3405,Moscou,Peru,Outros
+3406,Loja 3406,Nova York,Japão,Outros
+3407,Loja 3407,Phnom Penh,Estados Unidos,Sul
+3408,Loja 3408,Colombo,Peru,Outros
+3409,Loja 3409,Rio de Janeiro,Canadá,Ontário
+3410,Loja 3410,Taipei,Argentina,Outros
+3411,Loja 3411,Cairo,França,Outros
+3412,Loja 3412,Tóquio,Itália,Outros
+3413,Loja 3413,São Paulo,Portugal,Outros
+3414,Loja 3414,Casablanca,Argentina,Outros
+3415,Loja 3415,Cidade do México,China,Outros
+3416,Loja 3416,Hanói,Japão,Outros
+3417,Loja 3417,Berlim,México,Noroeste
+3418,Loja 3418,Londres,Alemanha,Outros
+3419,Loja 3419,Moscou,Alemanha,Outros
+3420,Loja 3420,Jacarta,Reino Unido,Outros
+3421,Loja 3421,Roma,Índia,Outros
+3422,Loja 3422,Beirute,Reino Unido,Outros
+3423,Loja 3423,Hanói,México,Norte
+3424,Loja 3424,Jerusalém,Índia,Outros
+3425,Loja 3425,Kinshasa,Portugal,Outros
+3426,Loja 3426,Toronto,Estados Unidos,Nordeste
+3427,Loja 3427,Roma,Chile,Outros
+3428,Loja 3428,Cairo,Rússia,Outros
+3429,Loja 3429,Cairo,Alemanha,Outros
+3430,Loja 3430,Roma,Chile,Outros
+3431,Loja 3431,Dakar,Reino Unido,Outros
+3432,Loja 3432,Lagos,Alemanha,Outros
+3433,Loja 3433,Bogotá,Estados Unidos,Nordeste
+3434,Loja 3434,Londres,Portugal,Outros
+3435,Loja 3435,Jacarta,Rússia,Outros
+3436,Loja 3436,Hong Kong,Argentina,Outros
+3437,Loja 3437,Hanói,Peru,Outros
+3438,Loja 3438,Katmandu,Rússia,Outros
+3439,Loja 3439,Jacarta,Índia,Outros
+3440,Loja 3440,Taipei,Alemanha,Outros
+3441,Loja 3441,Damasco,Brasil,Sul
+3442,Loja 3442,Sydney,China,Outros
+3443,Loja 3443,Amã,Espanha,Outros
+3444,Loja 3444,Lagos,Japão,Outros
+3445,Loja 3445,Jacarta,Índia,Outros
+3446,Loja 3446,Istambul,China,Outros
+3447,Loja 3447,Pequim,Japão,Outros
+3448,Loja 3448,Cidade do México,Alemanha,Outros
+3449,Loja 3449,Seul,Peru,Outros
+3450,Loja 3450,Nairobi,Alemanha,Outros
+3451,Loja 3451,Cingapura,Chile,Outros
+3452,Loja 3452,Damasco,Coreia do Sul,Outros
+3453,Loja 3453,Osaka,Reino Unido,Outros
+3454,Loja 3454,Londres,Brasil,Norte
+3455,Loja 3455,Yangon,Austrália,Outros
+3456,Loja 3456,Jacarta,Coreia do Sul,Outros
+3457,Loja 3457,Argel,Coreia do Sul,Outros
+3458,Loja 3458,Bagdá,Itália,Outros
+3459,Loja 3459,Cabul,México,Sul
+3460,Loja 3460,Jerusalém,Argentina,Outros
+3461,Loja 3461,Cabul,Chile,Outros
+3462,Loja 3462,Pequim,Peru,Outros
+3463,Loja 3463,Islamabad,Itália,Outros
+3464,Loja 3464,Argel,Turquia,Outros
+3465,Loja 3465,Madri,Chile,Outros
+3466,Loja 3466,Nairobi,Portugal,Outros
+3467,Loja 3467,Kuala Lumpur,Austrália,Outros
+3468,Loja 3468,Colombo,Brasil,Nordeste
+3469,Loja 3469,Tóquio,México,Norte
+3470,Loja 3470,Nova Deli,Brasil,Sudeste
+3471,Loja 3471,Islamabad,Alemanha,Outros
+3472,Loja 3472,Rio de Janeiro,Espanha,Outros
+3473,Loja 3473,Hanói,Reino Unido,Outros
+3474,Loja 3474,Rio de Janeiro,Coreia do Sul,Outros
+3475,Loja 3475,Kinshasa,Turquia,Outros
+3476,Loja 3476,Los Angeles,Japão,Outros
+3477,Loja 3477,Los Angeles,Estados Unidos,Oeste
+3478,Loja 3478,Hanói,Portugal,Outros
+3479,Loja 3479,Riyadh,França,Outros
+3480,Loja 3480,Manila,Alemanha,Outros
+3481,Loja 3481,Nova York,Peru,Outros
+3482,Loja 3482,Teerã,Espanha,Outros
+3483,Loja 3483,Moscou,Chile,Outros
+3484,Loja 3484,Doha,China,Outros
+3485,Loja 3485,Dakar,França,Outros
+3486,Loja 3486,Bangkok,Argentina,Outros
+3487,Loja 3487,Paris,China,Outros
+3488,Loja 3488,Hong Kong,Alemanha,Outros
+3489,Loja 3489,Sydney,Portugal,Outros
+3490,Loja 3490,Lima,Chile,Outros
+3491,Loja 3491,Amã,Brasil,Sul
+3492,Loja 3492,Bangkok,Portugal,Outros
+3493,Loja 3493,Santiago,Estados Unidos,Meio-Oeste
+3494,Loja 3494,Johannesburg,Turquia,Outros
+3495,Loja 3495,Londres,Coreia do Sul,Outros
+3496,Loja 3496,Bangkok,China,Outros
+3497,Loja 3497,Mumbai,França,Outros
+3498,Loja 3498,Teerã,Portugal,Outros
+3499,Loja 3499,Bagdá,Coreia do Sul,Outros
+3500,Loja 3500,Moscou,Turquia,Outros
+3501,Loja 3501,Moscou,Espanha,Outros
+3502,Loja 3502,Teerã,Índia,Outros
+3503,Loja 3503,Kinshasa,Reino Unido,Outros
+3504,Loja 3504,Sydney,Portugal,Outros
+3505,Loja 3505,Dhaka,Argentina,Outros
+3506,Loja 3506,Katmandu,Peru,Outros
+3507,Loja 3507,Manila,Chile,Outros
+3508,Loja 3508,Kyoto,Rússia,Outros
+3509,Loja 3509,Seul,Japão,Outros
+3510,Loja 3510,Moscou,Austrália,Outros
+3511,Loja 3511,Argel,Turquia,Outros
+3512,Loja 3512,Osaka,Índia,Outros
+3513,Loja 3513,Toronto,Japão,Outros
+3514,Loja 3514,Tóquio,Austrália,Outros
+3515,Loja 3515,Bagdá,Brasil,Sudeste
+3516,Loja 3516,Lagos,Alemanha,Outros
+3517,Loja 3517,Teerã,China,Outros
+3518,Loja 3518,Berlim,Itália,Outros
+3519,Loja 3519,Dhaka,Turquia,Outros
+3520,Loja 3520,Moscou,Índia,Outros
+3521,Loja 3521,Katmandu,Turquia,Outros
+3522,Loja 3522,Nairobi,França,Outros
+3523,Loja 3523,Paris,Brasil,Nordeste
+3524,Loja 3524,Osaka,Japão,Outros
+3525,Loja 3525,Colombo,Estados Unidos,Sul
+3526,Loja 3526,Beirute,Reino Unido,Outros
+3527,Loja 3527,Túnis,França,Outros
+3528,Loja 3528,Londres,Canadá,Alberta
+3529,Loja 3529,Santiago,Alemanha,Outros
+3530,Loja 3530,Amã,Rússia,Outros
+3531,Loja 3531,Lima,França,Outros
+3532,Loja 3532,Dubai,China,Outros
+3533,Loja 3533,São Paulo,Portugal,Outros
+3534,Loja 3534,Kinshasa,Argentina,Outros
+3535,Loja 3535,São Paulo,Portugal,Outros
+3536,Loja 3536,Kinshasa,Peru,Outros
+3537,Loja 3537,Lima,Austrália,Outros
+3538,Loja 3538,Osaka,Alemanha,Outros
+3539,Loja 3539,Pequim,Portugal,Outros
+3540,Loja 3540,Kyoto,França,Outros
+3541,Loja 3541,Pequim,Coreia do Sul,Outros
+3542,Loja 3542,Santiago,Canadá,Colúmbia Britânica
+3543,Loja 3543,São Paulo,Estados Unidos,Noroeste do Pacífico
+3544,Loja 3544,Yangon,Itália,Outros
+3545,Loja 3545,Túnis,Índia,Outros
+3546,Loja 3546,Manila,Rússia,Outros
+3547,Loja 3547,Argel,Argentina,Outros
+3548,Loja 3548,Dhaka,Rússia,Outros
+3549,Loja 3549,Hong Kong,Turquia,Outros
+3550,Loja 3550,Buenos Aires,Estados Unidos,Nordeste
+3551,Loja 3551,Islamabad,Portugal,Outros
+3552,Loja 3552,Lagos,Estados Unidos,Nordeste
+3553,Loja 3553,Katmandu,Argentina,Outros
+3554,Loja 3554,Istambul,Brasil,Sudeste
+3555,Loja 3555,Mumbai,Coreia do Sul,Outros
+3556,Loja 3556,Roma,Argentina,Outros
+3557,Loja 3557,Yangon,Estados Unidos,Sul
+3558,Loja 3558,Cingapura,Alemanha,Outros
+3559,Loja 3559,Colombo,Itália,Outros
+3560,Loja 3560,Abu Dhabi,Reino Unido,Outros
+3561,Loja 3561,Abu Dhabi,Chile,Outros
+3562,Loja 3562,Santiago,México,Centro
+3563,Loja 3563,Túnis,México,Centro
+3564,Loja 3564,Amã,México,Sul
+3565,Loja 3565,Seul,Índia,Outros
+3566,Loja 3566,Beirute,Canadá,Alberta
+3567,Loja 3567,Dubai,Canadá,Ontário
+3568,Loja 3568,Katmandu,Rússia,Outros
+3569,Loja 3569,Hanói,França,Outros
+3570,Loja 3570,Pequim,Espanha,Outros
+3571,Loja 3571,Colombo,Coreia do Sul,Outros
+3572,Loja 3572,Nairobi,Índia,Outros
+3573,Loja 3573,Amã,Austrália,Outros
+3574,Loja 3574,Johannesburg,Portugal,Outros
+3575,Loja 3575,Nova Deli,Alemanha,Outros
+3576,Loja 3576,Mumbai,Itália,Outros
+3577,Loja 3577,Sydney,Espanha,Outros
+3578,Loja 3578,Bangkok,China,Outros
+3579,Loja 3579,Roma,Rússia,Outros
+3580,Loja 3580,Lima,Chile,Outros
+3581,Loja 3581,Toronto,México,Sul
+3582,Loja 3582,Dhaka,Coreia do Sul,Outros
+3583,Loja 3583,São Paulo,Itália,Outros
+3584,Loja 3584,Kyoto,México,Centro
+3585,Loja 3585,Jacarta,Canadá,Quebec
+3586,Loja 3586,Riyadh,Coreia do Sul,Outros
+3587,Loja 3587,Hong Kong,Reino Unido,Outros
+3588,Loja 3588,Damasco,França,Outros
+3589,Loja 3589,Nairobi,Portugal,Outros
+3590,Loja 3590,Damasco,Japão,Outros
+3591,Loja 3591,Dakar,Argentina,Outros
+3592,Loja 3592,Jerusalém,Itália,Outros
+3593,Loja 3593,Pequim,Canadá,Colúmbia Britânica
+3594,Loja 3594,Beirute,China,Outros
+3595,Loja 3595,Rio de Janeiro,Japão,Outros
+3596,Loja 3596,Londres,Coreia do Sul,Outros
+3597,Loja 3597,Lima,Chile,Outros
+3598,Loja 3598,Argel,Índia,Outros
+3599,Loja 3599,Hong Kong,Itália,Outros
+3600,Loja 3600,Teerã,Turquia,Outros
+3601,Loja 3601,Toronto,Coreia do Sul,Outros
+3602,Loja 3602,São Paulo,Rússia,Outros
+3603,Loja 3603,Istambul,Itália,Outros
+3604,Loja 3604,Taipei,Índia,Outros
+3605,Loja 3605,Osaka,Austrália,Outros
+3606,Loja 3606,Lagos,Reino Unido,Outros
+3607,Loja 3607,Seul,França,Outros
+3608,Loja 3608,Kuala Lumpur,Estados Unidos,Oeste
+3609,Loja 3609,Colombo,Reino Unido,Outros
+3610,Loja 3610,Seul,Japão,Outros
+3611,Loja 3611,Santiago,Peru,Outros
+3612,Loja 3612,Taipei,França,Outros
+3613,Loja 3613,Nova York,Turquia,Outros
+3614,Loja 3614,Hong Kong,Portugal,Outros
+3615,Loja 3615,Casablanca,Itália,Outros
+3616,Loja 3616,Amã,Alemanha,Outros
+3617,Loja 3617,Yangon,Índia,Outros
+3618,Loja 3618,Cabul,Peru,Outros
+3619,Loja 3619,Osaka,Coreia do Sul,Outros
+3620,Loja 3620,Hanói,Reino Unido,Outros
+3621,Loja 3621,Osaka,Argentina,Outros
+3622,Loja 3622,Casablanca,China,Outros
+3623,Loja 3623,Kyoto,Índia,Outros
+3624,Loja 3624,Islamabad,Rússia,Outros
+3625,Loja 3625,Argel,Reino Unido,Outros
+3626,Loja 3626,Cidade do México,Alemanha,Outros
+3627,Loja 3627,Colombo,Alemanha,Outros
+3628,Loja 3628,Cairo,México,Norte
+3629,Loja 3629,Jacarta,Peru,Outros
+3630,Loja 3630,São Paulo,Coreia do Sul,Outros
+3631,Loja 3631,Istambul,Canadá,Alberta
+3632,Loja 3632,Nova York,Peru,Outros
+3633,Loja 3633,Buenos Aires,Austrália,Outros
+3634,Loja 3634,Lagos,Japão,Outros
+3635,Loja 3635,Mumbai,Canadá,Quebec
+3636,Loja 3636,Lima,Coreia do Sul,Outros
+3637,Loja 3637,Kuala Lumpur,China,Outros
+3638,Loja 3638,Amã,Chile,Outros
+3639,Loja 3639,Kyoto,Peru,Outros
+3640,Loja 3640,Yangon,Peru,Outros
+3641,Loja 3641,Riyadh,Índia,Outros
+3642,Loja 3642,Hanói,Reino Unido,Outros
+3643,Loja 3643,Sydney,Índia,Outros
+3644,Loja 3644,Phnom Penh,Brasil,Norte
+3645,Loja 3645,Cidade do México,Japão,Outros
+3646,Loja 3646,Dakar,Portugal,Outros
+3647,Loja 3647,Manila,Turquia,Outros
+3648,Loja 3648,Tóquio,México,Noroeste
+3649,Loja 3649,Toronto,Reino Unido,Outros
+3650,Loja 3650,Santiago,Chile,Outros
+3651,Loja 3651,Seul,Itália,Outros
+3652,Loja 3652,Dhaka,Reino Unido,Outros
+3653,Loja 3653,Paris,Turquia,Outros
+3654,Loja 3654,Rio de Janeiro,Alemanha,Outros
+3655,Loja 3655,Lagos,Peru,Outros
+3656,Loja 3656,Cabul,Rússia,Outros
+3657,Loja 3657,Buenos Aires,Chile,Outros
+3658,Loja 3658,Seul,Peru,Outros
+3659,Loja 3659,Jerusalém,França,Outros
+3660,Loja 3660,Kuala Lumpur,Peru,Outros
+3661,Loja 3661,Sydney,Itália,Outros
+3662,Loja 3662,Nova York,Itália,Outros
+3663,Loja 3663,Rio de Janeiro,Alemanha,Outros
+3664,Loja 3664,Teerã,França,Outros
+3665,Loja 3665,Cabul,Brasil,Sudeste
+3666,Loja 3666,Nova Deli,Estados Unidos,Sul
+3667,Loja 3667,Los Angeles,Brasil,Centro-Oeste
+3668,Loja 3668,Taipei,Canadá,Colúmbia Britânica
+3669,Loja 3669,Kyoto,Japão,Outros
+3670,Loja 3670,Cidade do México,Brasil,Sudeste
+3671,Loja 3671,Tóquio,China,Outros
+3672,Loja 3672,Toronto,Austrália,Outros
+3673,Loja 3673,Jerusalém,Índia,Outros
+3674,Loja 3674,Beirute,Alemanha,Outros
+3675,Loja 3675,Santiago,Chile,Outros
+3676,Loja 3676,Kinshasa,França,Outros
+3677,Loja 3677,Dubai,Argentina,Outros
+3678,Loja 3678,Yangon,Argentina,Outros
+3679,Loja 3679,Manila,Reino Unido,Outros
+3680,Loja 3680,Nova Deli,México,Norte
+3681,Loja 3681,Jacarta,Alemanha,Outros
+3682,Loja 3682,Johannesburg,Argentina,Outros
+3683,Loja 3683,Bagdá,Argentina,Outros
+3684,Loja 3684,Lagos,China,Outros
+3685,Loja 3685,Dakar,China,Outros
+3686,Loja 3686,Hong Kong,Brasil,Sul
+3687,Loja 3687,Buenos Aires,Índia,Outros
+3688,Loja 3688,Phnom Penh,Alemanha,Outros
+3689,Loja 3689,Trípoli,Espanha,Outros
+3690,Loja 3690,Islamabad,Canadá,Manitoba
+3691,Loja 3691,Argel,Coreia do Sul,Outros
+3692,Loja 3692,Rio de Janeiro,Portugal,Outros
+3693,Loja 3693,Lagos,Chile,Outros
+3694,Loja 3694,Colombo,Peru,Outros
+3695,Loja 3695,Jacarta,Itália,Outros
+3696,Loja 3696,Colombo,China,Outros
+3697,Loja 3697,Los Angeles,Estados Unidos,Oeste
+3698,Loja 3698,Trípoli,Turquia,Outros
+3699,Loja 3699,Sydney,Peru,Outros
+3700,Loja 3700,Londres,Alemanha,Outros
+3701,Loja 3701,Tóquio,Chile,Outros
+3702,Loja 3702,Jacarta,Austrália,Outros
+3703,Loja 3703,Doha,França,Outros
+3704,Loja 3704,Islamabad,Argentina,Outros
+3705,Loja 3705,Jerusalém,Alemanha,Outros
+3706,Loja 3706,Amã,Brasil,Norte
+3707,Loja 3707,Londres,Reino Unido,Outros
+3708,Loja 3708,Doha,Estados Unidos,Meio-Oeste
+3709,Loja 3709,Teerã,Rússia,Outros
+3710,Loja 3710,Toronto,Japão,Outros
+3711,Loja 3711,Bagdá,Coreia do Sul,Outros
+3712,Loja 3712,Buenos Aires,China,Outros
+3713,Loja 3713,Buenos Aires,Brasil,Sudeste
+3714,Loja 3714,Bagdá,Austrália,Outros
+3715,Loja 3715,Pequim,Peru,Outros
+3716,Loja 3716,Yangon,Brasil,Centro-Oeste
+3717,Loja 3717,Cairo,Argentina,Outros
+3718,Loja 3718,Argel,Brasil,Sul
+3719,Loja 3719,Nairobi,Coreia do Sul,Outros
+3720,Loja 3720,Paris,Espanha,Outros
+3721,Loja 3721,Mumbai,Reino Unido,Outros
+3722,Loja 3722,Casablanca,México,Sul
+3723,Loja 3723,Jacarta,Reino Unido,Outros
+3724,Loja 3724,Jerusalém,Itália,Outros
+3725,Loja 3725,Sydney,Peru,Outros
+3726,Loja 3726,Bogotá,China,Outros
+3727,Loja 3727,Damasco,Canadá,Quebec
+3728,Loja 3728,Dubai,Chile,Outros
+3729,Loja 3729,Nova Deli,Brasil,Sul
+3730,Loja 3730,Trípoli,Alemanha,Outros
+3731,Loja 3731,Hong Kong,México,Sudeste
+3732,Loja 3732,Cairo,Espanha,Outros
+3733,Loja 3733,Damasco,Alemanha,Outros
+3734,Loja 3734,Islamabad,Argentina,Outros
+3735,Loja 3735,São Paulo,Itália,Outros
+3736,Loja 3736,Jerusalém,Peru,Outros
+3737,Loja 3737,Toronto,Portugal,Outros
+3738,Loja 3738,Yangon,Índia,Outros
+3739,Loja 3739,Dubai,Brasil,Sul
+3740,Loja 3740,Paris,Alemanha,Outros
+3741,Loja 3741,São Paulo,México,Sudeste
+3742,Loja 3742,Santiago,Alemanha,Outros
+3743,Loja 3743,Túnis,México,Norte
+3744,Loja 3744,Istambul,Austrália,Outros
+3745,Loja 3745,Cabul,Estados Unidos,Nordeste
+3746,Loja 3746,Cidade do México,Chile,Outros
+3747,Loja 3747,Kinshasa,China,Outros
+3748,Loja 3748,Kyoto,Espanha,Outros
+3749,Loja 3749,Bogotá,Portugal,Outros
+3750,Loja 3750,Bagdá,Argentina,Outros
+3751,Loja 3751,Nova York,China,Outros
+3752,Loja 3752,Cairo,Brasil,Centro-Oeste
+3753,Loja 3753,Toronto,Coreia do Sul,Outros
+3754,Loja 3754,Kyoto,Estados Unidos,Meio-Oeste
+3755,Loja 3755,Islamabad,Estados Unidos,Noroeste do Pacífico
+3756,Loja 3756,Teerã,Japão,Outros
+3757,Loja 3757,Jacarta,Portugal,Outros
+3758,Loja 3758,Jacarta,Argentina,Outros
+3759,Loja 3759,Roma,Turquia,Outros
+3760,Loja 3760,Pequim,Alemanha,Outros
+3761,Loja 3761,Jerusalém,Peru,Outros
+3762,Loja 3762,Damasco,Chile,Outros
+3763,Loja 3763,Cidade do México,Portugal,Outros
+3764,Loja 3764,Roma,Alemanha,Outros
+3765,Loja 3765,Pequim,Índia,Outros
+3766,Loja 3766,São Paulo,Itália,Outros
+3767,Loja 3767,Osaka,França,Outros
+3768,Loja 3768,Dhaka,Canadá,Alberta
+3769,Loja 3769,Doha,Alemanha,Outros
+3770,Loja 3770,Pequim,Alemanha,Outros
+3771,Loja 3771,Seul,Estados Unidos,Oeste
+3772,Loja 3772,Nova Deli,China,Outros
+3773,Loja 3773,Cairo,Peru,Outros
+3774,Loja 3774,Dhaka,Peru,Outros
+3775,Loja 3775,Doha,Alemanha,Outros
+3776,Loja 3776,Cidade do México,Reino Unido,Outros
+3777,Loja 3777,Dakar,França,Outros
+3778,Loja 3778,Túnis,Austrália,Outros
+3779,Loja 3779,Nova York,Espanha,Outros
+3780,Loja 3780,Hong Kong,Alemanha,Outros
+3781,Loja 3781,Hong Kong,Itália,Outros
+3782,Loja 3782,Dubai,Itália,Outros
+3783,Loja 3783,Trípoli,Espanha,Outros
+3784,Loja 3784,Túnis,Canadá,Colúmbia Britânica
+3785,Loja 3785,Paris,Japão,Outros
+3786,Loja 3786,São Paulo,Índia,Outros
+3787,Loja 3787,Cingapura,Coreia do Sul,Outros
+3788,Loja 3788,Cabul,Chile,Outros
+3789,Loja 3789,Kinshasa,Rússia,Outros
+3790,Loja 3790,Argel,Canadá,Quebec
+3791,Loja 3791,Kinshasa,Rússia,Outros
+3792,Loja 3792,Cabul,Turquia,Outros
+3793,Loja 3793,Seul,Espanha,Outros
+3794,Loja 3794,Nova York,Índia,Outros
+3795,Loja 3795,Damasco,Rússia,Outros
+3796,Loja 3796,Bagdá,França,Outros
+3797,Loja 3797,Nairobi,Portugal,Outros
+3798,Loja 3798,Casablanca,Argentina,Outros
+3799,Loja 3799,Johannesburg,Portugal,Outros
+3800,Loja 3800,Phnom Penh,Canadá,Colúmbia Britânica
+3801,Loja 3801,Cairo,Portugal,Outros
+3802,Loja 3802,Kyoto,Estados Unidos,Sul
+3803,Loja 3803,Johannesburg,China,Outros
+3804,Loja 3804,Colombo,China,Outros
+3805,Loja 3805,Seul,México,Centro
+3806,Loja 3806,Dubai,Coreia do Sul,Outros
+3807,Loja 3807,Manila,Rússia,Outros
+3808,Loja 3808,Rio de Janeiro,Argentina,Outros
+3809,Loja 3809,Lima,Brasil,Sudeste
+3810,Loja 3810,Phnom Penh,Turquia,Outros
+3811,Loja 3811,Manila,Canadá,Ontário
+3812,Loja 3812,Beirute,Índia,Outros
+3813,Loja 3813,Argel,Turquia,Outros
+3814,Loja 3814,Islamabad,Índia,Outros
+3815,Loja 3815,Lima,Estados Unidos,Oeste
+3816,Loja 3816,Londres,França,Outros
+3817,Loja 3817,Amã,Portugal,Outros
+3818,Loja 3818,São Paulo,Índia,Outros
+3819,Loja 3819,Paris,Rússia,Outros
+3820,Loja 3820,Nova York,Brasil,Sul
+3821,Loja 3821,Phnom Penh,México,Sudeste
+3822,Loja 3822,Bangkok,Estados Unidos,Oeste
+3823,Loja 3823,Nova Deli,Alemanha,Outros
+3824,Loja 3824,Kyoto,Índia,Outros
+3825,Loja 3825,Moscou,Reino Unido,Outros
+3826,Loja 3826,Riyadh,França,Outros
+3827,Loja 3827,Cairo,Itália,Outros
+3828,Loja 3828,Osaka,Itália,Outros
+3829,Loja 3829,Berlim,Rússia,Outros
+3830,Loja 3830,Islamabad,Índia,Outros
+3831,Loja 3831,Buenos Aires,Itália,Outros
+3832,Loja 3832,Kyoto,Japão,Outros
+3833,Loja 3833,Trípoli,Estados Unidos,Nordeste
+3834,Loja 3834,Sydney,Chile,Outros
+3835,Loja 3835,Colombo,Reino Unido,Outros
+3836,Loja 3836,Dakar,Coreia do Sul,Outros
+3837,Loja 3837,Yangon,Itália,Outros
+3838,Loja 3838,Sydney,Austrália,Outros
+3839,Loja 3839,Beirute,Itália,Outros
+3840,Loja 3840,Londres,Japão,Outros
+3841,Loja 3841,Buenos Aires,Espanha,Outros
+3842,Loja 3842,Islamabad,Brasil,Sudeste
+3843,Loja 3843,Dakar,Chile,Outros
+3844,Loja 3844,Doha,México,Noroeste
+3845,Loja 3845,Cairo,Turquia,Outros
+3846,Loja 3846,Seul,México,Norte
+3847,Loja 3847,Toronto,Alemanha,Outros
+3848,Loja 3848,Cabul,Canadá,Quebec
+3849,Loja 3849,Argel,Reino Unido,Outros
+3850,Loja 3850,Cidade do México,Reino Unido,Outros
+3851,Loja 3851,Istambul,Itália,Outros
+3852,Loja 3852,Riyadh,Brasil,Centro-Oeste
+3853,Loja 3853,Cairo,Argentina,Outros
+3854,Loja 3854,Nova Deli,Chile,Outros
+3855,Loja 3855,Damasco,Austrália,Outros
+3856,Loja 3856,Kyoto,Austrália,Outros
+3857,Loja 3857,Seul,Índia,Outros
+3858,Loja 3858,Jacarta,Brasil,Sudeste
+3859,Loja 3859,Phnom Penh,Austrália,Outros
+3860,Loja 3860,Hanói,Japão,Outros
+3861,Loja 3861,Teerã,Peru,Outros
+3862,Loja 3862,São Paulo,Reino Unido,Outros
+3863,Loja 3863,Cabul,Espanha,Outros
+3864,Loja 3864,Cairo,Argentina,Outros
+3865,Loja 3865,Abu Dhabi,Reino Unido,Outros
+3866,Loja 3866,Jacarta,Canadá,Alberta
+3867,Loja 3867,Kuala Lumpur,Alemanha,Outros
+3868,Loja 3868,Istambul,Coreia do Sul,Outros
+3869,Loja 3869,Phnom Penh,Portugal,Outros
+3870,Loja 3870,Cingapura,Estados Unidos,Nordeste
+3871,Loja 3871,Seul,China,Outros
+3872,Loja 3872,Rio de Janeiro,Austrália,Outros
+3873,Loja 3873,Bogotá,México,Sudeste
+3874,Loja 3874,Teerã,China,Outros
+3875,Loja 3875,Nova Deli,México,Noroeste
+3876,Loja 3876,Túnis,Brasil,Sudeste
+3877,Loja 3877,Los Angeles,Peru,Outros
+3878,Loja 3878,Jacarta,Coreia do Sul,Outros
+3879,Loja 3879,Kuala Lumpur,Itália,Outros
+3880,Loja 3880,Amã,Peru,Outros
+3881,Loja 3881,Tóquio,Reino Unido,Outros
+3882,Loja 3882,Moscou,Itália,Outros
+3883,Loja 3883,Berlim,Chile,Outros
+3884,Loja 3884,Casablanca,Argentina,Outros
+3885,Loja 3885,Kyoto,México,Sul
+3886,Loja 3886,Hanói,Espanha,Outros
+3887,Loja 3887,Cabul,Peru,Outros
+3888,Loja 3888,Lima,Itália,Outros
+3889,Loja 3889,Amã,Rússia,Outros
+3890,Loja 3890,Kyoto,Canadá,Ontário
+3891,Loja 3891,Trípoli,Itália,Outros
+3892,Loja 3892,Cingapura,Brasil,Nordeste
+3893,Loja 3893,Cairo,Japão,Outros
+3894,Loja 3894,Buenos Aires,Itália,Outros
+3895,Loja 3895,Hanói,Canadá,Manitoba
+3896,Loja 3896,Londres,Itália,Outros
+3897,Loja 3897,Katmandu,Itália,Outros
+3898,Loja 3898,Yangon,Índia,Outros
+3899,Loja 3899,Cairo,Rússia,Outros
+3900,Loja 3900,Túnis,Coreia do Sul,Outros
+3901,Loja 3901,Teerã,Alemanha,Outros
+3902,Loja 3902,Jerusalém,Portugal,Outros
+3903,Loja 3903,Sydney,França,Outros
+3904,Loja 3904,Katmandu,Estados Unidos,Meio-Oeste
+3905,Loja 3905,Argel,Portugal,Outros
+3906,Loja 3906,Santiago,Peru,Outros
+3907,Loja 3907,Seul,Canadá,Quebec
+3908,Loja 3908,Londres,Argentina,Outros
+3909,Loja 3909,Hong Kong,Japão,Outros
+3910,Loja 3910,Seul,Rússia,Outros
+3911,Loja 3911,Jerusalém,Brasil,Nordeste
+3912,Loja 3912,Sydney,Índia,Outros
+3913,Loja 3913,Berlim,China,Outros
+3914,Loja 3914,Jacarta,Alemanha,Outros
+3915,Loja 3915,Katmandu,Itália,Outros
+3916,Loja 3916,Moscou,México,Norte
+3917,Loja 3917,Cabul,Reino Unido,Outros
+3918,Loja 3918,Jerusalém,Estados Unidos,Meio-Oeste
+3919,Loja 3919,Toronto,México,Norte
+3920,Loja 3920,Berlim,Espanha,Outros
+3921,Loja 3921,Seul,Austrália,Outros
+3922,Loja 3922,Paris,Portugal,Outros
+3923,Loja 3923,Jacarta,Peru,Outros
+3924,Loja 3924,Santiago,México,Sudeste
+3925,Loja 3925,Cabul,Itália,Outros
+3926,Loja 3926,Jerusalém,China,Outros
+3927,Loja 3927,Islamabad,Alemanha,Outros
+3928,Loja 3928,Londres,França,Outros
+3929,Loja 3929,Kyoto,Itália,Outros
+3930,Loja 3930,Beirute,Reino Unido,Outros
+3931,Loja 3931,Santiago,China,Outros
+3932,Loja 3932,Trípoli,Argentina,Outros
+3933,Loja 3933,Bangkok,Peru,Outros
+3934,Loja 3934,Rio de Janeiro,México,Sul
+3935,Loja 3935,Casablanca,Estados Unidos,Sul
+3936,Loja 3936,Riyadh,Portugal,Outros
+3937,Loja 3937,Santiago,México,Sul
+3938,Loja 3938,Argel,Espanha,Outros
+3939,Loja 3939,Damasco,Canadá,Manitoba
+3940,Loja 3940,Cidade do México,Estados Unidos,Meio-Oeste
+3941,Loja 3941,Damasco,Austrália,Outros
+3942,Loja 3942,Riyadh,Espanha,Outros
+3943,Loja 3943,Berlim,Austrália,Outros
+3944,Loja 3944,Seul,Alemanha,Outros
+3945,Loja 3945,Johannesburg,Austrália,Outros
+3946,Loja 3946,Beirute,México,Sul
+3947,Loja 3947,Rio de Janeiro,Estados Unidos,Noroeste do Pacífico
+3948,Loja 3948,Sydney,Japão,Outros
+3949,Loja 3949,Nova Deli,Reino Unido,Outros
+3950,Loja 3950,Manila,Coreia do Sul,Outros
+3951,Loja 3951,Argel,Turquia,Outros
+3952,Loja 3952,Hong Kong,Rússia,Outros
+3953,Loja 3953,Katmandu,Alemanha,Outros
+3954,Loja 3954,Jacarta,Estados Unidos,Meio-Oeste
+3955,Loja 3955,Argel,México,Sudeste
+3956,Loja 3956,Cairo,Coreia do Sul,Outros
+3957,Loja 3957,Phnom Penh,México,Centro
+3958,Loja 3958,Moscou,Brasil,Norte
+3959,Loja 3959,Seul,Austrália,Outros
+3960,Loja 3960,Berlim,Chile,Outros
+3961,Loja 3961,Bangkok,Chile,Outros
+3962,Loja 3962,Seul,Espanha,Outros
+3963,Loja 3963,Lagos,Estados Unidos,Oeste
+3964,Loja 3964,Hanói,Reino Unido,Outros
+3965,Loja 3965,Beirute,Turquia,Outros
+3966,Loja 3966,Jacarta,China,Outros
+3967,Loja 3967,Pequim,Turquia,Outros
+3968,Loja 3968,Dhaka,Índia,Outros
+3969,Loja 3969,Argel,Rússia,Outros
+3970,Loja 3970,Tóquio,Turquia,Outros
+3971,Loja 3971,Mumbai,Coreia do Sul,Outros
+3972,Loja 3972,Yangon,Canadá,Ontário
+3973,Loja 3973,Manila,Estados Unidos,Noroeste do Pacífico
+3974,Loja 3974,Lagos,Rússia,Outros
+3975,Loja 3975,Taipei,Portugal,Outros
+3976,Loja 3976,Cairo,Estados Unidos,Noroeste do Pacífico
+3977,Loja 3977,Colombo,China,Outros
+3978,Loja 3978,Sydney,Espanha,Outros
+3979,Loja 3979,Bogotá,Reino Unido,Outros
+3980,Loja 3980,Taipei,Itália,Outros
+3981,Loja 3981,Phnom Penh,Rússia,Outros
+3982,Loja 3982,Nova Deli,Portugal,Outros
+3983,Loja 3983,Bagdá,China,Outros
+3984,Loja 3984,Santiago,China,Outros
+3985,Loja 3985,Buenos Aires,China,Outros
+3986,Loja 3986,Nairobi,Argentina,Outros
+3987,Loja 3987,Istambul,Rússia,Outros
+3988,Loja 3988,Johannesburg,Itália,Outros
+3989,Loja 3989,Teerã,China,Outros
+3990,Loja 3990,Bogotá,Japão,Outros
+3991,Loja 3991,Abu Dhabi,Japão,Outros
+3992,Loja 3992,Jacarta,França,Outros
+3993,Loja 3993,Nova York,Alemanha,Outros
+3994,Loja 3994,Jerusalém,México,Centro
+3995,Loja 3995,Madri,Turquia,Outros
+3996,Loja 3996,Los Angeles,Chile,Outros
+3997,Loja 3997,Osaka,Estados Unidos,Oeste
+3998,Loja 3998,Cabul,Austrália,Outros
+3999,Loja 3999,Hong Kong,Peru,Outros
+4000,Loja 4000,Bagdá,Índia,Outros
+4001,Loja 4001,Bogotá,Chile,Outros
+4002,Loja 4002,Mumbai,Chile,Outros
+4003,Loja 4003,Manila,China,Outros
+4004,Loja 4004,Túnis,Reino Unido,Outros
+4005,Loja 4005,Abu Dhabi,Turquia,Outros
+4006,Loja 4006,Trípoli,Japão,Outros
+4007,Loja 4007,Lagos,Argentina,Outros
+4008,Loja 4008,Kinshasa,Brasil,Sul
+4009,Loja 4009,Cairo,Austrália,Outros
+4010,Loja 4010,Bogotá,Itália,Outros
+4011,Loja 4011,Casablanca,Itália,Outros
+4012,Loja 4012,Damasco,Coreia do Sul,Outros
+4013,Loja 4013,Londres,México,Sul
+4014,Loja 4014,Seul,Itália,Outros
+4015,Loja 4015,Colombo,Japão,Outros
+4016,Loja 4016,Dhaka,Austrália,Outros
+4017,Loja 4017,Dakar,Brasil,Sudeste
+4018,Loja 4018,Kinshasa,Austrália,Outros
+4019,Loja 4019,Tóquio,Portugal,Outros
+4020,Loja 4020,Rio de Janeiro,Japão,Outros
+4021,Loja 4021,Santiago,Turquia,Outros
+4022,Loja 4022,Nova Deli,França,Outros
+4023,Loja 4023,Kinshasa,Brasil,Sudeste
+4024,Loja 4024,Nova Deli,Rússia,Outros
+4025,Loja 4025,Istambul,Índia,Outros
+4026,Loja 4026,Santiago,Coreia do Sul,Outros
+4027,Loja 4027,Johannesburg,México,Sul
+4028,Loja 4028,Tóquio,Espanha,Outros
+4029,Loja 4029,Buenos Aires,Itália,Outros
+4030,Loja 4030,Colombo,França,Outros
+4031,Loja 4031,Jacarta,Rússia,Outros
+4032,Loja 4032,Yangon,Austrália,Outros
+4033,Loja 4033,Berlim,França,Outros
+4034,Loja 4034,Doha,Brasil,Sul
+4035,Loja 4035,Teerã,Estados Unidos,Noroeste do Pacífico
+4036,Loja 4036,Bogotá,Índia,Outros
+4037,Loja 4037,Colombo,Reino Unido,Outros
+4038,Loja 4038,Trípoli,Canadá,Colúmbia Britânica
+4039,Loja 4039,Lima,Itália,Outros
+4040,Loja 4040,Bogotá,Argentina,Outros
+4041,Loja 4041,Bagdá,Argentina,Outros
+4042,Loja 4042,Jerusalém,Portugal,Outros
+4043,Loja 4043,Buenos Aires,Argentina,Outros
+4044,Loja 4044,Lima,México,Centro
+4045,Loja 4045,Hanói,Índia,Outros
+4046,Loja 4046,Nova York,Portugal,Outros
+4047,Loja 4047,Nova Deli,Portugal,Outros
+4048,Loja 4048,Jacarta,Austrália,Outros
+4049,Loja 4049,Abu Dhabi,Rússia,Outros
+4050,Loja 4050,Bogotá,Argentina,Outros
+4051,Loja 4051,Pequim,Chile,Outros
+4052,Loja 4052,Osaka,Brasil,Sul
+4053,Loja 4053,Osaka,Austrália,Outros
+4054,Loja 4054,Cidade do México,Portugal,Outros
+4055,Loja 4055,Abu Dhabi,Rússia,Outros
+4056,Loja 4056,Kyoto,Chile,Outros
+4057,Loja 4057,Madri,Turquia,Outros
+4058,Loja 4058,Kuala Lumpur,Índia,Outros
+4059,Loja 4059,Lima,Peru,Outros
+4060,Loja 4060,Roma,Rússia,Outros
+4061,Loja 4061,Tóquio,Espanha,Outros
+4062,Loja 4062,Taipei,Índia,Outros
+4063,Loja 4063,Osaka,Espanha,Outros
+4064,Loja 4064,Damasco,Alemanha,Outros
+4065,Loja 4065,Jerusalém,Brasil,Nordeste
+4066,Loja 4066,Seul,Austrália,Outros
+4067,Loja 4067,Osaka,Turquia,Outros
+4068,Loja 4068,Johannesburg,Canadá,Colúmbia Britânica
+4069,Loja 4069,Beirute,Chile,Outros
+4070,Loja 4070,Túnis,Brasil,Sudeste
+4071,Loja 4071,Dhaka,Peru,Outros
+4072,Loja 4072,Islamabad,Índia,Outros
+4073,Loja 4073,Jacarta,Reino Unido,Outros
+4074,Loja 4074,Argel,Chile,Outros
+4075,Loja 4075,Kyoto,Japão,Outros
+4076,Loja 4076,Rio de Janeiro,Portugal,Outros
+4077,Loja 4077,Hong Kong,Brasil,Centro-Oeste
+4078,Loja 4078,Nova Deli,Canadá,Colúmbia Britânica
+4079,Loja 4079,Roma,Chile,Outros
+4080,Loja 4080,Abu Dhabi,Austrália,Outros
+4081,Loja 4081,Bagdá,Peru,Outros
+4082,Loja 4082,Katmandu,França,Outros
+4083,Loja 4083,Casablanca,Chile,Outros
+4084,Loja 4084,Osaka,França,Outros
+4085,Loja 4085,Osaka,Rússia,Outros
+4086,Loja 4086,Cidade do México,Alemanha,Outros
+4087,Loja 4087,Pequim,Argentina,Outros
+4088,Loja 4088,Jerusalém,Canadá,Colúmbia Britânica
+4089,Loja 4089,Kuala Lumpur,Estados Unidos,Noroeste do Pacífico
+4090,Loja 4090,São Paulo,China,Outros
+4091,Loja 4091,Sydney,Argentina,Outros
+4092,Loja 4092,Kinshasa,Japão,Outros
+4093,Loja 4093,Amã,Peru,Outros
+4094,Loja 4094,Trípoli,Brasil,Norte
+4095,Loja 4095,Mumbai,México,Sudeste
+4096,Loja 4096,Santiago,Austrália,Outros
+4097,Loja 4097,Nova Deli,Austrália,Outros
+4098,Loja 4098,Sydney,Brasil,Sudeste
+4099,Loja 4099,Moscou,Índia,Outros
+4100,Loja 4100,Los Angeles,Estados Unidos,Nordeste
+4101,Loja 4101,Nova York,Argentina,Outros
+4102,Loja 4102,Bangkok,Turquia,Outros
+4103,Loja 4103,Jacarta,Turquia,Outros
+4104,Loja 4104,Argel,Argentina,Outros
+4105,Loja 4105,Casablanca,França,Outros
+4106,Loja 4106,Dakar,Brasil,Centro-Oeste
+4107,Loja 4107,Amã,Alemanha,Outros
+4108,Loja 4108,Manila,Chile,Outros
+4109,Loja 4109,Hong Kong,Canadá,Alberta
+4110,Loja 4110,Lima,Alemanha,Outros
+4111,Loja 4111,Bagdá,Itália,Outros
+4112,Loja 4112,Jerusalém,Portugal,Outros
+4113,Loja 4113,Lima,Portugal,Outros
+4114,Loja 4114,Berlim,Argentina,Outros
+4115,Loja 4115,Yangon,Turquia,Outros
+4116,Loja 4116,Abu Dhabi,Rússia,Outros
+4117,Loja 4117,Cabul,Alemanha,Outros
+4118,Loja 4118,Doha,Alemanha,Outros
+4119,Loja 4119,Moscou,Canadá,Manitoba
+4120,Loja 4120,Tóquio,Alemanha,Outros
+4121,Loja 4121,Casablanca,Reino Unido,Outros
+4122,Loja 4122,Tóquio,Índia,Outros
+4123,Loja 4123,Pequim,Índia,Outros
+4124,Loja 4124,Trípoli,Canadá,Quebec
+4125,Loja 4125,Cairo,Turquia,Outros
+4126,Loja 4126,Los Angeles,México,Noroeste
+4127,Loja 4127,Teerã,Itália,Outros
+4128,Loja 4128,Doha,Portugal,Outros
+4129,Loja 4129,Trípoli,Itália,Outros
+4130,Loja 4130,Cidade do México,China,Outros
+4131,Loja 4131,Nova York,Rússia,Outros
+4132,Loja 4132,Sydney,Portugal,Outros
+4133,Loja 4133,Nova Deli,Espanha,Outros
+4134,Loja 4134,Katmandu,Brasil,Sudeste
+4135,Loja 4135,Pequim,Alemanha,Outros
+4136,Loja 4136,Jerusalém,Índia,Outros
+4137,Loja 4137,Beirute,China,Outros
+4138,Loja 4138,Beirute,Japão,Outros
+4139,Loja 4139,Lagos,China,Outros
+4140,Loja 4140,Cairo,Itália,Outros
+4141,Loja 4141,Trípoli,México,Centro
+4142,Loja 4142,Kinshasa,Índia,Outros
+4143,Loja 4143,Nairobi,Estados Unidos,Meio-Oeste
+4144,Loja 4144,Istambul,Argentina,Outros
+4145,Loja 4145,Riyadh,México,Centro
+4146,Loja 4146,Berlim,China,Outros
+4147,Loja 4147,Nova York,Portugal,Outros
+4148,Loja 4148,Lima,Índia,Outros
+4149,Loja 4149,Paris,Japão,Outros
+4150,Loja 4150,Bagdá,Itália,Outros
+4151,Loja 4151,Túnis,Peru,Outros
+4152,Loja 4152,Amã,Reino Unido,Outros
+4153,Loja 4153,Kuala Lumpur,Brasil,Nordeste
+4154,Loja 4154,Jacarta,Alemanha,Outros
+4155,Loja 4155,Bagdá,Peru,Outros
+4156,Loja 4156,Paris,Chile,Outros
+4157,Loja 4157,Buenos Aires,México,Sudeste
+4158,Loja 4158,Bogotá,Rússia,Outros
+4159,Loja 4159,Damasco,Espanha,Outros
+4160,Loja 4160,Dubai,Índia,Outros
+4161,Loja 4161,Hong Kong,Coreia do Sul,Outros
+4162,Loja 4162,Argel,Portugal,Outros
+4163,Loja 4163,Cairo,China,Outros
+4164,Loja 4164,Bangkok,Chile,Outros
+4165,Loja 4165,Roma,Brasil,Sul
+4166,Loja 4166,Londres,México,Sudeste
+4167,Loja 4167,Bagdá,Argentina,Outros
+4168,Loja 4168,Yangon,Rússia,Outros
+4169,Loja 4169,Moscou,Canadá,Alberta
+4170,Loja 4170,Casablanca,Itália,Outros
+4171,Loja 4171,Phnom Penh,Reino Unido,Outros
+4172,Loja 4172,Trípoli,Coreia do Sul,Outros
+4173,Loja 4173,Santiago,Itália,Outros
+4174,Loja 4174,Nairobi,Portugal,Outros
+4175,Loja 4175,Riyadh,Austrália,Outros
+4176,Loja 4176,Damasco,Índia,Outros
+4177,Loja 4177,Seul,Chile,Outros
+4178,Loja 4178,Hong Kong,Itália,Outros
+4179,Loja 4179,Jacarta,Alemanha,Outros
+4180,Loja 4180,Jerusalém,Reino Unido,Outros
+4181,Loja 4181,Amã,China,Outros
+4182,Loja 4182,Buenos Aires,França,Outros
+4183,Loja 4183,Pequim,Rússia,Outros
+4184,Loja 4184,Roma,França,Outros
+4185,Loja 4185,Hanói,Rússia,Outros
+4186,Loja 4186,Santiago,França,Outros
+4187,Loja 4187,Phnom Penh,México,Noroeste
+4188,Loja 4188,Beirute,Canadá,Ontário
+4189,Loja 4189,Istambul,Austrália,Outros
+4190,Loja 4190,Katmandu,Argentina,Outros
+4191,Loja 4191,Cairo,Estados Unidos,Meio-Oeste
+4192,Loja 4192,Seul,Itália,Outros
+4193,Loja 4193,Dakar,Canadá,Quebec
+4194,Loja 4194,Manila,Portugal,Outros
+4195,Loja 4195,Damasco,Peru,Outros
+4196,Loja 4196,Yangon,França,Outros
+4197,Loja 4197,Hanói,Canadá,Ontário
+4198,Loja 4198,Casablanca,Argentina,Outros
+4199,Loja 4199,Londres,Índia,Outros
+4200,Loja 4200,Phnom Penh,Brasil,Norte
+4201,Loja 4201,Yangon,Turquia,Outros
+4202,Loja 4202,Hong Kong,Portugal,Outros
+4203,Loja 4203,Pequim,Turquia,Outros
+4204,Loja 4204,Los Angeles,Chile,Outros
+4205,Loja 4205,Túnis,Austrália,Outros
+4206,Loja 4206,Islamabad,Chile,Outros
+4207,Loja 4207,Riyadh,Reino Unido,Outros
+4208,Loja 4208,Abu Dhabi,Austrália,Outros
+4209,Loja 4209,Argel,Índia,Outros
+4210,Loja 4210,Bangkok,Chile,Outros
+4211,Loja 4211,Doha,Reino Unido,Outros
+4212,Loja 4212,Berlim,Itália,Outros
+4213,Loja 4213,Hanói,Argentina,Outros
+4214,Loja 4214,Seul,China,Outros
+4215,Loja 4215,Lagos,Estados Unidos,Noroeste do Pacífico
+4216,Loja 4216,Teerã,Turquia,Outros
+4217,Loja 4217,Berlim,Itália,Outros
+4218,Loja 4218,Santiago,Turquia,Outros
+4219,Loja 4219,Jerusalém,Argentina,Outros
+4220,Loja 4220,Beirute,Rússia,Outros
+4221,Loja 4221,Seul,México,Norte
+4222,Loja 4222,Abu Dhabi,Índia,Outros
+4223,Loja 4223,Santiago,Estados Unidos,Noroeste do Pacífico
+4224,Loja 4224,Damasco,Turquia,Outros
+4225,Loja 4225,Beirute,Argentina,Outros
+4226,Loja 4226,Osaka,Rússia,Outros
+4227,Loja 4227,Kyoto,Espanha,Outros
+4228,Loja 4228,Amã,Brasil,Sudeste
+4229,Loja 4229,Los Angeles,China,Outros
+4230,Loja 4230,Lagos,Itália,Outros
+4231,Loja 4231,Johannesburg,China,Outros
+4232,Loja 4232,Bangkok,Argentina,Outros
+4233,Loja 4233,Londres,França,Outros
+4234,Loja 4234,Pequim,França,Outros
+4235,Loja 4235,Nova Deli,França,Outros
+4236,Loja 4236,Sydney,Turquia,Outros
+4237,Loja 4237,Mumbai,Argentina,Outros
+4238,Loja 4238,Bagdá,Canadá,Ontário
+4239,Loja 4239,Hanói,Estados Unidos,Meio-Oeste
+4240,Loja 4240,Seul,Argentina,Outros
+4241,Loja 4241,Osaka,França,Outros
+4242,Loja 4242,Londres,Coreia do Sul,Outros
+4243,Loja 4243,Londres,Estados Unidos,Meio-Oeste
+4244,Loja 4244,Hanói,Austrália,Outros
+4245,Loja 4245,Kuala Lumpur,Espanha,Outros
+4246,Loja 4246,Kinshasa,Turquia,Outros
+4247,Loja 4247,Kyoto,Brasil,Norte
+4248,Loja 4248,Túnis,Itália,Outros
+4249,Loja 4249,Jacarta,França,Outros
+4250,Loja 4250,Buenos Aires,Canadá,Ontário
+4251,Loja 4251,Paris,Austrália,Outros
+4252,Loja 4252,Yangon,Turquia,Outros
+4253,Loja 4253,Jacarta,Reino Unido,Outros
+4254,Loja 4254,Dubai,Itália,Outros
+4255,Loja 4255,Islamabad,China,Outros
+4256,Loja 4256,Lagos,Coreia do Sul,Outros
+4257,Loja 4257,Teerã,Espanha,Outros
+4258,Loja 4258,Johannesburg,Espanha,Outros
+4259,Loja 4259,Hanói,Itália,Outros
+4260,Loja 4260,Phnom Penh,China,Outros
+4261,Loja 4261,Osaka,Argentina,Outros
+4262,Loja 4262,Yangon,Austrália,Outros
+4263,Loja 4263,Manila,Peru,Outros
+4264,Loja 4264,Dhaka,Itália,Outros
+4265,Loja 4265,Amã,Alemanha,Outros
+4266,Loja 4266,Pequim,Espanha,Outros
+4267,Loja 4267,Manila,Estados Unidos,Nordeste
+4268,Loja 4268,Sydney,Peru,Outros
+4269,Loja 4269,Los Angeles,Coreia do Sul,Outros
+4270,Loja 4270,Tóquio,Rússia,Outros
+4271,Loja 4271,Damasco,Turquia,Outros
+4272,Loja 4272,Dhaka,China,Outros
+4273,Loja 4273,Madri,Espanha,Outros
+4274,Loja 4274,São Paulo,Peru,Outros
+4275,Loja 4275,Berlim,França,Outros
+4276,Loja 4276,Santiago,Austrália,Outros
+4277,Loja 4277,Nairobi,China,Outros
+4278,Loja 4278,Manila,Reino Unido,Outros
+4279,Loja 4279,Nova York,Brasil,Sul
+4280,Loja 4280,Seul,México,Sudeste
+4281,Loja 4281,Osaka,Japão,Outros
+4282,Loja 4282,Londres,Austrália,Outros
+4283,Loja 4283,Paris,Turquia,Outros
+4284,Loja 4284,Santiago,Coreia do Sul,Outros
+4285,Loja 4285,Mumbai,Reino Unido,Outros
+4286,Loja 4286,Damasco,França,Outros
+4287,Loja 4287,Tóquio,Canadá,Ontário
+4288,Loja 4288,Berlim,França,Outros
+4289,Loja 4289,Los Angeles,Brasil,Sul
+4290,Loja 4290,Toronto,Argentina,Outros
+4291,Loja 4291,Sydney,França,Outros
+4292,Loja 4292,Nairobi,Chile,Outros
+4293,Loja 4293,Bangkok,China,Outros
+4294,Loja 4294,Seul,Índia,Outros
+4295,Loja 4295,Kinshasa,Portugal,Outros
+4296,Loja 4296,Kinshasa,Coreia do Sul,Outros
+4297,Loja 4297,Cabul,México,Centro
+4298,Loja 4298,Toronto,China,Outros
+4299,Loja 4299,Yangon,Itália,Outros
+4300,Loja 4300,Johannesburg,Turquia,Outros
+4301,Loja 4301,Casablanca,Estados Unidos,Oeste
+4302,Loja 4302,Dhaka,Argentina,Outros
+4303,Loja 4303,Cingapura,Turquia,Outros
+4304,Loja 4304,Jacarta,Turquia,Outros
+4305,Loja 4305,Doha,Itália,Outros
+4306,Loja 4306,Buenos Aires,Coreia do Sul,Outros
+4307,Loja 4307,Bangkok,Alemanha,Outros
+4308,Loja 4308,Bogotá,Estados Unidos,Nordeste
+4309,Loja 4309,Cabul,Rússia,Outros
+4310,Loja 4310,Londres,Itália,Outros
+4311,Loja 4311,Osaka,México,Noroeste
+4312,Loja 4312,Toronto,Itália,Outros
+4313,Loja 4313,Berlim,Japão,Outros
+4314,Loja 4314,Cairo,Alemanha,Outros
+4315,Loja 4315,Istambul,Espanha,Outros
+4316,Loja 4316,Manila,França,Outros
+4317,Loja 4317,Jerusalém,Espanha,Outros
+4318,Loja 4318,Tóquio,Peru,Outros
+4319,Loja 4319,Bagdá,Canadá,Manitoba
+4320,Loja 4320,Pequim,Reino Unido,Outros
+4321,Loja 4321,Paris,Rússia,Outros
+4322,Loja 4322,Bangkok,Austrália,Outros
+4323,Loja 4323,Túnis,Canadá,Colúmbia Britânica
+4324,Loja 4324,Damasco,Brasil,Sudeste
+4325,Loja 4325,Yangon,Espanha,Outros
+4326,Loja 4326,Jacarta,Chile,Outros
+4327,Loja 4327,Casablanca,Estados Unidos,Noroeste do Pacífico
+4328,Loja 4328,Teerã,Turquia,Outros
+4329,Loja 4329,Dhaka,Peru,Outros
+4330,Loja 4330,Amã,Espanha,Outros
+4331,Loja 4331,Taipei,Argentina,Outros
+4332,Loja 4332,Hong Kong,Portugal,Outros
+4333,Loja 4333,Beirute,Chile,Outros
+4334,Loja 4334,Jacarta,Portugal,Outros
+4335,Loja 4335,Teerã,Turquia,Outros
+4336,Loja 4336,Colombo,Brasil,Nordeste
+4337,Loja 4337,Nova Deli,Austrália,Outros
+4338,Loja 4338,Kuala Lumpur,Peru,Outros
+4339,Loja 4339,Madri,Chile,Outros
+4340,Loja 4340,Pequim,Canadá,Colúmbia Britânica
+4341,Loja 4341,Rio de Janeiro,Chile,Outros
+4342,Loja 4342,Cairo,Coreia do Sul,Outros
+4343,Loja 4343,Los Angeles,Portugal,Outros
+4344,Loja 4344,Paris,Portugal,Outros
+4345,Loja 4345,Rio de Janeiro,Portugal,Outros
+4346,Loja 4346,Lima,México,Centro
+4347,Loja 4347,Nairobi,Peru,Outros
+4348,Loja 4348,Riyadh,Índia,Outros
+4349,Loja 4349,Beirute,Canadá,Colúmbia Britânica
+4350,Loja 4350,Beirute,Portugal,Outros
+4351,Loja 4351,Cairo,Turquia,Outros
+4352,Loja 4352,Phnom Penh,Austrália,Outros
+4353,Loja 4353,Tóquio,Reino Unido,Outros
+4354,Loja 4354,Islamabad,Reino Unido,Outros
+4355,Loja 4355,Riyadh,Turquia,Outros
+4356,Loja 4356,Nairobi,Chile,Outros
+4357,Loja 4357,Nova York,México,Noroeste
+4358,Loja 4358,Tóquio,França,Outros
+4359,Loja 4359,Tóquio,Coreia do Sul,Outros
+4360,Loja 4360,Abu Dhabi,Argentina,Outros
+4361,Loja 4361,Kuala Lumpur,Canadá,Quebec
+4362,Loja 4362,Seul,Argentina,Outros
+4363,Loja 4363,Kinshasa,México,Centro
+4364,Loja 4364,Taipei,Japão,Outros
+4365,Loja 4365,Bagdá,China,Outros
+4366,Loja 4366,Roma,Alemanha,Outros
+4367,Loja 4367,Bagdá,Rússia,Outros
+4368,Loja 4368,Trípoli,Peru,Outros
+4369,Loja 4369,Rio de Janeiro,Turquia,Outros
+4370,Loja 4370,Islamabad,Rússia,Outros
+4371,Loja 4371,Cabul,Turquia,Outros
+4372,Loja 4372,Seul,França,Outros
+4373,Loja 4373,Beirute,Turquia,Outros
+4374,Loja 4374,Riyadh,Peru,Outros
+4375,Loja 4375,Cidade do México,Portugal,Outros
+4376,Loja 4376,Cabul,Estados Unidos,Nordeste
+4377,Loja 4377,Nova Deli,Itália,Outros
+4378,Loja 4378,Phnom Penh,Austrália,Outros
+4379,Loja 4379,Cidade do México,Itália,Outros
+4380,Loja 4380,Osaka,Turquia,Outros
+4381,Loja 4381,Taipei,Brasil,Norte
+4382,Loja 4382,Mumbai,Portugal,Outros
+4383,Loja 4383,Lima,Alemanha,Outros
+4384,Loja 4384,Damasco,Reino Unido,Outros
+4385,Loja 4385,Manila,Portugal,Outros
+4386,Loja 4386,Jacarta,Turquia,Outros
+4387,Loja 4387,Túnis,Canadá,Alberta
+4388,Loja 4388,Bangkok,Japão,Outros
+4389,Loja 4389,Cairo,Itália,Outros
+4390,Loja 4390,Cairo,Chile,Outros
+4391,Loja 4391,Kinshasa,Portugal,Outros
+4392,Loja 4392,Riyadh,Canadá,Alberta
+4393,Loja 4393,Rio de Janeiro,Espanha,Outros
+4394,Loja 4394,Pequim,Brasil,Centro-Oeste
+4395,Loja 4395,Yangon,Portugal,Outros
+4396,Loja 4396,Kuala Lumpur,Brasil,Nordeste
+4397,Loja 4397,Moscou,Canadá,Alberta
+4398,Loja 4398,Toronto,França,Outros
+4399,Loja 4399,Bagdá,Reino Unido,Outros
+4400,Loja 4400,Hong Kong,Japão,Outros
+4401,Loja 4401,Johannesburg,Canadá,Colúmbia Britânica
+4402,Loja 4402,Istambul,Itália,Outros
+4403,Loja 4403,Nova York,Coreia do Sul,Outros
+4404,Loja 4404,Moscou,Coreia do Sul,Outros
+4405,Loja 4405,Rio de Janeiro,Índia,Outros
+4406,Loja 4406,Buenos Aires,França,Outros
+4407,Loja 4407,Mumbai,Canadá,Manitoba
+4408,Loja 4408,Madri,Chile,Outros
+4409,Loja 4409,Paris,Argentina,Outros
+4410,Loja 4410,Sydney,Portugal,Outros
+4411,Loja 4411,Seul,Austrália,Outros
+4412,Loja 4412,Bangkok,Estados Unidos,Nordeste
+4413,Loja 4413,Doha,Canadá,Ontário
+4414,Loja 4414,Teerã,Estados Unidos,Sul
+4415,Loja 4415,Los Angeles,Índia,Outros
+4416,Loja 4416,Cidade do México,Canadá,Alberta
+4417,Loja 4417,Dubai,Japão,Outros
+4418,Loja 4418,Nova York,Coreia do Sul,Outros
+4419,Loja 4419,Argel,Índia,Outros
+4420,Loja 4420,Buenos Aires,Espanha,Outros
+4421,Loja 4421,Los Angeles,Portugal,Outros
+4422,Loja 4422,Pequim,Canadá,Quebec
+4423,Loja 4423,Pequim,Canadá,Ontário
+4424,Loja 4424,Lima,Turquia,Outros
+4425,Loja 4425,Moscou,Coreia do Sul,Outros
+4426,Loja 4426,Amã,Espanha,Outros
+4427,Loja 4427,Abu Dhabi,Estados Unidos,Meio-Oeste
+4428,Loja 4428,Lagos,Itália,Outros
+4429,Loja 4429,Santiago,Reino Unido,Outros
+4430,Loja 4430,Toronto,Japão,Outros
+4431,Loja 4431,Santiago,Coreia do Sul,Outros
+4432,Loja 4432,Paris,Portugal,Outros
+4433,Loja 4433,Nova Deli,Reino Unido,Outros
+4434,Loja 4434,São Paulo,Canadá,Ontário
+4435,Loja 4435,Cingapura,México,Noroeste
+4436,Loja 4436,Buenos Aires,Estados Unidos,Oeste
+4437,Loja 4437,Kuala Lumpur,Turquia,Outros
+4438,Loja 4438,Riyadh,Espanha,Outros
+4439,Loja 4439,Buenos Aires,Alemanha,Outros
+4440,Loja 4440,Madri,Reino Unido,Outros
+4441,Loja 4441,Cingapura,Alemanha,Outros
+4442,Loja 4442,Trípoli,Estados Unidos,Meio-Oeste
+4443,Loja 4443,Hong Kong,Itália,Outros
+4444,Loja 4444,São Paulo,Reino Unido,Outros
+4445,Loja 4445,São Paulo,Turquia,Outros
+4446,Loja 4446,Lagos,Peru,Outros
+4447,Loja 4447,Nairobi,Argentina,Outros
+4448,Loja 4448,Phnom Penh,Estados Unidos,Sul
+4449,Loja 4449,Londres,Brasil,Sudeste
+4450,Loja 4450,Argel,México,Sudeste
+4451,Loja 4451,Cairo,Estados Unidos,Nordeste
+4452,Loja 4452,Sydney,Austrália,Outros
+4453,Loja 4453,Cabul,China,Outros
+4454,Loja 4454,São Paulo,França,Outros
+4455,Loja 4455,Lima,Brasil,Norte
+4456,Loja 4456,Hong Kong,China,Outros
+4457,Loja 4457,Trípoli,México,Norte
+4458,Loja 4458,Túnis,Rússia,Outros
+4459,Loja 4459,Londres,Austrália,Outros
+4460,Loja 4460,Hong Kong,Reino Unido,Outros
+4461,Loja 4461,Johannesburg,Rússia,Outros
+4462,Loja 4462,Cingapura,Peru,Outros
+4463,Loja 4463,Jerusalém,Japão,Outros
+4464,Loja 4464,Nova Deli,Peru,Outros
+4465,Loja 4465,Dhaka,Peru,Outros
+4466,Loja 4466,Yangon,Argentina,Outros
+4467,Loja 4467,Moscou,Peru,Outros
+4468,Loja 4468,Hanói,Canadá,Quebec
+4469,Loja 4469,Istambul,Brasil,Sul
+4470,Loja 4470,Trípoli,Itália,Outros
+4471,Loja 4471,Cidade do México,Japão,Outros
+4472,Loja 4472,Bangkok,Japão,Outros
+4473,Loja 4473,Kuala Lumpur,Rússia,Outros
+4474,Loja 4474,Dakar,Alemanha,Outros
+4475,Loja 4475,Jacarta,Coreia do Sul,Outros
+4476,Loja 4476,Túnis,França,Outros
+4477,Loja 4477,Cairo,Coreia do Sul,Outros
+4478,Loja 4478,Lagos,Estados Unidos,Meio-Oeste
+4479,Loja 4479,Roma,Canadá,Alberta
+4480,Loja 4480,Santiago,Portugal,Outros
+4481,Loja 4481,Istambul,Argentina,Outros
+4482,Loja 4482,Kyoto,China,Outros
+4483,Loja 4483,Damasco,Estados Unidos,Noroeste do Pacífico
+4484,Loja 4484,Santiago,Portugal,Outros
+4485,Loja 4485,Roma,França,Outros
+4486,Loja 4486,Istambul,Estados Unidos,Nordeste
+4487,Loja 4487,Kuala Lumpur,Itália,Outros
+4488,Loja 4488,Jerusalém,Rússia,Outros
+4489,Loja 4489,Bagdá,Canadá,Ontário
+4490,Loja 4490,Islamabad,Coreia do Sul,Outros
+4491,Loja 4491,Argel,Austrália,Outros
+4492,Loja 4492,Cidade do México,Peru,Outros
+4493,Loja 4493,Hanói,Espanha,Outros
+4494,Loja 4494,Londres,Portugal,Outros
+4495,Loja 4495,Bangkok,Japão,Outros
+4496,Loja 4496,Los Angeles,Itália,Outros
+4497,Loja 4497,Buenos Aires,Canadá,Manitoba
+4498,Loja 4498,Pequim,Peru,Outros
+4499,Loja 4499,Osaka,Chile,Outros
+4500,Loja 4500,Londres,Brasil,Centro-Oeste
+4501,Loja 4501,Pequim,Brasil,Norte
+4502,Loja 4502,Jerusalém,México,Noroeste
+4503,Loja 4503,Amã,Espanha,Outros
+4504,Loja 4504,Jerusalém,Japão,Outros
+4505,Loja 4505,Cingapura,Austrália,Outros
+4506,Loja 4506,Santiago,França,Outros
+4507,Loja 4507,Cingapura,Argentina,Outros
+4508,Loja 4508,Paris,Japão,Outros
+4509,Loja 4509,Moscou,Espanha,Outros
+4510,Loja 4510,Moscou,Brasil,Sudeste
+4511,Loja 4511,Tóquio,França,Outros
+4512,Loja 4512,Mumbai,França,Outros
+4513,Loja 4513,Moscou,México,Noroeste
+4514,Loja 4514,Tóquio,Rússia,Outros
+4515,Loja 4515,Bangkok,Coreia do Sul,Outros
+4516,Loja 4516,Kinshasa,Itália,Outros
+4517,Loja 4517,Kuala Lumpur,Coreia do Sul,Outros
+4518,Loja 4518,Pequim,Índia,Outros
+4519,Loja 4519,Paris,Espanha,Outros
+4520,Loja 4520,Jerusalém,Estados Unidos,Oeste
+4521,Loja 4521,Pequim,China,Outros
+4522,Loja 4522,Damasco,Espanha,Outros
+4523,Loja 4523,Teerã,Turquia,Outros
+4524,Loja 4524,Bagdá,Alemanha,Outros
+4525,Loja 4525,Doha,Turquia,Outros
+4526,Loja 4526,Phnom Penh,Estados Unidos,Meio-Oeste
+4527,Loja 4527,Abu Dhabi,Austrália,Outros
+4528,Loja 4528,Jerusalém,Canadá,Quebec
+4529,Loja 4529,Lima,Brasil,Sudeste
+4530,Loja 4530,Bagdá,Argentina,Outros
+4531,Loja 4531,Taipei,Alemanha,Outros
+4532,Loja 4532,Istambul,Itália,Outros
+4533,Loja 4533,Beirute,Estados Unidos,Meio-Oeste
+4534,Loja 4534,Damasco,Rússia,Outros
+4535,Loja 4535,Riyadh,Brasil,Centro-Oeste
+4536,Loja 4536,Hong Kong,Espanha,Outros
+4537,Loja 4537,Trípoli,Turquia,Outros
+4538,Loja 4538,Taipei,Rússia,Outros
+4539,Loja 4539,Paris,Estados Unidos,Noroeste do Pacífico
+4540,Loja 4540,Katmandu,Rússia,Outros
+4541,Loja 4541,Nova Deli,Chile,Outros
+4542,Loja 4542,Bogotá,Rússia,Outros
+4543,Loja 4543,Mumbai,Índia,Outros
+4544,Loja 4544,Seul,México,Noroeste
+4545,Loja 4545,Doha,França,Outros
+4546,Loja 4546,Toronto,Austrália,Outros
+4547,Loja 4547,Riyadh,Brasil,Centro-Oeste
+4548,Loja 4548,Kyoto,Canadá,Alberta
+4549,Loja 4549,Colombo,Austrália,Outros
+4550,Loja 4550,Hanói,Austrália,Outros
+4551,Loja 4551,Johannesburg,Argentina,Outros
+4552,Loja 4552,Santiago,Alemanha,Outros
+4553,Loja 4553,Bagdá,Turquia,Outros
+4554,Loja 4554,Jacarta,Portugal,Outros
+4555,Loja 4555,Rio de Janeiro,Alemanha,Outros
+4556,Loja 4556,Doha,Chile,Outros
+4557,Loja 4557,Kinshasa,França,Outros
+4558,Loja 4558,Londres,México,Sul
+4559,Loja 4559,Taipei,Austrália,Outros
+4560,Loja 4560,Sydney,Coreia do Sul,Outros
+4561,Loja 4561,Pequim,China,Outros
+4562,Loja 4562,Bogotá,Japão,Outros
+4563,Loja 4563,Jacarta,Índia,Outros
+4564,Loja 4564,Londres,Argentina,Outros
+4565,Loja 4565,Sydney,México,Centro
+4566,Loja 4566,Tóquio,Japão,Outros
+4567,Loja 4567,Pequim,Turquia,Outros
+4568,Loja 4568,Jerusalém,Japão,Outros
+4569,Loja 4569,Sydney,França,Outros
+4570,Loja 4570,Pequim,Chile,Outros
+4571,Loja 4571,Katmandu,Reino Unido,Outros
+4572,Loja 4572,Argel,México,Sul
+4573,Loja 4573,Lima,Alemanha,Outros
+4574,Loja 4574,Dubai,Turquia,Outros
+4575,Loja 4575,Kyoto,Japão,Outros
+4576,Loja 4576,Santiago,Reino Unido,Outros
+4577,Loja 4577,Islamabad,Itália,Outros
+4578,Loja 4578,Seul,Peru,Outros
+4579,Loja 4579,Damasco,Austrália,Outros
+4580,Loja 4580,Toronto,Itália,Outros
+4581,Loja 4581,Santiago,Alemanha,Outros
+4582,Loja 4582,Cidade do México,Japão,Outros
+4583,Loja 4583,Colombo,México,Sudeste
+4584,Loja 4584,Rio de Janeiro,Turquia,Outros
+4585,Loja 4585,Túnis,Rússia,Outros
+4586,Loja 4586,Cabul,Espanha,Outros
+4587,Loja 4587,Riyadh,Argentina,Outros
+4588,Loja 4588,Berlim,França,Outros
+4589,Loja 4589,Mumbai,Espanha,Outros
+4590,Loja 4590,Cingapura,Chile,Outros
+4591,Loja 4591,Johannesburg,Índia,Outros
+4592,Loja 4592,Kinshasa,Chile,Outros

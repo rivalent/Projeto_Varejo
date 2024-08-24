@@ -1,0 +1,151 @@
+Pais,Cidade,Categoria,Total_Vendas
+"Alemanha",Berlim,Livros,2938555.91
+"Alemanha",Berlim,Roupas,2544400.46
+"Alemanha",Berlim,Brinquedos,2440968.92
+"Alemanha",Berlim,"Casa e Jardim",2369427.97
+"Alemanha",Berlim,Esportes,2344255.84
+"Alemanha",Berlim,Beleza,2291949.54
+"Alemanha",Berlim,Móveis,2279097.85
+"Alemanha",Berlim,Alimentos,2180624.55
+"Alemanha",Berlim,Ferramentas,2132622.85
+"Alemanha",Berlim,Eletrônicos,2114946.82
+"Singapura",Cingapura,Livros,2027534.08
+"Austrália",Sydney,Livros,1990415.34
+"Quênia",Nairobi,Livros,1961083.35
+"Singapura",Cingapura,Roupas,1701248.82
+"Austrália",Sydney,Roupas,1666173.67
+"Quênia",Nairobi,Roupas,1651270.37
+"Singapura",Cingapura,Brinquedos,1648988.62
+"Austrália",Sydney,Brinquedos,1620010.29
+"Quênia",Nairobi,Brinquedos,1617821.89
+"Quênia",Nairobi,"Casa e Jardim",1601022.05
+"Quênia",Nairobi,Beleza,1591380.99
+"Singapura",Cingapura,Beleza,1576807.97
+"Austrália",Sydney,Esportes,1537338.55
+"Singapura",Cingapura,Móveis,1513604.62
+"Austrália",Sydney,Beleza,1512274.39
+"Singapura",Cingapura,"Casa e Jardim",1508523.8
+"Austrália",Sydney,"Casa e Jardim",1505447.39
+"Singapura",Cingapura,Esportes,1502229.67
+"Quênia",Nairobi,Esportes,1492962.24
+"Quênia",Nairobi,Eletrônicos,1485372.67
+"Quênia",Nairobi,Alimentos,1477062.9
+"Singapura",Cingapura,Eletrônicos,1470126.06
+"Singapura",Cingapura,Ferramentas,1458157.84
+"Quênia",Nairobi,Móveis,1456872.32
+"Austrália",Sydney,Eletrônicos,1453674.59
+"Austrália",Sydney,Alimentos,1453562.4
+"Austrália",Sydney,Móveis,1446373.52
+"Quênia",Nairobi,Ferramentas,1395366.07
+"Singapura",Cingapura,Alimentos,1390331.85
+"Austrália",Sydney,Ferramentas,1362786.65
+"Indonésia",Jacarta,Livros,1065741.5
+"Canadá",Toronto,Livros,1029453.76
+"República Democrática do Congo",Kinshasa,Livros,1027991.93
+"Japão",Osaka,Livros,1022684.99
+"Brasil","São Paulo",Livros,1007322.44
+"Nepal",Katmandu,Livros,1001399.66
+"África do Sul",Johannesburg,Livros,981569.86
+"Malásia","Kuala Lumpur",Livros,981478.23
+"Argentina","Buenos Aires",Livros,965978.77
+"Senegal",Dakar,Livros,958973.48
+"Japão",Tóquio,Livros,926165.7
+"Canadá",Toronto,Brinquedos,884907.62
+"Malásia","Kuala Lumpur",Brinquedos,860681.8
+"Argentina","Buenos Aires",Roupas,859903.86
+"Senegal",Dakar,Brinquedos,853378.14
+"Indonésia",Jacarta,Roupas,850792.72
+"Nepal",Katmandu,Beleza,841918.01
+"Indonésia",Jacarta,Brinquedos,841432.99
+"Nepal",Katmandu,"Casa e Jardim",838514.06
+"República Democrática do Congo",Kinshasa,Brinquedos,834175.3
+"Brasil","São Paulo",Roupas,832182.62
+"Senegal",Dakar,Roupas,831961.63
+"África do Sul",Johannesburg,Brinquedos,831904.49
+"Argentina","Buenos Aires",Brinquedos,828346.76
+"África do Sul",Johannesburg,Roupas,827658.02
+"República Democrática do Congo",Kinshasa,Roupas,824093.07
+"Japão",Osaka,Roupas,822876.68
+"Argentina","Buenos Aires","Casa e Jardim",814691.09
+"Indonésia",Jacarta,"Casa e Jardim",813543.49
+"Japão",Tóquio,Roupas,812516.65
+"Japão",Tóquio,Beleza,811610.26
+"Brasil","São Paulo",Brinquedos,808050.61
+"Canadá",Toronto,Roupas,804723.55
+"Nepal",Katmandu,Roupas,804203.29
+"Malásia","Kuala Lumpur",Roupas,803706.61
+"Nepal",Katmandu,Brinquedos,796170.71
+"República Democrática do Congo",Kinshasa,"Casa e Jardim",795804.39
+"Canadá",Toronto,Beleza,795029.59
+"Japão",Tóquio,Brinquedos,794808.71
+"Japão",Osaka,"Casa e Jardim",792141.14
+"Senegal",Dakar,"Casa e Jardim",790432.92
+"Malásia","Kuala Lumpur",Móveis,789740.6
+"Malásia","Kuala Lumpur",Beleza,786252.71
+"Argentina","Buenos Aires",Beleza,785337.96
+"Nepal",Katmandu,Esportes,784173.64
+"Senegal",Dakar,Beleza,783014.8
+"Indonésia",Jacarta,Beleza,782544.82
+"Japão",Osaka,Esportes,781322.05
+"Japão",Osaka,Brinquedos,778266.98
+"Japão",Tóquio,Móveis,777755.49
+"África do Sul",Johannesburg,Beleza,774603.51
+"Brasil","São Paulo",Beleza,773400.21
+"África do Sul",Johannesburg,Móveis,769918.75
+"Brasil","São Paulo","Casa e Jardim",767187.27
+"Argentina","Buenos Aires",Móveis,766964.48
+"República Democrática do Congo",Kinshasa,Esportes,766118.62
+"Senegal",Dakar,Esportes,764958.95
+"Canadá",Toronto,Esportes,764757.59
+"República Democrática do Congo",Kinshasa,Beleza,764636.3
+"Malásia","Kuala Lumpur","Casa e Jardim",762696.15
+"Brasil","São Paulo",Esportes,760785.11
+"Malásia","Kuala Lumpur",Alimentos,759864.46
+"Japão",Tóquio,"Casa e Jardim",759352.14
+"África do Sul",Johannesburg,"Casa e Jardim",759090.44
+"Japão",Tóquio,Esportes,753878.65
+"Japão",Osaka,Beleza,752767.57
+"Nepal",Katmandu,Móveis,750719.32
+"Canadá",Toronto,Móveis,750072.42
+"República Democrática do Congo",Kinshasa,Móveis,748917.26
+"Malásia","Kuala Lumpur",Esportes,739108.75
+"Japão",Osaka,Móveis,738058.53
+"Argentina","Buenos Aires",Esportes,735971.95
+"Argentina","Buenos Aires",Alimentos,734476.22
+"Indonésia",Jacarta,Esportes,732036.67
+"Canadá",Toronto,"Casa e Jardim",731509.07
+"Senegal",Dakar,Móveis,729901.32
+"África do Sul",Johannesburg,Esportes,729331.12
+"Japão",Tóquio,Alimentos,727949.07
+"África do Sul",Johannesburg,Alimentos,727277.2
+"Japão",Osaka,Alimentos,724939.89
+"Indonésia",Jacarta,Móveis,722784.76
+"Brasil","São Paulo",Móveis,718315.11
+"Senegal",Dakar,Alimentos,717916.93
+"Nepal",Katmandu,Eletrônicos,709074.74
+"Nepal",Katmandu,Alimentos,708666.12
+"Japão",Osaka,Ferramentas,708369.16
+"República Democrática do Congo",Kinshasa,Alimentos,707237.39
+"Indonésia",Jacarta,Alimentos,703477.83
+"Canadá",Toronto,Ferramentas,703036.43
+"Canadá",Toronto,Alimentos,702286.53
+"Indonésia",Jacarta,Eletrônicos,699692.23
+"Brasil","São Paulo",Eletrônicos,699234.69
+"África do Sul",Johannesburg,Ferramentas,698994.99
+"Argentina","Buenos Aires",Eletrônicos,698372.37
+"Argentina","Buenos Aires",Ferramentas,697790.69
+"República Democrática do Congo",Kinshasa,Ferramentas,697732.48
+"Japão",Osaka,Eletrônicos,693993.51
+"Malásia","Kuala Lumpur",Eletrônicos,692766.48
+"Japão",Tóquio,Eletrônicos,691741.78
+"Senegal",Dakar,Ferramentas,691419.42
+"Malásia","Kuala Lumpur",Ferramentas,686220.4
+"Canadá",Toronto,Eletrônicos,683662.52
+"Nepal",Katmandu,Ferramentas,681256.19
+"Brasil","São Paulo",Ferramentas,678575.51
+"Japão",Tóquio,Ferramentas,675894.19
+"Indonésia",Jacarta,Ferramentas,672544.9
+"Brasil","São Paulo",Alimentos,671291.6
+"África do Sul",Johannesburg,Eletrônicos,671072.52
+"República Democrática do Congo",Kinshasa,Eletrônicos,664532.55
+"Senegal",Dakar,Eletrônicos,644043.65

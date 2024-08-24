@@ -1,0 +1,1001 @@
+ID_Produto,Categoria_Produto,Preco_Base,Nome_Produto
+1,Eletrônicos,148.01,Câmera 686
+2,Casa e Jardim,232.66,Lâmpada 288
+3,Esportes,386.94,Skate 745
+4,Livros,375.0,Infantil 258
+5,Esportes,415.95,Bola de futebol 156
+6,Brinquedos,332.55,Jogo de tabuleiro 185
+7,Livros,309.81,História 707
+8,Esportes,67.06,Camisa de time 285
+9,Roupas,369.24,Jaqueta 723
+10,Beleza,291.71,Shampoo 871
+11,Casa e Jardim,202.58,Cortina 452
+12,Brinquedos,174.52,Carrinho 946
+13,Eletrônicos,227.9,Notebook 257
+14,Esportes,242.59,Skate 496
+15,Alimentos,343.17,Feijão 389
+16,Móveis,358.77,Cadeira 686
+17,Esportes,54.52,Camisa de time 843
+18,Beleza,479.64,Creme hidratante 939
+19,Roupas,186.12,Sapato 381
+20,Alimentos,206.68,Arroz 237
+21,Brinquedos,420.82,Bicicleta 418
+22,Eletrônicos,394.63,Smartphone 816
+23,Esportes,354.79,Tênis de corrida 655
+24,Alimentos,200.63,Arroz 778
+25,Beleza,436.56,Shampoo 891
+26,Eletrônicos,16.09,Fone de ouvido 702
+27,Eletrônicos,108.81,Smartphone 306
+28,Roupas,470.01,Jaqueta 961
+29,Ferramentas,422.32,Alicate 797
+30,Brinquedos,445.86,Bola 755
+31,Brinquedos,100.56,Bola 347
+32,Livros,80.99,Biografia 396
+33,Alimentos,278.76,Carne 548
+34,Eletrônicos,286.62,Notebook 985
+35,Roupas,105.21,Jaqueta 478
+36,Esportes,102.32,Skate 645
+37,Livros,143.15,Infantil 583
+38,Ferramentas,342.35,Serra 184
+39,Roupas,498.89,Jaqueta 319
+40,Roupas,127.35,Sapato 389
+41,Casa e Jardim,58.03,Tapete 883
+42,Livros,28.41,Ficção Científica 747
+43,Casa e Jardim,140.49,Vaso de planta 376
+44,Beleza,304.28,Maquiagem 263
+45,Ferramentas,222.83,Chave de fenda 121
+46,Eletrônicos,494.04,TV 873
+47,Móveis,361.49,Cama 449
+48,Brinquedos,56.42,Bicicleta 263
+49,Eletrônicos,461.8,TV 438
+50,Eletrônicos,490.32,Fone de ouvido 509
+51,Esportes,366.23,Tênis de corrida 240
+52,Beleza,176.66,Perfume 697
+53,Móveis,480.27,Guarda-roupa 513
+54,Livros,277.83,Romance 682
+55,Livros,482.82,Biografia 245
+56,Casa e Jardim,291.67,Tapete 420
+57,Móveis,346.2,Sofá 552
+58,Casa e Jardim,361.55,Lâmpada 271
+59,Beleza,205.53,Creme hidratante 255
+60,Beleza,164.22,Shampoo 529
+61,Roupas,257.51,Vestido 337
+62,Livros,92.13,Infantil 468
+63,Móveis,330.05,Mesa 772
+64,Alimentos,377.88,Feijão 855
+65,Casa e Jardim,396.25,Tapete 719
+66,Móveis,14.66,Sofá 895
+67,Livros,20.14,Infantil 735
+68,Beleza,168.02,Perfume 518
+69,Eletrônicos,183.87,TV 510
+70,Alimentos,388.67,Feijão 392
+71,Beleza,411.46,Creme hidratante 730
+72,Casa e Jardim,345.98,Jogo de ferramentas 676
+73,Beleza,213.5,Creme hidratante 453
+74,Casa e Jardim,150.24,Cortina 748
+75,Alimentos,284.78,Feijão 259
+76,Móveis,71.34,Guarda-roupa 396
+77,Móveis,463.75,Cadeira 812
+78,Móveis,119.38,Sofá 409
+79,Esportes,178.42,Raquete de tênis 403
+80,Casa e Jardim,400.19,Tapete 832
+81,Roupas,383.22,Calça 531
+82,Beleza,373.9,Creme hidratante 904
+83,Livros,494.18,Romance 623
+84,Eletrônicos,477.73,TV 982
+85,Roupas,94.31,Sapato 481
+86,Brinquedos,380.68,Bola 946
+87,Alimentos,321.46,Arroz 402
+88,Casa e Jardim,143.35,Tapete 662
+89,Ferramentas,19.96,Furadeira 442
+90,Ferramentas,180.52,Martelo 245
+91,Esportes,252.45,Tênis de corrida 450
+92,Esportes,175.03,Tênis de corrida 579
+93,Roupas,76.76,Calça 458
+94,Móveis,157.03,Cama 868
+95,Roupas,468.89,Camiseta 373
+96,Brinquedos,175.61,Bicicleta 243
+97,Brinquedos,226.79,Jogo de tabuleiro 675
+98,Eletrônicos,320.67,Fone de ouvido 167
+99,Móveis,350.19,Mesa 513
+100,Beleza,233.83,Perfume 882
+101,Casa e Jardim,124.82,Vaso de planta 469
+102,Ferramentas,160.09,Furadeira 953
+103,Casa e Jardim,372.94,Jogo de ferramentas 659
+104,Esportes,422.6,Raquete de tênis 927
+105,Brinquedos,352.08,Bola 117
+106,Móveis,109.5,Cama 339
+107,Beleza,470.19,Maquiagem 626
+108,Brinquedos,106.96,Boneca 562
+109,Roupas,453.18,Sapato 399
+110,Móveis,291.73,Mesa 556
+111,Ferramentas,218.51,Serra 156
+112,Esportes,251.72,Tênis de corrida 196
+113,Roupas,420.25,Vestido 718
+114,Beleza,11.28,Perfume 173
+115,Móveis,353.31,Guarda-roupa 271
+116,Brinquedos,423.41,Bicicleta 184
+117,Brinquedos,160.21,Carrinho 226
+118,Livros,424.49,História 571
+119,Brinquedos,232.26,Bicicleta 827
+120,Casa e Jardim,337.41,Lâmpada 992
+121,Alimentos,377.44,Frango 884
+122,Roupas,98.48,Sapato 826
+123,Móveis,399.83,Sofá 618
+124,Esportes,132.43,Tênis de corrida 953
+125,Roupas,276.52,Vestido 551
+126,Esportes,280.08,Raquete de tênis 317
+127,Casa e Jardim,464.98,Lâmpada 152
+128,Alimentos,392.62,Feijão 172
+129,Livros,209.34,Infantil 425
+130,Beleza,279.69,Condicionador 130
+131,Alimentos,124.48,Arroz 810
+132,Livros,14.4,Biografia 363
+133,Roupas,208.33,Calça 769
+134,Ferramentas,150.99,Martelo 973
+135,Beleza,109.06,Condicionador 353
+136,Livros,42.22,Biografia 300
+137,Brinquedos,390.54,Boneca 955
+138,Roupas,18.27,Sapato 524
+139,Livros,201.56,História 953
+140,Alimentos,330.29,Carne 600
+141,Móveis,17.76,Cama 382
+142,Livros,142.53,Infantil 371
+143,Ferramentas,256.82,Serra 736
+144,Beleza,293.73,Condicionador 700
+145,Ferramentas,28.34,Martelo 243
+146,Esportes,240.16,Bola de futebol 562
+147,Alimentos,355.95,Macarrão 146
+148,Esportes,147.79,Skate 771
+149,Livros,233.22,Ficção Científica 224
+150,Esportes,279.32,Raquete de tênis 426
+151,Casa e Jardim,213.99,Vaso de planta 502
+152,Eletrônicos,312.33,Fone de ouvido 867
+153,Alimentos,247.52,Feijão 434
+154,Casa e Jardim,190.11,Tapete 535
+155,Livros,145.95,Biografia 962
+156,Alimentos,113.19,Arroz 169
+157,Ferramentas,438.35,Martelo 813
+158,Ferramentas,262.6,Martelo 364
+159,Ferramentas,176.09,Serra 717
+160,Roupas,22.56,Camiseta 833
+161,Esportes,93.9,Raquete de tênis 225
+162,Brinquedos,385.53,Carrinho 771
+163,Beleza,419.13,Creme hidratante 728
+164,Beleza,444.49,Maquiagem 186
+165,Ferramentas,202.76,Alicate 713
+166,Alimentos,473.65,Feijão 218
+167,Móveis,71.64,Sofá 488
+168,Brinquedos,467.87,Jogo de tabuleiro 562
+169,Livros,14.71,Infantil 655
+170,Brinquedos,331.32,Bicicleta 261
+171,Esportes,347.62,Camisa de time 303
+172,Esportes,230.75,Raquete de tênis 230
+173,Móveis,425.56,Guarda-roupa 556
+174,Beleza,115.34,Perfume 225
+175,Móveis,293.16,Sofá 392
+176,Esportes,135.27,Bola de futebol 538
+177,Móveis,415.58,Cama 270
+178,Eletrônicos,167.31,Smartphone 376
+179,Móveis,317.7,Cadeira 751
+180,Alimentos,257.07,Carne 160
+181,Brinquedos,486.63,Carrinho 702
+182,Livros,145.28,Ficção Científica 975
+183,Casa e Jardim,385.64,Cortina 838
+184,Casa e Jardim,308.9,Cortina 452
+185,Beleza,474.06,Perfume 762
+186,Livros,176.38,Ficção Científica 537
+187,Casa e Jardim,172.53,Cortina 914
+188,Roupas,11.42,Sapato 611
+189,Beleza,28.11,Creme hidratante 340
+190,Beleza,165.11,Shampoo 524
+191,Livros,100.12,Ficção Científica 656
+192,Esportes,258.34,Bola de futebol 141
+193,Roupas,451.98,Vestido 382
+194,Livros,251.29,Infantil 820
+195,Móveis,25.28,Cama 212
+196,Casa e Jardim,227.99,Tapete 217
+197,Ferramentas,379.46,Chave de fenda 564
+198,Alimentos,128.58,Carne 666
+199,Alimentos,482.52,Arroz 133
+200,Esportes,355.22,Raquete de tênis 534
+201,Eletrônicos,373.45,TV 480
+202,Roupas,139.57,Sapato 304
+203,Alimentos,153.09,Macarrão 593
+204,Ferramentas,95.76,Furadeira 307
+205,Móveis,435.99,Cama 101
+206,Esportes,145.54,Tênis de corrida 233
+207,Casa e Jardim,278.52,Jogo de ferramentas 506
+208,Roupas,183.33,Vestido 387
+209,Ferramentas,378.25,Martelo 990
+210,Móveis,193.37,Mesa 829
+211,Esportes,281.31,Skate 564
+212,Livros,379.5,Infantil 730
+213,Brinquedos,325.43,Bicicleta 566
+214,Roupas,269.5,Calça 400
+215,Eletrônicos,160.25,Câmera 884
+216,Livros,378.18,Biografia 945
+217,Eletrônicos,54.71,Smartphone 690
+218,Roupas,167.71,Camiseta 723
+219,Beleza,91.37,Creme hidratante 221
+220,Livros,15.73,Ficção Científica 625
+221,Beleza,170.61,Maquiagem 105
+222,Eletrônicos,485.34,Fone de ouvido 665
+223,Casa e Jardim,105.91,Cortina 318
+224,Esportes,249.55,Bola de futebol 282
+225,Alimentos,13.65,Frango 152
+226,Brinquedos,46.17,Bola 435
+227,Alimentos,51.38,Feijão 704
+228,Eletrônicos,240.82,Notebook 766
+229,Ferramentas,180.39,Alicate 340
+230,Livros,15.53,Infantil 452
+231,Ferramentas,488.81,Martelo 590
+232,Beleza,27.83,Perfume 483
+233,Eletrônicos,188.26,Câmera 914
+234,Brinquedos,197.7,Jogo de tabuleiro 243
+235,Esportes,331.44,Skate 924
+236,Brinquedos,92.75,Bola 280
+237,Esportes,195.37,Bola de futebol 922
+238,Móveis,154.84,Mesa 373
+239,Livros,16.91,História 775
+240,Beleza,391.91,Creme hidratante 958
+241,Esportes,251.47,Camisa de time 116
+242,Beleza,168.93,Condicionador 227
+243,Casa e Jardim,107.02,Vaso de planta 152
+244,Casa e Jardim,368.59,Lâmpada 623
+245,Eletrônicos,91.89,TV 799
+246,Ferramentas,290.52,Chave de fenda 808
+247,Eletrônicos,153.63,TV 841
+248,Beleza,350.51,Creme hidratante 497
+249,Brinquedos,416.03,Bola 973
+250,Ferramentas,179.51,Martelo 155
+251,Alimentos,331.19,Feijão 160
+252,Móveis,24.32,Sofá 352
+253,Roupas,68.49,Camiseta 753
+254,Roupas,404.04,Jaqueta 738
+255,Eletrônicos,324.2,Notebook 938
+256,Livros,427.35,Romance 350
+257,Casa e Jardim,78.42,Lâmpada 687
+258,Roupas,174.48,Sapato 504
+259,Casa e Jardim,413.29,Vaso de planta 380
+260,Beleza,349.82,Maquiagem 621
+261,Esportes,283.94,Camisa de time 798
+262,Ferramentas,485.34,Chave de fenda 896
+263,Ferramentas,372.74,Alicate 722
+264,Casa e Jardim,199.31,Lâmpada 956
+265,Alimentos,428.34,Frango 480
+266,Ferramentas,198.76,Martelo 463
+267,Brinquedos,179.09,Carrinho 115
+268,Brinquedos,330.58,Carrinho 866
+269,Roupas,306.23,Camiseta 851
+270,Alimentos,322.47,Frango 454
+271,Móveis,325.89,Cama 202
+272,Eletrônicos,80.18,TV 713
+273,Roupas,481.49,Jaqueta 735
+274,Casa e Jardim,112.94,Vaso de planta 490
+275,Livros,232.34,Romance 110
+276,Beleza,13.63,Shampoo 397
+277,Brinquedos,459.64,Jogo de tabuleiro 559
+278,Esportes,49.04,Camisa de time 578
+279,Brinquedos,26.18,Bicicleta 988
+280,Livros,55.08,Infantil 230
+281,Ferramentas,486.45,Serra 315
+282,Livros,456.53,Ficção Científica 167
+283,Roupas,356.06,Vestido 730
+284,Brinquedos,203.61,Bola 248
+285,Eletrônicos,290.77,Fone de ouvido 499
+286,Esportes,28.96,Bola de futebol 939
+287,Roupas,410.56,Sapato 255
+288,Móveis,188.68,Cama 947
+289,Eletrônicos,209.18,Câmera 140
+290,Brinquedos,216.79,Bola 403
+291,Casa e Jardim,49.01,Cortina 870
+292,Ferramentas,255.52,Alicate 689
+293,Eletrônicos,150.12,TV 952
+294,Alimentos,64.6,Arroz 289
+295,Beleza,305.13,Creme hidratante 829
+296,Roupas,407.59,Vestido 668
+297,Esportes,245.13,Raquete de tênis 194
+298,Esportes,98.08,Tênis de corrida 898
+299,Brinquedos,460.31,Bicicleta 826
+300,Eletrônicos,285.7,Fone de ouvido 508
+301,Livros,305.27,Biografia 573
+302,Roupas,243.08,Jaqueta 875
+303,Ferramentas,88.97,Chave de fenda 266
+304,Beleza,192.05,Shampoo 952
+305,Roupas,158.24,Jaqueta 763
+306,Livros,434.3,Biografia 889
+307,Roupas,18.16,Jaqueta 638
+308,Roupas,122.27,Jaqueta 732
+309,Ferramentas,15.53,Serra 665
+310,Brinquedos,179.37,Carrinho 176
+311,Brinquedos,191.76,Boneca 130
+312,Livros,422.17,Infantil 449
+313,Casa e Jardim,357.03,Vaso de planta 808
+314,Beleza,309.65,Perfume 770
+315,Casa e Jardim,244.48,Cortina 896
+316,Alimentos,183.46,Macarrão 708
+317,Roupas,16.01,Vestido 492
+318,Esportes,490.83,Skate 171
+319,Brinquedos,343.19,Bola 206
+320,Livros,371.33,Biografia 201
+321,Casa e Jardim,456.95,Vaso de planta 625
+322,Roupas,353.99,Camiseta 306
+323,Móveis,132.33,Guarda-roupa 465
+324,Ferramentas,24.63,Martelo 944
+325,Casa e Jardim,128.73,Cortina 496
+326,Beleza,455.65,Condicionador 444
+327,Livros,191.04,Infantil 337
+328,Móveis,191.54,Guarda-roupa 133
+329,Alimentos,151.71,Macarrão 882
+330,Casa e Jardim,464.81,Jogo de ferramentas 928
+331,Livros,205.23,Ficção Científica 624
+332,Esportes,399.66,Bola de futebol 107
+333,Beleza,146.52,Condicionador 367
+334,Casa e Jardim,167.33,Jogo de ferramentas 627
+335,Livros,418.26,História 891
+336,Móveis,257.48,Cadeira 974
+337,Beleza,108.39,Perfume 413
+338,Esportes,474.68,Tênis de corrida 310
+339,Livros,108.49,Romance 839
+340,Brinquedos,356.96,Jogo de tabuleiro 298
+341,Alimentos,169.91,Feijão 661
+342,Ferramentas,223.1,Chave de fenda 496
+343,Beleza,246.86,Maquiagem 746
+344,Móveis,246.57,Mesa 329
+345,Roupas,310.14,Calça 461
+346,Livros,206.47,História 489
+347,Beleza,84.2,Creme hidratante 151
+348,Eletrônicos,77.17,Câmera 427
+349,Casa e Jardim,472.52,Tapete 220
+350,Alimentos,335.21,Frango 835
+351,Eletrônicos,381.55,Smartphone 953
+352,Casa e Jardim,386.63,Jogo de ferramentas 545
+353,Casa e Jardim,145.97,Jogo de ferramentas 767
+354,Eletrônicos,349.57,Fone de ouvido 577
+355,Beleza,390.84,Maquiagem 731
+356,Móveis,198.59,Guarda-roupa 235
+357,Móveis,435.38,Mesa 906
+358,Beleza,151.72,Maquiagem 955
+359,Casa e Jardim,27.12,Lâmpada 739
+360,Livros,379.97,Ficção Científica 474
+361,Ferramentas,63.62,Martelo 412
+362,Esportes,73.7,Bola de futebol 102
+363,Roupas,262.57,Sapato 969
+364,Esportes,225.8,Skate 443
+365,Brinquedos,17.55,Bola 910
+366,Livros,402.59,História 122
+367,Beleza,120.49,Shampoo 657
+368,Móveis,239.52,Mesa 662
+369,Móveis,210.55,Cadeira 231
+370,Esportes,91.6,Tênis de corrida 822
+371,Livros,320.61,Infantil 364
+372,Alimentos,105.28,Frango 319
+373,Ferramentas,285.72,Furadeira 592
+374,Móveis,32.04,Sofá 881
+375,Roupas,405.48,Jaqueta 971
+376,Móveis,62.26,Sofá 717
+377,Eletrônicos,211.91,Fone de ouvido 927
+378,Alimentos,346.33,Feijão 126
+379,Eletrônicos,44.83,Notebook 863
+380,Ferramentas,402.48,Serra 518
+381,Esportes,497.71,Camisa de time 765
+382,Móveis,414.75,Mesa 590
+383,Móveis,301.01,Guarda-roupa 558
+384,Brinquedos,284.41,Bicicleta 165
+385,Livros,106.96,Infantil 822
+386,Roupas,254.53,Vestido 764
+387,Alimentos,294.62,Arroz 524
+388,Eletrônicos,462.2,Câmera 457
+389,Alimentos,262.69,Macarrão 555
+390,Esportes,240.38,Bola de futebol 702
+391,Alimentos,323.86,Frango 220
+392,Casa e Jardim,163.7,Jogo de ferramentas 652
+393,Roupas,194.85,Camiseta 536
+394,Livros,429.69,História 305
+395,Livros,320.54,Biografia 407
+396,Eletrônicos,330.41,Smartphone 663
+397,Eletrônicos,350.44,TV 154
+398,Alimentos,253.76,Carne 722
+399,Alimentos,41.22,Macarrão 374
+400,Alimentos,203.88,Feijão 200
+401,Livros,309.7,Biografia 167
+402,Esportes,418.3,Tênis de corrida 523
+403,Roupas,31.33,Camiseta 901
+404,Livros,66.08,Romance 241
+405,Casa e Jardim,348.03,Lâmpada 814
+406,Casa e Jardim,195.09,Cortina 822
+407,Brinquedos,274.97,Bola 436
+408,Brinquedos,314.76,Bola 458
+409,Roupas,300.15,Jaqueta 999
+410,Eletrônicos,231.06,Smartphone 699
+411,Livros,13.19,Romance 718
+412,Móveis,341.74,Guarda-roupa 720
+413,Beleza,52.37,Condicionador 172
+414,Roupas,187.35,Camiseta 801
+415,Eletrônicos,339.7,Câmera 332
+416,Casa e Jardim,215.99,Tapete 684
+417,Esportes,310.53,Tênis de corrida 539
+418,Brinquedos,321.11,Boneca 736
+419,Móveis,479.97,Sofá 641
+420,Eletrônicos,257.76,Smartphone 920
+421,Livros,368.29,História 663
+422,Casa e Jardim,352.88,Jogo de ferramentas 962
+423,Casa e Jardim,141.96,Tapete 908
+424,Casa e Jardim,412.23,Vaso de planta 207
+425,Casa e Jardim,103.57,Jogo de ferramentas 190
+426,Beleza,158.82,Condicionador 627
+427,Beleza,479.17,Perfume 451
+428,Alimentos,183.06,Macarrão 470
+429,Alimentos,255.35,Arroz 164
+430,Brinquedos,388.41,Bicicleta 131
+431,Livros,203.19,Ficção Científica 736
+432,Alimentos,293.34,Frango 773
+433,Móveis,158.95,Sofá 827
+434,Esportes,319.39,Skate 999
+435,Brinquedos,444.2,Carrinho 844
+436,Móveis,279.86,Cadeira 659
+437,Livros,471.58,Romance 115
+438,Beleza,130.93,Perfume 426
+439,Ferramentas,437.1,Chave de fenda 180
+440,Eletrônicos,336.62,Notebook 211
+441,Livros,107.93,Romance 467
+442,Roupas,420.93,Camiseta 829
+443,Beleza,96.79,Condicionador 437
+444,Roupas,368.28,Jaqueta 160
+445,Móveis,459.02,Mesa 359
+446,Eletrônicos,200.22,TV 893
+447,Eletrônicos,372.71,Smartphone 289
+448,Alimentos,273.3,Feijão 433
+449,Roupas,227.89,Vestido 496
+450,Roupas,314.03,Jaqueta 674
+451,Brinquedos,223.16,Jogo de tabuleiro 367
+452,Livros,27.67,Ficção Científica 447
+453,Brinquedos,375.13,Carrinho 645
+454,Livros,232.92,História 652
+455,Brinquedos,122.44,Bicicleta 453
+456,Roupas,230.77,Calça 108
+457,Casa e Jardim,50.93,Lâmpada 692
+458,Móveis,446.8,Cadeira 893
+459,Alimentos,185.96,Feijão 603
+460,Roupas,22.18,Camiseta 554
+461,Alimentos,75.28,Carne 738
+462,Móveis,242.6,Cadeira 921
+463,Alimentos,98.2,Arroz 936
+464,Eletrônicos,133.04,Notebook 535
+465,Roupas,202.37,Vestido 719
+466,Beleza,423.05,Shampoo 673
+467,Alimentos,70.65,Frango 298
+468,Casa e Jardim,452.21,Cortina 948
+469,Beleza,100.07,Creme hidratante 348
+470,Móveis,407.16,Guarda-roupa 928
+471,Livros,173.85,Biografia 645
+472,Casa e Jardim,205.88,Lâmpada 306
+473,Eletrônicos,284.3,TV 453
+474,Móveis,499.82,Guarda-roupa 895
+475,Brinquedos,52.56,Bicicleta 186
+476,Livros,480.53,Biografia 912
+477,Casa e Jardim,81.03,Vaso de planta 941
+478,Ferramentas,337.61,Chave de fenda 130
+479,Brinquedos,487.34,Bola 924
+480,Esportes,430.47,Raquete de tênis 404
+481,Casa e Jardim,51.54,Jogo de ferramentas 671
+482,Casa e Jardim,236.17,Jogo de ferramentas 700
+483,Roupas,219.57,Camiseta 385
+484,Casa e Jardim,220.49,Jogo de ferramentas 374
+485,Brinquedos,388.45,Bola 312
+486,Beleza,242.95,Maquiagem 326
+487,Roupas,160.03,Calça 483
+488,Ferramentas,274.28,Alicate 974
+489,Brinquedos,22.59,Boneca 682
+490,Casa e Jardim,26.28,Lâmpada 581
+491,Brinquedos,25.33,Boneca 387
+492,Beleza,375.64,Creme hidratante 904
+493,Esportes,289.06,Tênis de corrida 608
+494,Casa e Jardim,87.5,Cortina 262
+495,Esportes,140.56,Bola de futebol 805
+496,Ferramentas,144.82,Alicate 832
+497,Esportes,76.21,Bola de futebol 184
+498,Beleza,188.39,Shampoo 422
+499,Móveis,104.28,Mesa 589
+500,Esportes,350.27,Skate 822
+501,Esportes,139.52,Camisa de time 415
+502,Móveis,291.94,Sofá 766
+503,Eletrônicos,235.73,TV 434
+504,Esportes,75.3,Raquete de tênis 292
+505,Livros,165.0,História 483
+506,Livros,496.52,Infantil 848
+507,Alimentos,32.3,Arroz 552
+508,Eletrônicos,112.28,Smartphone 103
+509,Ferramentas,84.76,Chave de fenda 794
+510,Ferramentas,274.14,Furadeira 370
+511,Beleza,51.08,Creme hidratante 106
+512,Alimentos,33.7,Carne 391
+513,Brinquedos,181.22,Boneca 281
+514,Brinquedos,201.67,Bicicleta 670
+515,Alimentos,227.41,Carne 969
+516,Ferramentas,22.33,Martelo 781
+517,Eletrônicos,378.98,Smartphone 508
+518,Esportes,236.03,Bola de futebol 611
+519,Eletrônicos,103.38,Notebook 857
+520,Brinquedos,365.39,Carrinho 308
+521,Eletrônicos,193.92,TV 534
+522,Livros,121.73,Biografia 478
+523,Móveis,91.84,Sofá 825
+524,Brinquedos,39.39,Jogo de tabuleiro 143
+525,Alimentos,78.04,Arroz 451
+526,Casa e Jardim,356.8,Jogo de ferramentas 892
+527,Alimentos,246.66,Arroz 512
+528,Brinquedos,91.4,Bicicleta 777
+529,Brinquedos,105.91,Jogo de tabuleiro 984
+530,Ferramentas,179.81,Martelo 280
+531,Brinquedos,31.87,Bicicleta 273
+532,Esportes,211.21,Raquete de tênis 719
+533,Móveis,82.84,Cadeira 229
+534,Brinquedos,45.33,Boneca 470
+535,Móveis,385.59,Cadeira 924
+536,Brinquedos,457.74,Bicicleta 581
+537,Beleza,421.65,Shampoo 210
+538,Beleza,68.78,Creme hidratante 624
+539,Roupas,431.54,Vestido 268
+540,Esportes,44.59,Bola de futebol 113
+541,Móveis,430.21,Mesa 802
+542,Alimentos,481.3,Frango 206
+543,Roupas,372.29,Vestido 318
+544,Móveis,228.05,Mesa 704
+545,Ferramentas,13.28,Serra 177
+546,Eletrônicos,194.73,Câmera 839
+547,Móveis,64.81,Sofá 649
+548,Livros,141.22,Infantil 725
+549,Ferramentas,448.55,Furadeira 583
+550,Alimentos,306.85,Macarrão 725
+551,Livros,342.57,Infantil 746
+552,Eletrônicos,104.77,Smartphone 752
+553,Beleza,335.02,Maquiagem 137
+554,Roupas,144.49,Calça 279
+555,Esportes,464.46,Raquete de tênis 528
+556,Casa e Jardim,293.66,Cortina 491
+557,Brinquedos,480.72,Carrinho 288
+558,Móveis,236.69,Cadeira 257
+559,Brinquedos,101.55,Bicicleta 971
+560,Móveis,306.19,Sofá 416
+561,Esportes,257.27,Tênis de corrida 922
+562,Eletrônicos,140.35,Notebook 955
+563,Brinquedos,431.7,Boneca 176
+564,Esportes,466.78,Skate 557
+565,Esportes,478.19,Raquete de tênis 322
+566,Móveis,163.01,Cama 197
+567,Casa e Jardim,376.26,Lâmpada 495
+568,Casa e Jardim,68.11,Cortina 432
+569,Alimentos,120.56,Carne 736
+570,Eletrônicos,74.71,TV 555
+571,Livros,123.88,Biografia 509
+572,Roupas,84.83,Camiseta 175
+573,Brinquedos,35.33,Jogo de tabuleiro 366
+574,Casa e Jardim,272.07,Tapete 876
+575,Casa e Jardim,341.43,Cortina 186
+576,Esportes,453.43,Raquete de tênis 322
+577,Livros,441.83,Ficção Científica 582
+578,Beleza,254.26,Perfume 265
+579,Casa e Jardim,400.84,Lâmpada 127
+580,Eletrônicos,183.74,Notebook 333
+581,Casa e Jardim,32.19,Cortina 565
+582,Móveis,224.5,Cadeira 711
+583,Livros,65.33,História 921
+584,Roupas,257.99,Calça 691
+585,Livros,489.92,História 197
+586,Móveis,303.56,Guarda-roupa 382
+587,Roupas,62.02,Camiseta 818
+588,Ferramentas,25.6,Alicate 942
+589,Roupas,52.95,Sapato 252
+590,Roupas,459.1,Calça 760
+591,Casa e Jardim,436.59,Jogo de ferramentas 999
+592,Brinquedos,175.26,Bicicleta 655
+593,Livros,209.78,História 962
+594,Roupas,28.2,Calça 885
+595,Livros,396.54,História 375
+596,Beleza,131.73,Condicionador 304
+597,Eletrônicos,413.99,Notebook 381
+598,Ferramentas,55.02,Furadeira 679
+599,Roupas,56.26,Jaqueta 754
+600,Móveis,489.56,Cadeira 799
+601,Móveis,117.64,Cama 420
+602,Beleza,22.06,Condicionador 269
+603,Beleza,489.26,Perfume 143
+604,Alimentos,169.56,Frango 557
+605,Casa e Jardim,437.81,Lâmpada 697
+606,Alimentos,138.63,Frango 876
+607,Beleza,390.49,Maquiagem 641
+608,Livros,379.77,Infantil 592
+609,Ferramentas,301.53,Chave de fenda 658
+610,Brinquedos,462.93,Bola 530
+611,Ferramentas,97.88,Chave de fenda 286
+612,Esportes,300.7,Raquete de tênis 511
+613,Roupas,431.27,Sapato 930
+614,Eletrônicos,175.57,TV 282
+615,Móveis,284.04,Guarda-roupa 374
+616,Livros,145.55,Biografia 682
+617,Beleza,432.52,Perfume 207
+618,Esportes,254.4,Raquete de tênis 871
+619,Eletrônicos,198.35,Câmera 270
+620,Beleza,263.5,Maquiagem 584
+621,Esportes,168.0,Camisa de time 761
+622,Móveis,293.25,Sofá 316
+623,Brinquedos,446.21,Boneca 906
+624,Roupas,452.54,Sapato 658
+625,Livros,77.67,Biografia 229
+626,Beleza,150.43,Perfume 303
+627,Alimentos,246.22,Macarrão 303
+628,Casa e Jardim,482.87,Lâmpada 700
+629,Esportes,437.31,Raquete de tênis 466
+630,Móveis,75.48,Guarda-roupa 464
+631,Esportes,11.86,Camisa de time 962
+632,Móveis,49.24,Cadeira 810
+633,Livros,302.62,Romance 139
+634,Móveis,356.47,Cama 585
+635,Livros,404.76,Romance 473
+636,Móveis,216.86,Mesa 972
+637,Beleza,362.59,Maquiagem 277
+638,Ferramentas,46.59,Furadeira 834
+639,Roupas,21.65,Vestido 383
+640,Ferramentas,193.86,Chave de fenda 260
+641,Brinquedos,298.82,Carrinho 924
+642,Esportes,300.6,Skate 293
+643,Esportes,384.43,Skate 861
+644,Roupas,426.17,Calça 863
+645,Móveis,485.35,Guarda-roupa 466
+646,Livros,96.89,Biografia 779
+647,Alimentos,191.09,Arroz 618
+648,Brinquedos,407.62,Jogo de tabuleiro 309
+649,Roupas,217.62,Calça 662
+650,Móveis,431.3,Cama 523
+651,Casa e Jardim,176.95,Lâmpada 983
+652,Casa e Jardim,252.05,Lâmpada 758
+653,Móveis,176.18,Cadeira 761
+654,Livros,365.92,Romance 974
+655,Livros,157.28,Ficção Científica 291
+656,Ferramentas,274.86,Furadeira 835
+657,Móveis,270.65,Cama 352
+658,Roupas,462.78,Vestido 498
+659,Esportes,485.2,Camisa de time 666
+660,Esportes,177.33,Bola de futebol 508
+661,Alimentos,395.32,Feijão 943
+662,Ferramentas,455.93,Serra 224
+663,Livros,18.78,Ficção Científica 721
+664,Alimentos,12.9,Carne 213
+665,Livros,219.86,Biografia 877
+666,Roupas,138.89,Camiseta 841
+667,Alimentos,172.85,Frango 462
+668,Esportes,452.31,Skate 439
+669,Ferramentas,487.76,Chave de fenda 232
+670,Ferramentas,150.47,Alicate 312
+671,Móveis,354.72,Cama 434
+672,Livros,491.91,Romance 661
+673,Livros,431.4,Ficção Científica 157
+674,Alimentos,275.85,Macarrão 577
+675,Esportes,318.62,Tênis de corrida 943
+676,Brinquedos,409.9,Carrinho 928
+677,Eletrônicos,110.56,Câmera 741
+678,Livros,422.9,Infantil 902
+679,Brinquedos,81.31,Bicicleta 651
+680,Ferramentas,243.27,Alicate 517
+681,Brinquedos,497.07,Boneca 945
+682,Casa e Jardim,152.94,Cortina 100
+683,Casa e Jardim,178.2,Cortina 772
+684,Alimentos,267.78,Arroz 495
+685,Brinquedos,48.34,Bicicleta 531
+686,Alimentos,230.23,Arroz 286
+687,Esportes,308.91,Skate 654
+688,Livros,312.95,Infantil 698
+689,Móveis,182.86,Cama 589
+690,Livros,309.51,História 347
+691,Ferramentas,113.65,Chave de fenda 719
+692,Brinquedos,384.94,Jogo de tabuleiro 409
+693,Esportes,105.56,Bola de futebol 420
+694,Móveis,401.67,Mesa 751
+695,Eletrônicos,428.74,TV 351
+696,Roupas,127.14,Calça 290
+697,Casa e Jardim,334.58,Cortina 307
+698,Ferramentas,289.18,Alicate 897
+699,Alimentos,38.87,Feijão 824
+700,Roupas,310.49,Sapato 198
+701,Esportes,435.76,Tênis de corrida 885
+702,Alimentos,146.75,Arroz 577
+703,Beleza,432.61,Maquiagem 831
+704,Livros,277.01,Infantil 891
+705,Ferramentas,67.14,Chave de fenda 723
+706,Alimentos,489.92,Carne 946
+707,Eletrônicos,166.5,Smartphone 400
+708,Brinquedos,425.35,Jogo de tabuleiro 622
+709,Ferramentas,361.09,Chave de fenda 453
+710,Brinquedos,193.31,Jogo de tabuleiro 563
+711,Ferramentas,17.26,Furadeira 990
+712,Roupas,460.31,Camiseta 187
+713,Beleza,173.97,Shampoo 113
+714,Casa e Jardim,21.54,Cortina 444
+715,Roupas,471.54,Camiseta 900
+716,Eletrônicos,10.55,Smartphone 819
+717,Roupas,226.18,Vestido 780
+718,Brinquedos,357.24,Boneca 880
+719,Beleza,398.67,Shampoo 749
+720,Móveis,188.58,Cadeira 511
+721,Móveis,356.19,Mesa 792
+722,Brinquedos,255.97,Bola 835
+723,Roupas,267.73,Jaqueta 946
+724,Roupas,124.58,Sapato 434
+725,Eletrônicos,384.53,TV 227
+726,Beleza,380.84,Creme hidratante 649
+727,Livros,216.43,Biografia 601
+728,Livros,215.55,Ficção Científica 388
+729,Roupas,395.78,Vestido 410
+730,Brinquedos,59.59,Boneca 500
+731,Esportes,212.06,Skate 365
+732,Casa e Jardim,256.52,Tapete 534
+733,Beleza,69.69,Shampoo 815
+734,Ferramentas,465.54,Furadeira 568
+735,Alimentos,46.69,Carne 290
+736,Beleza,169.94,Perfume 619
+737,Livros,143.6,História 488
+738,Eletrônicos,304.9,Smartphone 730
+739,Livros,485.71,Infantil 981
+740,Alimentos,257.98,Macarrão 777
+741,Roupas,310.48,Jaqueta 609
+742,Brinquedos,349.8,Bicicleta 998
+743,Beleza,138.09,Maquiagem 755
+744,Alimentos,418.86,Feijão 568
+745,Móveis,304.68,Sofá 995
+746,Beleza,400.16,Condicionador 391
+747,Eletrônicos,76.87,Smartphone 546
+748,Eletrônicos,421.42,Smartphone 688
+749,Alimentos,167.75,Carne 526
+750,Móveis,370.97,Cama 111
+751,Beleza,159.51,Maquiagem 184
+752,Esportes,198.26,Raquete de tênis 258
+753,Ferramentas,249.92,Serra 297
+754,Beleza,345.62,Shampoo 921
+755,Alimentos,273.49,Carne 345
+756,Móveis,478.34,Cadeira 794
+757,Casa e Jardim,155.2,Cortina 910
+758,Livros,433.87,História 426
+759,Alimentos,160.87,Carne 845
+760,Ferramentas,372.67,Serra 146
+761,Casa e Jardim,152.7,Jogo de ferramentas 385
+762,Roupas,239.83,Sapato 929
+763,Beleza,239.22,Maquiagem 566
+764,Livros,252.7,Biografia 673
+765,Eletrônicos,451.05,Notebook 195
+766,Esportes,488.66,Bola de futebol 553
+767,Esportes,239.98,Tênis de corrida 327
+768,Livros,359.25,Infantil 542
+769,Beleza,78.69,Perfume 484
+770,Esportes,383.0,Skate 567
+771,Casa e Jardim,263.25,Vaso de planta 546
+772,Casa e Jardim,83.98,Tapete 415
+773,Brinquedos,104.79,Jogo de tabuleiro 924
+774,Eletrônicos,383.11,Fone de ouvido 885
+775,Eletrônicos,64.5,Smartphone 705
+776,Ferramentas,285.51,Furadeira 495
+777,Alimentos,351.0,Arroz 498
+778,Eletrônicos,404.1,Fone de ouvido 210
+779,Ferramentas,349.2,Alicate 263
+780,Casa e Jardim,87.11,Jogo de ferramentas 713
+781,Livros,69.26,Ficção Científica 432
+782,Ferramentas,119.44,Furadeira 106
+783,Livros,337.81,Ficção Científica 971
+784,Esportes,273.98,Skate 577
+785,Alimentos,176.16,Arroz 218
+786,Móveis,393.71,Guarda-roupa 420
+787,Brinquedos,21.2,Carrinho 661
+788,Roupas,107.07,Calça 329
+789,Roupas,391.19,Sapato 546
+790,Ferramentas,80.8,Furadeira 775
+791,Brinquedos,30.74,Bicicleta 793
+792,Eletrônicos,188.36,TV 522
+793,Esportes,49.89,Camisa de time 668
+794,Ferramentas,257.57,Chave de fenda 239
+795,Móveis,491.69,Cadeira 461
+796,Casa e Jardim,236.01,Cortina 895
+797,Ferramentas,350.61,Chave de fenda 188
+798,Roupas,435.4,Camiseta 488
+799,Casa e Jardim,465.9,Cortina 560
+800,Eletrônicos,316.58,Câmera 519
+801,Ferramentas,364.16,Furadeira 352
+802,Beleza,321.56,Creme hidratante 338
+803,Livros,12.98,Romance 700
+804,Eletrônicos,10.04,TV 270
+805,Móveis,407.54,Sofá 248
+806,Alimentos,488.48,Frango 325
+807,Livros,128.92,História 636
+808,Ferramentas,354.23,Alicate 695
+809,Brinquedos,110.19,Jogo de tabuleiro 657
+810,Beleza,336.44,Shampoo 942
+811,Ferramentas,311.72,Furadeira 626
+812,Livros,55.22,Ficção Científica 516
+813,Brinquedos,236.93,Jogo de tabuleiro 909
+814,Ferramentas,51.93,Furadeira 812
+815,Beleza,62.89,Shampoo 640
+816,Esportes,276.74,Camisa de time 371
+817,Móveis,246.61,Cadeira 517
+818,Casa e Jardim,298.87,Lâmpada 467
+819,Livros,20.11,Ficção Científica 930
+820,Móveis,469.48,Guarda-roupa 813
+821,Livros,420.61,Ficção Científica 764
+822,Roupas,157.93,Vestido 164
+823,Roupas,275.88,Vestido 785
+824,Móveis,192.27,Guarda-roupa 691
+825,Beleza,463.3,Perfume 660
+826,Brinquedos,481.57,Jogo de tabuleiro 897
+827,Brinquedos,94.15,Bola 933
+828,Livros,152.01,História 401
+829,Brinquedos,412.69,Boneca 708
+830,Roupas,427.3,Jaqueta 286
+831,Esportes,319.58,Raquete de tênis 915
+832,Beleza,197.34,Maquiagem 441
+833,Alimentos,236.95,Frango 986
+834,Esportes,132.8,Camisa de time 917
+835,Roupas,108.63,Camiseta 325
+836,Esportes,130.81,Camisa de time 110
+837,Eletrônicos,90.18,TV 446
+838,Ferramentas,444.38,Furadeira 806
+839,Ferramentas,299.03,Furadeira 525
+840,Casa e Jardim,80.61,Vaso de planta 261
+841,Alimentos,438.77,Macarrão 499
+842,Alimentos,486.56,Frango 798
+843,Móveis,226.0,Sofá 367
+844,Beleza,64.97,Condicionador 788
+845,Eletrônicos,138.56,Câmera 924
+846,Livros,450.9,Ficção Científica 241
+847,Beleza,193.16,Shampoo 175
+848,Ferramentas,240.39,Furadeira 532
+849,Beleza,335.49,Perfume 617
+850,Ferramentas,39.41,Martelo 988
+851,Alimentos,429.36,Frango 702
+852,Alimentos,238.92,Feijão 270
+853,Ferramentas,115.36,Chave de fenda 531
+854,Casa e Jardim,421.16,Cortina 194
+855,Beleza,236.43,Creme hidratante 715
+856,Roupas,216.69,Jaqueta 931
+857,Roupas,499.42,Calça 319
+858,Alimentos,69.26,Frango 534
+859,Livros,292.79,Biografia 192
+860,Alimentos,413.91,Macarrão 438
+861,Beleza,95.07,Maquiagem 349
+862,Brinquedos,59.0,Bola 773
+863,Livros,83.03,Ficção Científica 172
+864,Roupas,191.85,Sapato 478
+865,Eletrônicos,217.29,TV 253
+866,Livros,339.4,Biografia 807
+867,Brinquedos,376.56,Carrinho 576
+868,Beleza,483.62,Perfume 255
+869,Alimentos,175.95,Macarrão 728
+870,Casa e Jardim,258.47,Cortina 856
+871,Roupas,118.34,Sapato 296
+872,Beleza,467.16,Perfume 794
+873,Eletrônicos,421.48,Fone de ouvido 803
+874,Livros,383.62,Infantil 254
+875,Esportes,499.0,Camisa de time 547
+876,Livros,484.29,História 560
+877,Esportes,115.86,Raquete de tênis 376
+878,Eletrônicos,395.58,Fone de ouvido 398
+879,Esportes,271.01,Bola de futebol 355
+880,Ferramentas,465.68,Serra 754
+881,Casa e Jardim,483.52,Cortina 401
+882,Livros,219.28,Biografia 448
+883,Eletrônicos,317.92,Smartphone 561
+884,Brinquedos,316.91,Jogo de tabuleiro 564
+885,Ferramentas,119.5,Alicate 700
+886,Brinquedos,441.15,Bola 979
+887,Casa e Jardim,337.32,Vaso de planta 937
+888,Esportes,405.11,Tênis de corrida 227
+889,Livros,309.55,Infantil 481
+890,Ferramentas,395.07,Serra 723
+891,Ferramentas,424.42,Serra 960
+892,Brinquedos,454.79,Bola 332
+893,Esportes,226.1,Camisa de time 902
+894,Eletrônicos,120.2,Fone de ouvido 531
+895,Casa e Jardim,466.4,Vaso de planta 237
+896,Esportes,440.63,Camisa de time 679
+897,Alimentos,173.93,Macarrão 760
+898,Beleza,264.45,Perfume 805
+899,Móveis,153.89,Cama 486
+900,Esportes,104.77,Skate 846
+901,Livros,288.15,Biografia 871
+902,Livros,177.45,Ficção Científica 331
+903,Beleza,35.06,Creme hidratante 802
+904,Beleza,461.08,Creme hidratante 837
+905,Roupas,127.63,Vestido 500
+906,Livros,405.56,História 369
+907,Ferramentas,65.09,Chave de fenda 250
+908,Alimentos,474.75,Macarrão 783
+909,Livros,124.37,Biografia 825
+910,Livros,248.17,Romance 640
+911,Brinquedos,156.55,Bicicleta 253
+912,Livros,409.45,História 644
+913,Beleza,412.32,Condicionador 570
+914,Casa e Jardim,166.22,Cortina 864
+915,Livros,265.51,Ficção Científica 232
+916,Móveis,307.72,Cama 290
+917,Roupas,261.73,Calça 643
+918,Roupas,492.09,Jaqueta 917
+919,Alimentos,422.29,Frango 470
+920,Ferramentas,40.4,Furadeira 633
+921,Beleza,269.89,Creme hidratante 731
+922,Casa e Jardim,337.98,Cortina 351
+923,Ferramentas,336.79,Alicate 944
+924,Roupas,115.28,Sapato 806
+925,Roupas,244.46,Vestido 352
+926,Casa e Jardim,428.98,Vaso de planta 568
+927,Eletrônicos,160.89,Câmera 799
+928,Roupas,313.33,Calça 281
+929,Móveis,211.29,Cadeira 855
+930,Eletrônicos,370.33,Smartphone 565
+931,Brinquedos,269.62,Jogo de tabuleiro 800
+932,Ferramentas,154.74,Chave de fenda 783
+933,Eletrônicos,15.11,TV 148
+934,Alimentos,262.24,Frango 770
+935,Alimentos,34.78,Arroz 485
+936,Casa e Jardim,239.99,Jogo de ferramentas 396
+937,Esportes,282.33,Bola de futebol 265
+938,Eletrônicos,397.65,Câmera 856
+939,Ferramentas,441.79,Alicate 284
+940,Eletrônicos,388.77,TV 405
+941,Brinquedos,249.55,Carrinho 302
+942,Livros,422.16,Biografia 879
+943,Ferramentas,293.01,Martelo 631
+944,Roupas,383.12,Jaqueta 483
+945,Alimentos,175.99,Macarrão 218
+946,Eletrônicos,235.0,TV 536
+947,Casa e Jardim,472.96,Tapete 642
+948,Brinquedos,266.77,Bicicleta 283
+949,Livros,29.62,Ficção Científica 497
+950,Brinquedos,115.54,Bola 533
+951,Livros,366.71,Infantil 574
+952,Móveis,266.12,Sofá 448
+953,Eletrônicos,430.36,Fone de ouvido 484
+954,Beleza,55.89,Perfume 779
+955,Casa e Jardim,335.88,Cortina 740
+956,Roupas,172.91,Camiseta 229
+957,Beleza,373.0,Maquiagem 603
+958,Casa e Jardim,454.72,Vaso de planta 579
+959,Casa e Jardim,152.28,Lâmpada 920
+960,Roupas,340.56,Camiseta 526
+961,Esportes,236.33,Tênis de corrida 881
+962,Casa e Jardim,471.42,Lâmpada 482
+963,Brinquedos,316.07,Carrinho 159
+964,Eletrônicos,295.03,Smartphone 500
+965,Esportes,274.64,Camisa de time 385
+966,Eletrônicos,197.88,Câmera 718
+967,Livros,336.85,Infantil 318
+968,Móveis,339.18,Guarda-roupa 921
+969,Eletrônicos,277.25,Smartphone 784
+970,Ferramentas,336.85,Furadeira 734
+971,Brinquedos,173.97,Carrinho 972
+972,Brinquedos,15.18,Bola 452
+973,Alimentos,379.84,Carne 330
+974,Livros,82.33,Biografia 227
+975,Brinquedos,458.96,Bicicleta 182
+976,Esportes,208.44,Bola de futebol 397
+977,Beleza,495.94,Perfume 184
+978,Roupas,266.74,Jaqueta 921
+979,Esportes,184.16,Camisa de time 357
+980,Casa e Jardim,292.64,Vaso de planta 344
+981,Livros,206.92,Biografia 838
+982,Brinquedos,207.86,Boneca 445
+983,Livros,374.05,Biografia 506
+984,Livros,203.91,Ficção Científica 868
+985,Roupas,377.34,Camiseta 436
+986,Esportes,440.75,Skate 116
+987,Livros,355.86,Romance 875
+988,Eletrônicos,310.36,TV 447
+989,Livros,463.84,História 475
+990,Brinquedos,311.01,Bicicleta 309
+991,Beleza,100.58,Maquiagem 336
+992,Ferramentas,63.47,Alicate 843
+993,Móveis,115.89,Cadeira 625
+994,Brinquedos,59.04,Bola 385
+995,Roupas,467.13,Camiseta 190
+996,Livros,305.95,Biografia 413
+997,Brinquedos,350.73,Jogo de tabuleiro 660
+998,Livros,286.21,História 910
+999,Roupas,473.08,Jaqueta 409
+1000,Beleza,177.46,Creme hidratante 310
